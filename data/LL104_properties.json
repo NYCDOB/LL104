@@ -6660,6 +6660,18 @@
 	"LATITUDE_POINT_Y": 40.83226013183594
  },
  {
+	"Bin": 2010347,
+	"House Number": "851",
+	"Street Name": "EAST 169 STREET",
+	"Zip": 10459,
+	"Community Board": 203,
+	"Borough Name": "Bronx",
+	"Block": 2970,
+	"Lot": 10,
+	"LONGITUDE_POINT_X": -73.89717864990234,
+	"LATITUDE_POINT_Y": 40.829410552978516
+ },
+ {
 	"Bin": 2010348,
 	"House Number": "1338",
 	"Street Name": "PROSPECT AVENUE",
@@ -10248,6 +10260,18 @@
 	"LATITUDE_POINT_Y": 40.87350845336914
  },
  {
+	"Bin": 2057282,
+	"House Number": "3560",
+	"Street Name": "OLINVILLE AVENUE",
+	"Zip": 10467,
+	"Community Board": 212,
+	"Borough Name": "Bronx",
+	"Block": 4642,
+	"Lot": 33,
+	"LONGITUDE_POINT_X": -73.86715698242188,
+	"LATITUDE_POINT_Y": 40.87942886352539
+ },
+ {
 	"Bin": 2057346,
 	"House Number": "3645",
 	"Street Name": "OLINVILLE AVENUE",
@@ -11182,6 +11206,18 @@
 	"Lot": 39,
 	"LONGITUDE_POINT_X": -73.85236358642578,
 	"LATITUDE_POINT_Y": 40.888790130615234
+ },
+ {
+	"Bin": 2064965,
+	"House Number": "3980",
+	"Street Name": "PAULDING AVENUE",
+	"Zip": 10466,
+	"Community Board": 212,
+	"Borough Name": "Bronx",
+	"Block": 4872,
+	"Lot": 37,
+	"LONGITUDE_POINT_X": -73.8514404296875,
+	"LATITUDE_POINT_Y": 40.885311126708984
  },
  {
 	"Bin": 2064984,
@@ -16726,6 +16762,18 @@
 	"Lot": 7,
 	"LONGITUDE_POINT_X": -73.90791320800781,
 	"LATITUDE_POINT_Y": 40.680389404296875
+ },
+ {
+	"Bin": 3041766,
+	"House Number": "316",
+	"Street Name": "MAC DOUGAL STREET",
+	"Zip": 11233,
+	"Community Board": 316,
+	"Borough Name": "Brooklyn",
+	"Block": 1535,
+	"Lot": 11,
+	"LONGITUDE_POINT_X": -73.90754699707031,
+	"LATITUDE_POINT_Y": 40.68043899536133
  },
  {
 	"Bin": 3041783,
@@ -33036,6 +33084,18 @@
 	"LATITUDE_POINT_Y": 40.70048904418945
  },
  {
+	"Bin": 4086979,
+	"House Number": "74-25",
+	"Street Name": "62 STREET",
+	"Zip": 11385,
+	"Community Board": 405,
+	"Borough Name": "Queens",
+	"Block": 3595,
+	"Lot": 49,
+	"LONGITUDE_POINT_X": -73.89288330078125,
+	"LATITUDE_POINT_Y": 40.6994514465332
+ },
+ {
 	"Bin": 4087160,
 	"House Number": "74-41",
 	"Street Name": "64 LANE",
@@ -35494,17 +35554,5 @@
 	"Lot": 120,
 	"LONGITUDE_POINT_X": -74.09490203857422,
 	"LATITUDE_POINT_Y": 40.618839263916016
- },
- {
-	"Bin": 5868475,
-	"House Number": "1",
-	"Street Name": "DEP PLAZA",
-	"Zip": 10301,
-	"Community Board": 501,
-	"Borough Name": "Staten Island",
-	"Block": 9999,
-	"Lot": 1,
-	"LONGITUDE_POINT_X": 0.0,
-	"LATITUDE_POINT_Y": 0.0
  }
 ]
