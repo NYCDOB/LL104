@@ -3372,6 +3372,18 @@
 	"LATITUDE_POINT_Y": 40.83689880371094
  },
  {
+	"Bin": 1063333,
+	"House Number": "657",
+	"Street Name": "WEST 161 STREET",
+	"Zip": 10032,
+	"Community Board": 112,
+	"Borough Name": "Manhattan",
+	"Block": 2136,
+	"Lot": 150,
+	"LONGITUDE_POINT_X": -73.94499206542969,
+	"LATITUDE_POINT_Y": 40.83761978149414
+ },
+ {
 	"Bin": 1063386,
 	"House Number": "238",
 	"Street Name": "FT WASHINGTON AVENUE",
@@ -9274,6 +9286,18 @@
 	"Lot": 15,
 	"LONGITUDE_POINT_X": -73.87171173095703,
 	"LATITUDE_POINT_Y": 40.83116912841797
+ },
+ {
+	"Bin": 2025448,
+	"House Number": "1260",
+	"Street Name": "FTELEY AVENUE",
+	"Zip": 10472,
+	"Community Board": 209,
+	"Borough Name": "Bronx",
+	"Block": 3781,
+	"Lot": 17,
+	"LONGITUDE_POINT_X": -73.87174224853516,
+	"LATITUDE_POINT_Y": 40.8313102722168
  },
  {
 	"Bin": 2025543,
@@ -25680,6 +25704,18 @@
 	"LATITUDE_POINT_Y": 40.65810012817383
  },
  {
+	"Bin": 3102734,
+	"House Number": "432",
+	"Street Name": "EAST 98 STREET",
+	"Zip": 11212,
+	"Community Board": 317,
+	"Borough Name": "Brooklyn",
+	"Block": 4694,
+	"Lot": 55,
+	"LONGITUDE_POINT_X": -73.91532135009766,
+	"LATITUDE_POINT_Y": 40.657779693603516
+ },
+ {
 	"Bin": 3102814,
 	"House Number": "447",
 	"Street Name": "EAST   48 STREET",
@@ -28342,6 +28378,18 @@
 	"Lot": 29,
 	"LONGITUDE_POINT_X": -73.99127960205078,
 	"LATITUDE_POINT_Y": 40.61581039428711
+ },
+ {
+	"Bin": 3156816,
+	"House Number": "1953",
+	"Street Name": "70 STREET",
+	"Zip": 11204,
+	"Community Board": 311,
+	"Borough Name": "Brooklyn",
+	"Block": 6162,
+	"Lot": 49,
+	"LONGITUDE_POINT_X": -73.9892578125,
+	"LATITUDE_POINT_Y": 40.614219665527344
  },
  {
 	"Bin": 3157000,
@@ -33288,6 +33336,18 @@
 	"LATITUDE_POINT_Y": 40.73958969116211
  },
  {
+	"Bin": 4146120,
+	"House Number": "57-21",
+	"Street Name": " 162 STREET",
+	"Zip": 11365,
+	"Community Board": 407,
+	"Borough Name": "Queens",
+	"Block": 6729,
+	"Lot": 21,
+	"LONGITUDE_POINT_X": -73.80610656738281,
+	"LATITUDE_POINT_Y": 40.741390228271484
+ },
+ {
 	"Bin": 4146285,
 	"House Number": "59-46",
 	"Street Name": "156 STREET",
@@ -33886,6 +33946,18 @@
 	"Lot": 15,
 	"LONGITUDE_POINT_X": -73.7538833618164,
 	"LATITUDE_POINT_Y": 40.60792922973633
+ },
+ {
+	"Bin": 4297912,
+	"House Number": "12-60",
+	"Street Name": "CENTRAL AVENUE",
+	"Zip": 11691,
+	"Community Board": 414,
+	"Borough Name": "Queens",
+	"Block": 15533,
+	"Lot": 34,
+	"LONGITUDE_POINT_X": -73.74851989746094,
+	"LATITUDE_POINT_Y": 40.60845947265625
  },
  {
 	"Bin": 4298333,
@@ -35554,5 +35626,17 @@
 	"Lot": 120,
 	"LONGITUDE_POINT_X": -74.09490203857422,
 	"LATITUDE_POINT_Y": 40.618839263916016
+ },
+ {
+	"Bin": 5868475,
+	"House Number": "1",
+	"Street Name": "DEP PLAZA",
+	"Zip": 10301,
+	"Community Board": 501,
+	"Borough Name": "Staten Island",
+	"Block": 9999,
+	"Lot": 1,
+	"LONGITUDE_POINT_X": 0.0,
+	"LATITUDE_POINT_Y": 0.0
  }
 ]
