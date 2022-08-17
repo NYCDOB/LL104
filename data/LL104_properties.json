@@ -540,18 +540,6 @@
 	"LATITUDE_POINT_Y": 40.73392105102539
  },
  {
-	"Bin": 1011318,
-	"House Number": "63",
-	"Street Name": "PERRY STREET",
-	"Zip": 10014,
-	"Community Board": 102,
-	"Borough Name": "Manhattan",
-	"Block": 622,
-	"Lot": 59,
-	"LONGITUDE_POINT_X": -74.00392150878906,
-	"LATITUDE_POINT_Y": 40.73564910888672
- },
- {
 	"Bin": 1012162,
 	"House Number": "69",
 	"Street Name": "HORATIO STREET",
@@ -2088,6 +2076,18 @@
 	"LATITUDE_POINT_Y": 40.8154296875
  },
  {
+	"Bin": 1058345,
+	"House Number": "124",
+	"Street Name": "WEST  137 STREET",
+	"Zip": 10030,
+	"Community Board": 110,
+	"Borough Name": "Manhattan",
+	"Block": 1921,
+	"Lot": 46,
+	"LONGITUDE_POINT_X": -73.94135284423828,
+	"LATITUDE_POINT_Y": 40.81576919555664
+ },
+ {
 	"Bin": 1058408,
 	"House Number": "2190",
 	"Street Name": "8 AVENUE",
@@ -2182,6 +2182,18 @@
 	"Lot": 51,
 	"LONGITUDE_POINT_X": -73.95149993896484,
 	"LATITUDE_POINT_Y": 40.80752944946289
+ },
+ {
+	"Bin": 1058550,
+	"House Number": "259",
+	"Street Name": "WEST  122 STREET",
+	"Zip": 10027,
+	"Community Board": 110,
+	"Borough Name": "Manhattan",
+	"Block": 1928,
+	"Lot": 9,
+	"LONGITUDE_POINT_X": -73.95160675048828,
+	"LATITUDE_POINT_Y": 40.80807113647461
  },
  {
 	"Bin": 1058552,
@@ -3130,18 +3142,6 @@
 	"Lot": 118,
 	"LONGITUDE_POINT_X": -73.95298767089844,
 	"LATITUDE_POINT_Y": 40.82522964477539
- },
- {
-	"Bin": 1062454,
-	"House Number": "609",
-	"Street Name": "WEST 151 STREET",
-	"Zip": 10031,
-	"Community Board": 109,
-	"Borough Name": "Manhattan",
-	"Block": 2098,
-	"Lot": 19,
-	"LONGITUDE_POINT_X": -73.94864654541016,
-	"LATITUDE_POINT_Y": 40.83087921142578
  },
  {
 	"Bin": 1062535,
@@ -5520,6 +5520,18 @@
 	"LATITUDE_POINT_Y": 40.814979553222656
  },
  {
+	"Bin": 2005125,
+	"House Number": "923",
+	"Street Name": "AVENUE ST JOHN",
+	"Zip": 10455,
+	"Community Board": 202,
+	"Borough Name": "Bronx",
+	"Block": 2686,
+	"Lot": 9,
+	"LONGITUDE_POINT_X": -73.90249633789062,
+	"LATITUDE_POINT_Y": 40.81576919555664
+ },
+ {
 	"Bin": 2005131,
 	"House Number": "903",
 	"Street Name": "AVENUE ST JOHN",
@@ -5794,6 +5806,18 @@
 	"Lot": 7501,
 	"LONGITUDE_POINT_X": -73.88923645019531,
 	"LATITUDE_POINT_Y": 40.82374954223633
+ },
+ {
+	"Bin": 2006093,
+	"House Number": "1030",
+	"Street Name": "FAILE STREET",
+	"Zip": 10459,
+	"Community Board": 202,
+	"Borough Name": "Bronx",
+	"Block": 2748,
+	"Lot": 7501,
+	"LONGITUDE_POINT_X": -73.88926696777344,
+	"LATITUDE_POINT_Y": 40.82416915893555
  },
  {
 	"Bin": 2006096,
@@ -7092,18 +7116,6 @@
 	"LATITUDE_POINT_Y": 40.85826873779297
  },
  {
-	"Bin": 2011213,
-	"House Number": "4575",
-	"Street Name": "PARK AVENUE",
-	"Zip": 10458,
-	"Community Board": 206,
-	"Borough Name": "Bronx",
-	"Block": 3031,
-	"Lot": 69,
-	"LONGITUDE_POINT_X": -73.89447784423828,
-	"LATITUDE_POINT_Y": 40.856781005859375
- },
- {
 	"Bin": 2011215,
 	"House Number": "2406",
 	"Street Name": "WEBSTER AVENUE",
@@ -7678,18 +7690,6 @@
 	"Lot": 8,
 	"LONGITUDE_POINT_X": -73.88783264160156,
 	"LATITUDE_POINT_Y": 40.84519958496094
- },
- {
-	"Bin": 2012933,
-	"House Number": "2009",
-	"Street Name": "MAPES AVENUE",
-	"Zip": 10460,
-	"Community Board": 206,
-	"Borough Name": "Bronx",
-	"Block": 3106,
-	"Lot": 26,
-	"LONGITUDE_POINT_X": -73.88729858398438,
-	"LATITUDE_POINT_Y": 40.845069885253906
  },
  {
 	"Bin": 2012949,
@@ -16140,6 +16140,18 @@
 	"LATITUDE_POINT_Y": 40.67121887207031
  },
  {
+	"Bin": 3036762,
+	"House Number": "238",
+	"Street Name": "SCHENECTADY AVENUE",
+	"Zip": 11213,
+	"Community Board": 308,
+	"Borough Name": "Brooklyn",
+	"Block": 1377,
+	"Lot": 34,
+	"LONGITUDE_POINT_X": -73.9339828491211,
+	"LATITUDE_POINT_Y": 40.671138763427734
+ },
+ {
 	"Bin": 3036771,
 	"House Number": "1321",
 	"Street Name": "ST JOHNS PLACE",
@@ -20602,6 +20614,18 @@
 	"Lot": 141,
 	"LONGITUDE_POINT_X": -73.9339370727539,
 	"LATITUDE_POINT_Y": 40.697509765625
+ },
+ {
+	"Bin": 3072236,
+	"House Number": "127",
+	"Street Name": "EVERGREEN AVENUE",
+	"Zip": 11206,
+	"Community Board": 304,
+	"Borough Name": "Brooklyn",
+	"Block": 3172,
+	"Lot": 5,
+	"LONGITUDE_POINT_X": -73.93077087402344,
+	"LATITUDE_POINT_Y": 40.699180603027344
  },
  {
 	"Bin": 3072281,
@@ -31882,18 +31906,6 @@
 	"Lot": 125,
 	"LONGITUDE_POINT_X": -73.91484832763672,
 	"LATITUDE_POINT_Y": 40.67723083496094
- },
- {
-	"Bin": 3389343,
-	"House Number": "699",
-	"Street Name": "RUTLAND ROAD",
-	"Zip": 11203,
-	"Community Board": 309,
-	"Borough Name": "Brooklyn",
-	"Block": 4805,
-	"Lot": 47,
-	"LONGITUDE_POINT_X": -73.9375991821289,
-	"LATITUDE_POINT_Y": 40.660438537597656
  },
  {
 	"Bin": 3389401,
