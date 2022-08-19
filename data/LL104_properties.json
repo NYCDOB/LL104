@@ -1284,18 +1284,6 @@
 	"LATITUDE_POINT_Y": 40.79269027709961
  },
  {
-	"Bin": 1052115,
-	"House Number": "1970",
-	"Street Name": "3 AVENUE",
-	"Zip": 10029,
-	"Community Board": 111,
-	"Borough Name": "Manhattan",
-	"Block": 1636,
-	"Lot": 35,
-	"LONGITUDE_POINT_X": -73.9438705444336,
-	"LATITUDE_POINT_Y": 40.79322814941406
- },
- {
 	"Bin": 1052200,
 	"House Number": "160",
 	"Street Name": "EAST 111 STREET",
@@ -2748,18 +2736,6 @@
 	"LATITUDE_POINT_Y": 40.82807159423828
  },
  {
-	"Bin": 1061188,
-	"House Number": "76",
-	"Street Name": "ST NICHOLAS PLACE",
-	"Zip": 10032,
-	"Community Board": 109,
-	"Borough Name": "Manhattan",
-	"Block": 2054,
-	"Lot": 79,
-	"LONGITUDE_POINT_X": -73.94043731689453,
-	"LATITUDE_POINT_Y": 40.82939147949219
- },
- {
 	"Bin": 1061246,
 	"House Number": "1661",
 	"Street Name": "AMSTERDAM AVENUE",
@@ -3334,6 +3310,18 @@
 	"Lot": 60,
 	"LONGITUDE_POINT_X": -73.94554901123047,
 	"LATITUDE_POINT_Y": 40.83654022216797
+ },
+ {
+	"Bin": 1063323,
+	"House Number": "645",
+	"Street Name": "WEST 160 STREET",
+	"Zip": 10032,
+	"Community Board": 112,
+	"Borough Name": "Manhattan",
+	"Block": 2136,
+	"Lot": 90,
+	"LONGITUDE_POINT_X": -73.9452133178711,
+	"LATITUDE_POINT_Y": 40.83689880371094
  },
  {
 	"Bin": 1063327,
@@ -7452,6 +7440,18 @@
 	"LATITUDE_POINT_Y": 40.850181579589844
  },
  {
+	"Bin": 2012491,
+	"House Number": "2325",
+	"Street Name": "CAMBRELENG AVENUE",
+	"Zip": 10458,
+	"Community Board": 206,
+	"Borough Name": "Bronx",
+	"Block": 3088,
+	"Lot": 35,
+	"LONGITUDE_POINT_X": -73.88610076904297,
+	"LATITUDE_POINT_Y": 40.853389739990234
+ },
+ {
 	"Bin": 2012528,
 	"House Number": "2309",
 	"Street Name": "BEAUMONT AVENUE",
@@ -7642,6 +7642,18 @@
 	"Lot": 47,
 	"LONGITUDE_POINT_X": -73.88440704345703,
 	"LATITUDE_POINT_Y": 40.85295104980469
+ },
+ {
+	"Bin": 2012898,
+	"House Number": "737",
+	"Street Name": "EAST 187 STREET",
+	"Zip": 10458,
+	"Community Board": 206,
+	"Borough Name": "Bronx",
+	"Block": 3104,
+	"Lot": 61,
+	"LONGITUDE_POINT_X": -73.88313293457031,
+	"LATITUDE_POINT_Y": 40.85401916503906
  },
  {
 	"Bin": 2012920,
@@ -15600,6 +15612,18 @@
 	"LATITUDE_POINT_Y": 40.671470642089844
  },
  {
+	"Bin": 3032087,
+	"House Number": "1149",
+	"Street Name": "ST JOHNS PLACE",
+	"Zip": 11213,
+	"Community Board": 308,
+	"Borough Name": "Brooklyn",
+	"Block": 1251,
+	"Lot": 47,
+	"LONGITUDE_POINT_X": -73.9402084350586,
+	"LATITUDE_POINT_Y": 40.67137908935547
+ },
+ {
 	"Bin": 3032186,
 	"House Number": "625",
 	"Street Name": "LINCOLN PLACE",
@@ -20112,6 +20136,18 @@
 	"LATITUDE_POINT_Y": 40.73320007324219
  },
  {
+	"Bin": 3064254,
+	"House Number": "202",
+	"Street Name": "FRANKLIN STREET",
+	"Zip": 11222,
+	"Community Board": 301,
+	"Borough Name": "Brooklyn",
+	"Block": 2532,
+	"Lot": 5,
+	"LONGITUDE_POINT_X": -73.95771789550781,
+	"LATITUDE_POINT_Y": 40.73242950439453
+ },
+ {
 	"Bin": 3064326,
 	"House Number": "196",
 	"Street Name": "HURON STREET",
@@ -23050,6 +23086,18 @@
 	"Lot": 52,
 	"LONGITUDE_POINT_X": -73.90960693359375,
 	"LATITUDE_POINT_Y": 40.65660095214844
+ },
+ {
+	"Bin": 3082770,
+	"House Number": "602",
+	"Street Name": "BRISTOL STREET",
+	"Zip": 11212,
+	"Community Board": 316,
+	"Borough Name": "Brooklyn",
+	"Block": 3623,
+	"Lot": 60,
+	"LONGITUDE_POINT_X": -73.9095230102539,
+	"LATITUDE_POINT_Y": 40.656219482421875
  },
  {
 	"Bin": 3082810,
