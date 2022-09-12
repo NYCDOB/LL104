@@ -1848,6 +1848,18 @@
 	"LATITUDE_POINT_Y": 40.79515838623047
  },
  {
+	"Bin": 1055722,
+	"House Number": "7",
+	"Street Name": "WEST 108 STREET",
+	"Zip": 10025,
+	"Community Board": 107,
+	"Borough Name": "Manhattan",
+	"Block": 1844,
+	"Lot": 25,
+	"LONGITUDE_POINT_X": -73.95964813232422,
+	"LATITUDE_POINT_Y": 40.79983139038086
+ },
+ {
 	"Bin": 1055820,
 	"House Number": "312",
 	"Street Name": "WEST  114 STREET",
@@ -2434,18 +2446,6 @@
 	"Lot": 69,
 	"LONGITUDE_POINT_X": -73.95625305175781,
 	"LATITUDE_POINT_Y": 40.821720123291016
- },
- {
-	"Bin": 1059980,
-	"House Number": "587",
-	"Street Name": "RIVERSIDE DRIVE",
-	"Zip": 10031,
-	"Community Board": 109,
-	"Borough Name": "Manhattan",
-	"Block": 2002,
-	"Lot": 101,
-	"LONGITUDE_POINT_X": -73.95665740966797,
-	"LATITUDE_POINT_Y": 40.8213996887207
  },
  {
 	"Bin": 1059998,
@@ -12382,6 +12382,18 @@
 	"Lot": 18,
 	"LONGITUDE_POINT_X": -73.92180633544922,
 	"LATITUDE_POINT_Y": 40.80818176269531
+ },
+ {
+	"Bin": 2091058,
+	"House Number": "245",
+	"Street Name": "BROOK AVENUE",
+	"Zip": 10454,
+	"Community Board": 201,
+	"Borough Name": "Bronx",
+	"Block": 2283,
+	"Lot": 53,
+	"LONGITUDE_POINT_X": -73.91925811767578,
+	"LATITUDE_POINT_Y": 40.80802917480469
  },
  {
 	"Bin": 2091878,
