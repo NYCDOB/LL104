@@ -19044,18 +19044,6 @@
 	"LATITUDE_POINT_Y": 40.6857795715332
  },
  {
-	"Bin": 3051550,
-	"House Number": "144",
-	"Street Name": "MADISON STREET",
-	"Zip": 11216,
-	"Community Board": 303,
-	"Borough Name": "Brooklyn",
-	"Block": 1822,
-	"Lot": 15,
-	"LONGITUDE_POINT_X": -73.95329284667969,
-	"LATITUDE_POINT_Y": 40.68416976928711
- },
- {
 	"Bin": 3051571,
 	"House Number": "200",
 	"Street Name": "MADISON STREET",
@@ -23662,6 +23650,18 @@
 	"Lot": 19,
 	"LONGITUDE_POINT_X": -73.8934326171875,
 	"LATITUDE_POINT_Y": 40.673370361328125
+ },
+ {
+	"Bin": 3083927,
+	"House Number": "255",
+	"Street Name": "PENNSYLVANIA AVENUE",
+	"Zip": 11207,
+	"Community Board": 305,
+	"Borough Name": "Brooklyn",
+	"Block": 3738,
+	"Lot": 10,
+	"LONGITUDE_POINT_X": -73.8953628540039,
+	"LATITUDE_POINT_Y": 40.67137145996094
  },
  {
 	"Bin": 3083933,
@@ -28608,6 +28608,18 @@
 	"LATITUDE_POINT_Y": 40.64278030395508
  },
  {
+	"Bin": 3119947,
+	"House Number": "1151",
+	"Street Name": "ROGERS AVENUE",
+	"Zip": 11226,
+	"Community Board": 317,
+	"Borough Name": "Brooklyn",
+	"Block": 5193,
+	"Lot": 62,
+	"LONGITUDE_POINT_X": -73.95118713378906,
+	"LATITUDE_POINT_Y": 40.64183044433594
+ },
+ {
 	"Bin": 3119950,
 	"House Number": "1143",
 	"Street Name": "ROGERS AVENUE",
@@ -29446,6 +29458,18 @@
 	"Lot": 9,
 	"LONGITUDE_POINT_X": -73.98802185058594,
 	"LATITUDE_POINT_Y": 40.635108947753906
+ },
+ {
+	"Bin": 3138496,
+	"House Number": "833",
+	"Street Name": "  53 STREET",
+	"Zip": 11220,
+	"Community Board": 312,
+	"Borough Name": "Brooklyn",
+	"Block": 5658,
+	"Lot": 65,
+	"LONGITUDE_POINT_X": -74.00440216064453,
+	"LATITUDE_POINT_Y": 40.63908004760742
  },
  {
 	"Bin": 3140651,
@@ -36982,6 +37006,18 @@
 	"Lot": 2,
 	"LONGITUDE_POINT_X": -73.76405334472656,
 	"LATITUDE_POINT_Y": 40.59564971923828
+ },
+ {
+	"Bin": 4530274,
+	"House Number": "229",
+	"Street Name": "BEACH   31 STREET",
+	"Zip": 11691,
+	"Community Board": 414,
+	"Borough Name": "Queens",
+	"Block": 15807,
+	"Lot": 7,
+	"LONGITUDE_POINT_X": -73.76405334472656,
+	"LATITUDE_POINT_Y": 40.5955810546875
  },
  {
 	"Bin": 4530462,
