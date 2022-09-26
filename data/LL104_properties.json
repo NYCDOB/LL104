@@ -2880,18 +2880,6 @@
 	"LATITUDE_POINT_Y": 40.823631286621094
  },
  {
-	"Bin": 1061888,
-	"House Number": "500",
-	"Street Name": "WEST 144 STREET",
-	"Zip": 10031,
-	"Community Board": 109,
-	"Borough Name": "Manhattan",
-	"Block": 2075,
-	"Lot": 36,
-	"LONGITUDE_POINT_X": -73.9486083984375,
-	"LATITUDE_POINT_Y": 40.82453918457031
- },
- {
 	"Bin": 1061905,
 	"House Number": "533",
 	"Street Name": "WEST 144 STREET",
@@ -7930,6 +7918,18 @@
 	"Lot": 50,
 	"LONGITUDE_POINT_X": -73.88259887695312,
 	"LATITUDE_POINT_Y": 40.85451126098633
+ },
+ {
+	"Bin": 2012898,
+	"House Number": "737",
+	"Street Name": "EAST 187 STREET",
+	"Zip": 10458,
+	"Community Board": 206,
+	"Borough Name": "Bronx",
+	"Block": 3104,
+	"Lot": 61,
+	"LONGITUDE_POINT_X": -73.88313293457031,
+	"LATITUDE_POINT_Y": 40.85401916503906
  },
  {
 	"Bin": 2012920,
@@ -14184,18 +14184,6 @@
 	"LATITUDE_POINT_Y": 40.680728912353516
  },
  {
-	"Bin": 3007843,
-	"House Number": "53",
-	"Street Name": "3 STREET",
-	"Zip": 11231,
-	"Community Board": 306,
-	"Borough Name": "Brooklyn",
-	"Block": 460,
-	"Lot": 36,
-	"LONGITUDE_POINT_X": -73.99385833740234,
-	"LATITUDE_POINT_Y": 40.67815017700195
- },
- {
 	"Bin": 3008580,
 	"House Number": "151",
 	"Street Name": "CONOVER STREET",
@@ -15106,18 +15094,6 @@
 	"Lot": 65,
 	"LONGITUDE_POINT_X": -73.99059295654297,
 	"LATITUDE_POINT_Y": 40.66643142700195
- },
- {
-	"Bin": 3023778,
-	"House Number": "430",
-	"Street Name": "   7 AVENUE",
-	"Zip": 11215,
-	"Community Board": 306,
-	"Borough Name": "Brooklyn",
-	"Block": 1043,
-	"Lot": 46,
-	"LONGITUDE_POINT_X": -73.98455810546875,
-	"LATITUDE_POINT_Y": 40.663719177246094
  },
  {
 	"Bin": 3023929,
