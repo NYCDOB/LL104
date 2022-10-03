@@ -1932,18 +1932,6 @@
 	"LATITUDE_POINT_Y": 40.79716110229492
  },
  {
-	"Bin": 1057558,
-	"House Number": "191",
-	"Street Name": "LENOX AVENUE",
-	"Zip": 10026,
-	"Community Board": 110,
-	"Borough Name": "Manhattan",
-	"Block": 1904,
-	"Lot": 33,
-	"LONGITUDE_POINT_X": -73.9483871459961,
-	"LATITUDE_POINT_Y": 40.80445098876953
- },
- {
 	"Bin": 1057560,
 	"House Number": "197",
 	"Street Name": "LENOX AVENUE",
@@ -16812,6 +16800,18 @@
 	"LATITUDE_POINT_Y": 40.67039108276367
  },
  {
+	"Bin": 3036936,
+	"House Number": "1629",
+	"Street Name": "ST JOHNS PLACE",
+	"Zip": 11233,
+	"Community Board": 308,
+	"Borough Name": "Brooklyn",
+	"Block": 1381,
+	"Lot": 57,
+	"LONGITUDE_POINT_X": -73.92326354980469,
+	"LATITUDE_POINT_Y": 40.670440673828125
+ },
+ {
 	"Bin": 3036937,
 	"House Number": "1627",
 	"Street Name": "ST JOHNS PLACE",
@@ -26422,6 +26422,18 @@
 	"Lot": 55,
 	"LONGITUDE_POINT_X": -73.9232177734375,
 	"LATITUDE_POINT_Y": 40.66300964355469
+ },
+ {
+	"Bin": 3100141,
+	"House Number": "109",
+	"Street Name": "EAST 96 STREET",
+	"Zip": 11212,
+	"Community Board": 317,
+	"Borough Name": "Brooklyn",
+	"Block": 4615,
+	"Lot": 67,
+	"LONGITUDE_POINT_X": -73.92379760742188,
+	"LATITUDE_POINT_Y": 40.66352844238281
  },
  {
 	"Bin": 3100154,
