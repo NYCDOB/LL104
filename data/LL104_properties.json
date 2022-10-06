@@ -3600,18 +3600,6 @@
 	"LATITUDE_POINT_Y": 40.8496208190918
  },
  {
-	"Bin": 1064448,
-	"House Number": "640",
-	"Street Name": "FT WASHINGTON AVENUE",
-	"Zip": 10040,
-	"Community Board": 112,
-	"Borough Name": "Manhattan",
-	"Block": 2180,
-	"Lot": 400,
-	"LONGITUDE_POINT_X": -73.93585968017578,
-	"LATITUDE_POINT_Y": 40.85606002807617
- },
- {
 	"Bin": 1064506,
 	"House Number": "407",
 	"Street Name": "WEST 205 STREET",
@@ -10608,18 +10596,6 @@
 	"LATITUDE_POINT_Y": 40.84886932373047
  },
  {
-	"Bin": 2048981,
-	"House Number": "900",
-	"Street Name": "LYDIG AVENUE",
-	"Zip": 10462,
-	"Community Board": 211,
-	"Borough Name": "Bronx",
-	"Block": 4298,
-	"Lot": 22,
-	"LONGITUDE_POINT_X": -73.86160278320312,
-	"LATITUDE_POINT_Y": 40.853981018066406
- },
- {
 	"Bin": 2049141,
 	"House Number": "2031",
 	"Street Name": "TOMLINSON AVENUE",
@@ -16908,6 +16884,18 @@
 	"LATITUDE_POINT_Y": 40.669498443603516
  },
  {
+	"Bin": 3037375,
+	"House Number": "1181",
+	"Street Name": "EASTERN PARKWAY",
+	"Zip": 11213,
+	"Community Board": 308,
+	"Borough Name": "Brooklyn",
+	"Block": 1391,
+	"Lot": 53,
+	"LONGITUDE_POINT_X": -73.9292221069336,
+	"LATITUDE_POINT_Y": 40.669151306152344
+ },
+ {
 	"Bin": 3037385,
 	"House Number": "273",
 	"Street Name": "ROCHESTER AVENUE",
@@ -16978,6 +16966,18 @@
 	"Lot": 33,
 	"LONGITUDE_POINT_X": -73.93460083007812,
 	"LATITUDE_POINT_Y": 40.66852951049805
+ },
+ {
+	"Bin": 3037545,
+	"House Number": "1074",
+	"Street Name": "EASTERN PARKWAY",
+	"Zip": 11213,
+	"Community Board": 309,
+	"Borough Name": "Brooklyn",
+	"Block": 1396,
+	"Lot": 17,
+	"LONGITUDE_POINT_X": -73.93299865722656,
+	"LATITUDE_POINT_Y": 40.66843032836914
  },
  {
 	"Bin": 3037905,
@@ -17062,6 +17062,18 @@
 	"Lot": 20,
 	"LONGITUDE_POINT_X": -73.91542053222656,
 	"LATITUDE_POINT_Y": 40.67628860473633
+ },
+ {
+	"Bin": 3038572,
+	"House Number": "2181",
+	"Street Name": "PACIFIC STREET",
+	"Zip": 11233,
+	"Community Board": 316,
+	"Borough Name": "Brooklyn",
+	"Block": 1433,
+	"Lot": 47,
+	"LONGITUDE_POINT_X": -73.91414642333984,
+	"LATITUDE_POINT_Y": 40.675941467285156
  },
  {
 	"Bin": 3038593,
@@ -17302,18 +17314,6 @@
 	"Lot": 35,
 	"LONGITUDE_POINT_X": -73.91448211669922,
 	"LATITUDE_POINT_Y": 40.67388916015625
- },
- {
-	"Bin": 3039131,
-	"House Number": "1631",
-	"Street Name": "ST MARKS AVENUE",
-	"Zip": 11233,
-	"Community Board": 316,
-	"Borough Name": "Brooklyn",
-	"Block": 1454,
-	"Lot": 67,
-	"LONGITUDE_POINT_X": -73.912841796875,
-	"LATITUDE_POINT_Y": 40.6734504699707
  },
  {
 	"Bin": 3039327,
@@ -23242,6 +23242,18 @@
 	"Lot": 1,
 	"LONGITUDE_POINT_X": -73.90918731689453,
 	"LATITUDE_POINT_Y": 40.662750244140625
+ },
+ {
+	"Bin": 3081944,
+	"House Number": "694",
+	"Street Name": "ROCKAWAY AVENUE",
+	"Zip": 11212,
+	"Community Board": 316,
+	"Borough Name": "Brooklyn",
+	"Block": 3575,
+	"Lot": 55,
+	"LONGITUDE_POINT_X": -73.90931701660156,
+	"LATITUDE_POINT_Y": 40.662940979003906
  },
  {
 	"Bin": 3082001,
