@@ -3144,18 +3144,6 @@
 	"LATITUDE_POINT_Y": 40.8286018371582
  },
  {
-	"Bin": 1062454,
-	"House Number": "609",
-	"Street Name": "WEST 151 STREET",
-	"Zip": 10031,
-	"Community Board": 109,
-	"Borough Name": "Manhattan",
-	"Block": 2098,
-	"Lot": 19,
-	"LONGITUDE_POINT_X": -73.94864654541016,
-	"LATITUDE_POINT_Y": 40.83087921142578
- },
- {
 	"Bin": 1062535,
 	"House Number": "471",
 	"Street Name": "WEST 159 STREET",
@@ -6058,6 +6046,18 @@
 	"Lot": 7501,
 	"LONGITUDE_POINT_X": -73.88983154296875,
 	"LATITUDE_POINT_Y": 40.82381057739258
+ },
+ {
+	"Bin": 2006148,
+	"House Number": "1206",
+	"Street Name": "WESTCHESTER AVENUE",
+	"Zip": 10459,
+	"Community Board": 202,
+	"Borough Name": "Bronx",
+	"Block": 2750,
+	"Lot": 22,
+	"LONGITUDE_POINT_X": -73.88909149169922,
+	"LATITUDE_POINT_Y": 40.82575988769531
  },
  {
 	"Bin": 2006178,
@@ -36766,18 +36766,6 @@
 	"Lot": 15,
 	"LONGITUDE_POINT_X": -73.7538833618164,
 	"LATITUDE_POINT_Y": 40.60792922973633
- },
- {
-	"Bin": 4297912,
-	"House Number": "12-60",
-	"Street Name": "CENTRAL AVENUE",
-	"Zip": 11691,
-	"Community Board": 414,
-	"Borough Name": "Queens",
-	"Block": 15533,
-	"Lot": 34,
-	"LONGITUDE_POINT_X": -73.74851989746094,
-	"LATITUDE_POINT_Y": 40.60845947265625
  },
  {
 	"Bin": 4298333,
