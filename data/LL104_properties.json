@@ -4140,6 +4140,18 @@
 	"LATITUDE_POINT_Y": 40.79811096191406
  },
  {
+	"Bin": 1085357,
+	"House Number": "503",
+	"Street Name": "WEST  133 STREET",
+	"Zip": 10027,
+	"Community Board": 109,
+	"Borough Name": "Manhattan",
+	"Block": 1987,
+	"Lot": 24,
+	"LONGITUDE_POINT_X": -73.9537124633789,
+	"LATITUDE_POINT_Y": 40.81806945800781
+ },
+ {
 	"Bin": 1085686,
 	"House Number": "71",
 	"Street Name": "COOPER STREET",
@@ -5700,18 +5712,6 @@
 	"LATITUDE_POINT_Y": 40.82347869873047
  },
  {
-	"Bin": 2004909,
-	"House Number": "597",
-	"Street Name": "PROSPECT AVENUE",
-	"Zip": 10455,
-	"Community Board": 201,
-	"Borough Name": "Bronx",
-	"Block": 2674,
-	"Lot": 41,
-	"LONGITUDE_POINT_X": -73.90428161621094,
-	"LATITUDE_POINT_Y": 40.81380844116211
- },
- {
 	"Bin": 2004923,
 	"House Number": "676",
 	"Street Name": "UNION AVENUE",
@@ -6190,6 +6190,18 @@
 	"Lot": 7501,
 	"LONGITUDE_POINT_X": -73.88983154296875,
 	"LATITUDE_POINT_Y": 40.82381057739258
+ },
+ {
+	"Bin": 2006148,
+	"House Number": "1206",
+	"Street Name": "WESTCHESTER AVENUE",
+	"Zip": 10459,
+	"Community Board": 202,
+	"Borough Name": "Bronx",
+	"Block": 2750,
+	"Lot": 22,
+	"LONGITUDE_POINT_X": -73.88909149169922,
+	"LATITUDE_POINT_Y": 40.82575988769531
  },
  {
 	"Bin": 2006178,
@@ -9034,6 +9046,18 @@
 	"Lot": 149,
 	"LONGITUDE_POINT_X": -73.90151977539062,
 	"LATITUDE_POINT_Y": 40.86555099487305
+ },
+ {
+	"Bin": 2014668,
+	"House Number": "2547",
+	"Street Name": "AQUEDUCT AVENUE",
+	"Zip": 10468,
+	"Community Board": 207,
+	"Borough Name": "Bronx",
+	"Block": 3214,
+	"Lot": 86,
+	"LONGITUDE_POINT_X": -73.9018783569336,
+	"LATITUDE_POINT_Y": 40.86613845825195
  },
  {
 	"Bin": 2014732,
