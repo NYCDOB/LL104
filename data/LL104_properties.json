@@ -7656,6 +7656,18 @@
 	"LATITUDE_POINT_Y": 40.83226013183594
  },
  {
+	"Bin": 2010247,
+	"House Number": "1384",
+	"Street Name": "BRISTOW STREET",
+	"Zip": 10459,
+	"Community Board": 203,
+	"Borough Name": "Bronx",
+	"Block": 2964,
+	"Lot": 7,
+	"LONGITUDE_POINT_X": -73.89473724365234,
+	"LATITUDE_POINT_Y": 40.83266067504883
+ },
+ {
 	"Bin": 2010347,
 	"House Number": "851",
 	"Street Name": "EAST 169 STREET",
@@ -8950,6 +8962,18 @@
 	"Lot": 8,
 	"LONGITUDE_POINT_X": -73.89766693115234,
 	"LATITUDE_POINT_Y": 40.857181549072266
+ },
+ {
+	"Bin": 2013480,
+	"House Number": "2489",
+	"Street Name": "TIEBOUT AVENUE",
+	"Zip": 10458,
+	"Community Board": 205,
+	"Borough Name": "Bronx",
+	"Block": 3148,
+	"Lot": 25,
+	"LONGITUDE_POINT_X": -73.89530944824219,
+	"LATITUDE_POINT_Y": 40.86164855957031
  },
  {
 	"Bin": 2013530,
@@ -40666,18 +40690,6 @@
 	"Lot": 7,
 	"LONGITUDE_POINT_X": -74.1304931640625,
 	"LATITUDE_POINT_Y": 40.637550354003906
- },
- {
-	"Bin": 5024075,
-	"House Number": "945",
-	"Street Name": "POST AVENUE",
-	"Zip": 10302,
-	"Community Board": 501,
-	"Borough Name": "Staten Island",
-	"Block": 1027,
-	"Lot": 26,
-	"LONGITUDE_POINT_X": -74.13211059570312,
-	"LATITUDE_POINT_Y": 40.631988525390625
  },
  {
 	"Bin": 5026617,
