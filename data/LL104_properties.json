@@ -1656,6 +1656,18 @@
 	"LATITUDE_POINT_Y": 40.80625915527344
  },
  {
+	"Bin": 1054125,
+	"House Number": "14",
+	"Street Name": "EAST 127 STREET",
+	"Zip": 10035,
+	"Community Board": 111,
+	"Borough Name": "Manhattan",
+	"Block": 1751,
+	"Lot": 66,
+	"LONGITUDE_POINT_X": -73.94075775146484,
+	"LATITUDE_POINT_Y": 40.80723190307617
+ },
+ {
 	"Bin": 1054178,
 	"House Number": "2024",
 	"Street Name": "MADISON AVENUE",
@@ -11830,18 +11842,6 @@
 	"Lot": 46,
 	"LONGITUDE_POINT_X": -73.86640930175781,
 	"LATITUDE_POINT_Y": 40.87239074707031
- },
- {
-	"Bin": 2056256,
-	"House Number": "3211",
-	"Street Name": "CRUGER AVENUE",
-	"Zip": 10467,
-	"Community Board": 212,
-	"Borough Name": "Bronx",
-	"Block": 4596,
-	"Lot": 53,
-	"LONGITUDE_POINT_X": -73.86641693115234,
-	"LATITUDE_POINT_Y": 40.87187957763672
  },
  {
 	"Bin": 2056265,
@@ -28848,6 +28848,18 @@
 	"LATITUDE_POINT_Y": 40.65863037109375
  },
  {
+	"Bin": 3101991,
+	"House Number": "369",
+	"Street Name": "ROCKAWAY PARKWAY",
+	"Zip": 11212,
+	"Community Board": 317,
+	"Borough Name": "Brooklyn",
+	"Block": 4672,
+	"Lot": 57,
+	"LONGITUDE_POINT_X": -73.91716003417969,
+	"LATITUDE_POINT_Y": 40.65895080566406
+ },
+ {
 	"Bin": 3101998,
 	"House Number": "349",
 	"Street Name": "ROCKAWAY PARKWAY",
@@ -38218,6 +38230,18 @@
 	"Lot": 34,
 	"LONGITUDE_POINT_X": -73.82437896728516,
 	"LATITUDE_POINT_Y": 40.70153045654297
+ },
+ {
+	"Bin": 4195232,
+	"House Number": "93-04",
+	"Street Name": "104 STREET",
+	"Zip": 11418,
+	"Community Board": 409,
+	"Borough Name": "Queens",
+	"Block": 9310,
+	"Lot": 16,
+	"LONGITUDE_POINT_X": -73.84158325195312,
+	"LATITUDE_POINT_Y": 40.69076919555664
  },
  {
 	"Bin": 4195541,
