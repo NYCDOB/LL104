@@ -3456,6 +3456,18 @@
 	"LATITUDE_POINT_Y": 40.83879089355469
  },
  {
+	"Bin": 1062682,
+	"House Number": "550",
+	"Street Name": "WEST 156 STREET",
+	"Zip": 10032,
+	"Community Board": 112,
+	"Borough Name": "Manhattan",
+	"Block": 2114,
+	"Lot": 18,
+	"LONGITUDE_POINT_X": -73.94422912597656,
+	"LATITUDE_POINT_Y": 40.83272933959961
+ },
+ {
 	"Bin": 1062711,
 	"House Number": "504",
 	"Street Name": "WEST 157 STREET",
@@ -3586,18 +3598,6 @@
 	"Lot": 59,
 	"LONGITUDE_POINT_X": -73.93551635742188,
 	"LATITUDE_POINT_Y": 40.84355926513672
- },
- {
-	"Bin": 1063171,
-	"House Number": "2304",
-	"Street Name": "AMSTERDAM AVENUE",
-	"Zip": 10033,
-	"Community Board": 112,
-	"Borough Name": "Manhattan",
-	"Block": 2131,
-	"Lot": 48,
-	"LONGITUDE_POINT_X": -73.93434143066406,
-	"LATITUDE_POINT_Y": 40.84394836425781
  },
  {
 	"Bin": 1063235,
@@ -13152,6 +13152,18 @@
 	"LATITUDE_POINT_Y": 40.89278030395508
  },
  {
+	"Bin": 2069217,
+	"House Number": "4170",
+	"Street Name": "WILDER AVENUE",
+	"Zip": 10466,
+	"Community Board": 212,
+	"Borough Name": "Bronx",
+	"Block": 5022,
+	"Lot": 27,
+	"LONGITUDE_POINT_X": -73.8424072265625,
+	"LATITUDE_POINT_Y": 40.89535903930664
+ },
+ {
 	"Bin": 2069628,
 	"House Number": "633",
 	"Street Name": "EAST 236 STREET",
@@ -16762,6 +16774,18 @@
 	"Lot": 25,
 	"LONGITUDE_POINT_X": -73.96772766113281,
 	"LATITUDE_POINT_Y": 40.67387008666992
+ },
+ {
+	"Bin": 3029509,
+	"House Number": "571",
+	"Street Name": "ST JOHNS PLACE",
+	"Zip": 11238,
+	"Community Board": 308,
+	"Borough Name": "Brooklyn",
+	"Block": 1175,
+	"Lot": 84,
+	"LONGITUDE_POINT_X": -73.95913696289062,
+	"LATITUDE_POINT_Y": 40.67300033569336
  },
  {
 	"Bin": 3029510,
@@ -30574,6 +30598,18 @@
 	"Lot": 1,
 	"LONGITUDE_POINT_X": -73.96209716796875,
 	"LATITUDE_POINT_Y": 40.646820068359375
+ },
+ {
+	"Bin": 3117601,
+	"House Number": "1809",
+	"Street Name": "BEVERLY ROAD",
+	"Zip": 11226,
+	"Community Board": 314,
+	"Borough Name": "Brooklyn",
+	"Block": 5122,
+	"Lot": 39,
+	"LONGITUDE_POINT_X": -73.96183776855469,
+	"LATITUDE_POINT_Y": 40.644901275634766
  },
  {
 	"Bin": 3117604,
