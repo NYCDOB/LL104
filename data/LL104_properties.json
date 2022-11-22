@@ -1536,6 +1536,18 @@
 	"LATITUDE_POINT_Y": 40.805419921875
  },
  {
+	"Bin": 1053476,
+	"House Number": "52",
+	"Street Name": "WEST  125 STREET",
+	"Zip": 10027,
+	"Community Board": 110,
+	"Borough Name": "Manhattan",
+	"Block": 1722,
+	"Lot": 57,
+	"LONGITUDE_POINT_X": -73.94425964355469,
+	"LATITUDE_POINT_Y": 40.806949615478516
+ },
+ {
 	"Bin": 1053639,
 	"House Number": "2074",
 	"Street Name": "5 AVENUE",
@@ -7342,6 +7354,18 @@
 	"Lot": 123,
 	"LONGITUDE_POINT_X": -73.91536712646484,
 	"LATITUDE_POINT_Y": 40.851009368896484
+ },
+ {
+	"Bin": 2009112,
+	"House Number": "1915",
+	"Street Name": "BILLINGSLEY TERRACE",
+	"Zip": 10453,
+	"Community Board": 205,
+	"Borough Name": "Bronx",
+	"Block": 2879,
+	"Lot": 184,
+	"LONGITUDE_POINT_X": -73.9159927368164,
+	"LATITUDE_POINT_Y": 40.854148864746094
  },
  {
 	"Bin": 2009149,
@@ -22188,6 +22212,18 @@
 	"LATITUDE_POINT_Y": 40.70909881591797
  },
  {
+	"Bin": 3063356,
+	"House Number": "365",
+	"Street Name": "SOUTH 4 STREET",
+	"Zip": 11211,
+	"Community Board": 301,
+	"Borough Name": "Brooklyn",
+	"Block": 2437,
+	"Lot": 25,
+	"LONGITUDE_POINT_X": -73.95323944091797,
+	"LATITUDE_POINT_Y": 40.70859146118164
+ },
+ {
 	"Bin": 3063376,
 	"House Number": "376",
 	"Street Name": "SOUTH    3 STREET",
@@ -29722,6 +29758,18 @@
 	"Lot": 45,
 	"LONGITUDE_POINT_X": -73.94287109375,
 	"LATITUDE_POINT_Y": 40.66004180908203
+ },
+ {
+	"Bin": 3107399,
+	"House Number": "322",
+	"Street Name": "HAWTHORNE STREET",
+	"Zip": 11225,
+	"Community Board": 309,
+	"Borough Name": "Brooklyn",
+	"Block": 4819,
+	"Lot": 13,
+	"LONGITUDE_POINT_X": -73.94963836669922,
+	"LATITUDE_POINT_Y": 40.657649993896484
  },
  {
 	"Bin": 3107496,
@@ -37476,18 +37524,6 @@
 	"LATITUDE_POINT_Y": 40.702880859375
  },
  {
-	"Bin": 4082491,
-	"House Number": "1706",
-	"Street Name": "GATES AVENUE",
-	"Zip": 11385,
-	"Community Board": 405,
-	"Borough Name": "Queens",
-	"Block": 3453,
-	"Lot": 9,
-	"LONGITUDE_POINT_X": -73.90912628173828,
-	"LATITUDE_POINT_Y": 40.70220947265625
- },
- {
 	"Bin": 4082564,
 	"House Number": "17-01",
 	"Street Name": "WOODBINE STREET",
@@ -37894,6 +37930,18 @@
 	"Lot": 13,
 	"LONGITUDE_POINT_X": -73.89730072021484,
 	"LATITUDE_POINT_Y": 40.70835876464844
+ },
+ {
+	"Bin": 4087701,
+	"House Number": "61-43",
+	"Street Name": "WOODBINE STREET",
+	"Zip": 11385,
+	"Community Board": 405,
+	"Borough Name": "Queens",
+	"Block": 3613,
+	"Lot": 37,
+	"LONGITUDE_POINT_X": -73.89602661132812,
+	"LATITUDE_POINT_Y": 40.70838165283203
  },
  {
 	"Bin": 4087896,
@@ -38794,6 +38842,18 @@
 	"Lot": 45,
 	"LONGITUDE_POINT_X": -73.7931137084961,
 	"LATITUDE_POINT_Y": 40.69187927246094
+ },
+ {
+	"Bin": 4264633,
+	"House Number": "116-19",
+	"Street Name": "SUTPHIN BOULEVARD",
+	"Zip": 11434,
+	"Community Board": 412,
+	"Borough Name": "Queens",
+	"Block": 12201,
+	"Lot": 1,
+	"LONGITUDE_POINT_X": -73.7922134399414,
+	"LATITUDE_POINT_Y": 40.68206024169922
  },
  {
 	"Bin": 4264694,
@@ -40872,12 +40932,12 @@
 	"LATITUDE_POINT_Y": 40.618839263916016
  },
  {
-	"Bin": 5868475,
+	"Bin": E868475,
 	"House Number": "1",
 	"Street Name": "DEP PLAZA",
 	"Zip": 10301,
 	"Community Board": 501,
-	"Borough Name": "Staten Island",
+	"Borough Name": "Unknown Borough",
 	"Block": 9999,
 	"Lot": 1,
 	"LONGITUDE_POINT_X": 0.0,
