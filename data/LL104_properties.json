@@ -7536,6 +7536,18 @@
 	"LATITUDE_POINT_Y": 40.84872817993164
  },
  {
+	"Bin": 2008846,
+	"House Number": "1672",
+	"Street Name": "NELSON AVENUE",
+	"Zip": 10453,
+	"Community Board": 205,
+	"Borough Name": "Bronx",
+	"Block": 2876,
+	"Lot": 160,
+	"LONGITUDE_POINT_X": -73.91763305664062,
+	"LATITUDE_POINT_Y": 40.847469329833984
+ },
+ {
 	"Bin": 2008862,
 	"House Number": "81",
 	"Street Name": "WEST 174 STREET",
@@ -8506,6 +8518,18 @@
 	"Lot": 18,
 	"LONGITUDE_POINT_X": -73.89100646972656,
 	"LATITUDE_POINT_Y": 40.854408264160156
+ },
+ {
+	"Bin": 2011629,
+	"House Number": "490",
+	"Street Name": "EAST 184 STREET",
+	"Zip": 10458,
+	"Community Board": 206,
+	"Borough Name": "Bronx",
+	"Block": 3053,
+	"Lot": 64,
+	"LONGITUDE_POINT_X": -73.89232635498047,
+	"LATITUDE_POINT_Y": 40.85554885864258
  },
  {
 	"Bin": 2011649,
@@ -16452,18 +16476,6 @@
 	"LATITUDE_POINT_Y": 40.64038848876953
  },
  {
-	"Bin": 3016241,
-	"House Number": "263",
-	"Street Name": "  60 STREET",
-	"Zip": 11220,
-	"Community Board": 307,
-	"Borough Name": "Brooklyn",
-	"Block": 861,
-	"Lot": 52,
-	"LONGITUDE_POINT_X": -74.0209732055664,
-	"LATITUDE_POINT_Y": 40.6426887512207
- },
- {
 	"Bin": 3016249,
 	"House Number": "245",
 	"Street Name": "60 STREET",
@@ -16834,18 +16846,6 @@
 	"Lot": 54,
 	"LONGITUDE_POINT_X": -73.97823333740234,
 	"LATITUDE_POINT_Y": 40.66468048095703
- },
- {
-	"Bin": 3026344,
-	"House Number": "521",
-	"Street Name": "12 STREET",
-	"Zip": 11215,
-	"Community Board": 306,
-	"Borough Name": "Brooklyn",
-	"Block": 1097,
-	"Lot": 48,
-	"LONGITUDE_POINT_X": -73.97850036621094,
-	"LATITUDE_POINT_Y": 40.66313171386719
  },
  {
 	"Bin": 3026404,
@@ -18600,16 +18600,16 @@
 	"LATITUDE_POINT_Y": 40.669151306152344
  },
  {
-	"Bin": 3037385,
-	"House Number": "273",
-	"Street Name": "ROCHESTER AVENUE",
+	"Bin": 3037413,
+	"House Number": "1225",
+	"Street Name": "EASTERN PARKWAY",
 	"Zip": 11213,
 	"Community Board": 308,
 	"Borough Name": "Brooklyn",
 	"Block": 1392,
-	"Lot": 8,
-	"LONGITUDE_POINT_X": -73.927978515625,
-	"LATITUDE_POINT_Y": 40.66933822631836
+	"Lot": 78,
+	"LONGITUDE_POINT_X": -73.92778015136719,
+	"LATITUDE_POINT_Y": 40.6690788269043
  },
  {
 	"Bin": 3037434,
@@ -21444,6 +21444,18 @@
 	"LATITUDE_POINT_Y": 40.6828498840332
  },
  {
+	"Bin": 3052342,
+	"House Number": "155",
+	"Street Name": "HANCOCK STREET",
+	"Zip": 11216,
+	"Community Board": 303,
+	"Borough Name": "Brooklyn",
+	"Block": 1833,
+	"Lot": 84,
+	"LONGITUDE_POINT_X": -73.94967651367188,
+	"LATITUDE_POINT_Y": 40.68280029296875
+ },
+ {
 	"Bin": 3052379,
 	"House Number": "400",
 	"Street Name": "TOMPKINS AVENUE",
@@ -22738,6 +22750,18 @@
 	"Lot": 3,
 	"LONGITUDE_POINT_X": -73.9522705078125,
 	"LATITUDE_POINT_Y": 40.72700119018555
+ },
+ {
+	"Bin": 3066245,
+	"House Number": "85",
+	"Street Name": "NEWELL STREET",
+	"Zip": 11222,
+	"Community Board": 301,
+	"Borough Name": "Brooklyn",
+	"Block": 2650,
+	"Lot": 24,
+	"LONGITUDE_POINT_X": -73.94795227050781,
+	"LATITUDE_POINT_Y": 40.72528839111328
  },
  {
 	"Bin": 3066403,
@@ -31284,6 +31308,18 @@
 	"LATITUDE_POINT_Y": 40.64992904663086
  },
  {
+	"Bin": 3117590,
+	"House Number": "1800",
+	"Street Name": "ALBEMARLE ROAD",
+	"Zip": 11226,
+	"Community Board": 314,
+	"Borough Name": "Brooklyn",
+	"Block": 5122,
+	"Lot": 1,
+	"LONGITUDE_POINT_X": -73.96209716796875,
+	"LATITUDE_POINT_Y": 40.646820068359375
+ },
+ {
 	"Bin": 3117592,
 	"House Number": "120",
 	"Street Name": "EAST 19 STREET",
@@ -38122,6 +38158,18 @@
 	"Lot": 23,
 	"LONGITUDE_POINT_X": -73.91217041015625,
 	"LATITUDE_POINT_Y": 40.70623016357422
+ },
+ {
+	"Bin": 4081953,
+	"House Number": "1723",
+	"Street Name": "HARMAN STREET",
+	"Zip": 11385,
+	"Community Board": 405,
+	"Borough Name": "Queens",
+	"Block": 3432,
+	"Lot": 58,
+	"LONGITUDE_POINT_X": -73.913818359375,
+	"LATITUDE_POINT_Y": 40.7053108215332
  },
  {
 	"Bin": 4082096,
