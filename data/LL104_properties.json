@@ -9108,18 +9108,6 @@
 	"LATITUDE_POINT_Y": 40.85472869873047
  },
  {
-	"Bin": 2013094,
-	"House Number": "2095",
-	"Street Name": "MOHEGAN AVENUE",
-	"Zip": 10460,
-	"Community Board": 206,
-	"Borough Name": "Bronx",
-	"Block": 3118,
-	"Lot": 29,
-	"LONGITUDE_POINT_X": -73.8838119506836,
-	"LATITUDE_POINT_Y": 40.845420837402344
- },
- {
 	"Bin": 2013099,
 	"House Number": "2116",
 	"Street Name": "CROTONA PARKWAY",
@@ -41578,6 +41566,18 @@
 	"Lot": 38,
 	"LONGITUDE_POINT_X": -74.08305358886719,
 	"LATITUDE_POINT_Y": 40.619110107421875
+ },
+ {
+	"Bin": 5014382,
+	"House Number": "207",
+	"Street Name": "TARGEE STREET",
+	"Zip": 10304,
+	"Community Board": 501,
+	"Borough Name": "Staten Island",
+	"Block": 563,
+	"Lot": 43,
+	"LONGITUDE_POINT_X": -74.083740234375,
+	"LATITUDE_POINT_Y": 40.62202835083008
  },
  {
 	"Bin": 5023776,
