@@ -5712,18 +5712,6 @@
 	"LATITUDE_POINT_Y": 40.80363845825195
  },
  {
-	"Bin": 2003660,
-	"House Number": "344",
-	"Street Name": "BEEKMAN AVENUE",
-	"Zip": 10454,
-	"Community Board": 201,
-	"Borough Name": "Bronx",
-	"Block": 2554,
-	"Lot": 18,
-	"LONGITUDE_POINT_X": -73.91349029541016,
-	"LATITUDE_POINT_Y": 40.808860778808594
- },
- {
 	"Bin": 2003683,
 	"House Number": "612",
 	"Street Name": "BEECH TERRACE",
@@ -7522,6 +7510,18 @@
 	"Lot": 277,
 	"LONGITUDE_POINT_X": -73.91818237304688,
 	"LATITUDE_POINT_Y": 40.8443603515625
+ },
+ {
+	"Bin": 2008709,
+	"House Number": "1476",
+	"Street Name": "JESUP AVENUE",
+	"Zip": 10452,
+	"Community Board": 204,
+	"Borough Name": "Bronx",
+	"Block": 2872,
+	"Lot": 302,
+	"LONGITUDE_POINT_X": -73.91912841796875,
+	"LATITUDE_POINT_Y": 40.84286117553711
  },
  {
 	"Bin": 2008839,
@@ -10462,6 +10462,18 @@
 	"Lot": 47,
 	"LONGITUDE_POINT_X": -73.86773681640625,
 	"LATITUDE_POINT_Y": 40.81986999511719
+ },
+ {
+	"Bin": 2022024,
+	"House Number": "1757",
+	"Street Name": "SEWARD AVENUE",
+	"Zip": 10473,
+	"Community Board": 209,
+	"Borough Name": "Bronx",
+	"Block": 3595,
+	"Lot": 1,
+	"LONGITUDE_POINT_X": -73.86544036865234,
+	"LATITUDE_POINT_Y": 40.81909942626953
  },
  {
 	"Bin": 2022061,
@@ -22080,18 +22092,6 @@
 	"LATITUDE_POINT_Y": 40.685420989990234
  },
  {
-	"Bin": 3055977,
-	"House Number": "394",
-	"Street Name": "CLINTON AVENUE",
-	"Zip": 11238,
-	"Community Board": 302,
-	"Borough Name": "Brooklyn",
-	"Block": 1960,
-	"Lot": 38,
-	"LONGITUDE_POINT_X": -73.96784210205078,
-	"LATITUDE_POINT_Y": 40.68626022338867
- },
- {
 	"Bin": 3055983,
 	"House Number": "43",
 	"Street Name": "GATES AVENUE",
@@ -30946,18 +30946,6 @@
 	"Lot": 54,
 	"LONGITUDE_POINT_X": -73.95348358154297,
 	"LATITUDE_POINT_Y": 40.65718078613281
- },
- {
-	"Bin": 3115751,
-	"House Number": "292",
-	"Street Name": "HAWTHORNE STREET",
-	"Zip": 11225,
-	"Community Board": 309,
-	"Borough Name": "Brooklyn",
-	"Block": 5047,
-	"Lot": 39,
-	"LONGITUDE_POINT_X": -73.95060729980469,
-	"LATITUDE_POINT_Y": 40.657711029052734
  },
  {
 	"Bin": 3115848,
