@@ -2112,18 +2112,6 @@
 	"LATITUDE_POINT_Y": 40.8088493347168
  },
  {
-	"Bin": 1053698,
-	"House Number": "2",
-	"Street Name": "WEST 129 STREET",
-	"Zip": 10027,
-	"Community Board": 110,
-	"Borough Name": "Manhattan",
-	"Block": 1726,
-	"Lot": 39,
-	"LONGITUDE_POINT_X": -73.94082641601562,
-	"LATITUDE_POINT_Y": 40.8089599609375
- },
- {
 	"Bin": 1053715,
 	"House Number": "33",
 	"Street Name": "WEST 128 STREET",
@@ -2326,18 +2314,6 @@
 	"Lot": 25,
 	"LONGITUDE_POINT_X": -73.93683624267578,
 	"LATITUDE_POINT_Y": 40.79877853393555
- },
- {
-	"Bin": 1054533,
-	"House Number": "2315",
-	"Street Name": "2 AVENUE",
-	"Zip": 10035,
-	"Community Board": 111,
-	"Borough Name": "Manhattan",
-	"Block": 1783,
-	"Lot": 27,
-	"LONGITUDE_POINT_X": -73.93675231933594,
-	"LATITUDE_POINT_Y": 40.79890060424805
  },
  {
 	"Bin": 1054534,
@@ -10128,6 +10104,18 @@
 	"LATITUDE_POINT_Y": 40.83169937133789
  },
  {
+	"Bin": 2010846,
+	"House Number": "1472",
+	"Street Name": "BRYANT AVENUE",
+	"Zip": 10460,
+	"Community Board": 203,
+	"Borough Name": "Bronx",
+	"Block": 3000,
+	"Lot": 9,
+	"LONGITUDE_POINT_X": -73.88745880126953,
+	"LATITUDE_POINT_Y": 40.832008361816406
+ },
+ {
 	"Bin": 2010847,
 	"House Number": "1474",
 	"Street Name": "BRYANT AVENUE",
@@ -14638,6 +14626,18 @@
 	"Lot": 56,
 	"LONGITUDE_POINT_X": -73.86377716064453,
 	"LATITUDE_POINT_Y": 40.86608123779297
+ },
+ {
+	"Bin": 2053756,
+	"House Number": "2758",
+	"Street Name": "BARNES AVENUE",
+	"Zip": 10467,
+	"Community Board": 211,
+	"Borough Name": "Bronx",
+	"Block": 4513,
+	"Lot": 23,
+	"LONGITUDE_POINT_X": -73.8631820678711,
+	"LATITUDE_POINT_Y": 40.867191314697266
  },
  {
 	"Bin": 2053801,
@@ -31716,18 +31716,6 @@
 	"LATITUDE_POINT_Y": 40.66767120361328
  },
  {
-	"Bin": 3084658,
-	"House Number": "479",
-	"Street Name": "PENNSYLVANIA AVENUE",
-	"Zip": 11207,
-	"Community Board": 305,
-	"Borough Name": "Brooklyn",
-	"Block": 3806,
-	"Lot": 13,
-	"LONGITUDE_POINT_X": -73.89391326904297,
-	"LATITUDE_POINT_Y": 40.665611267089844
- },
- {
 	"Bin": 3084773,
 	"House Number": "531",
 	"Street Name": "BRADFORD STREET",
@@ -32518,6 +32506,18 @@
 	"Lot": 8,
 	"LONGITUDE_POINT_X": -73.87692260742188,
 	"LATITUDE_POINT_Y": 40.67118835449219
+ },
+ {
+	"Bin": 3089925,
+	"House Number": "303",
+	"Street Name": "MONTAUK AVENUE",
+	"Zip": 11208,
+	"Community Board": 305,
+	"Borough Name": "Brooklyn",
+	"Block": 4056,
+	"Lot": 9,
+	"LONGITUDE_POINT_X": -73.87693786621094,
+	"LATITUDE_POINT_Y": 40.671241760253906
  },
  {
 	"Bin": 3090295,
@@ -34990,6 +34990,18 @@
 	"Lot": 47,
 	"LONGITUDE_POINT_X": -73.91900634765625,
 	"LATITUDE_POINT_Y": 40.65871047973633
+ },
+ {
+	"Bin": 3101880,
+	"House Number": "352",
+	"Street Name": "EAST 96 STREET",
+	"Zip": 11212,
+	"Community Board": 317,
+	"Borough Name": "Brooklyn",
+	"Block": 4670,
+	"Lot": 50,
+	"LONGITUDE_POINT_X": -73.91899871826172,
+	"LATITUDE_POINT_Y": 40.65848159790039
  },
  {
 	"Bin": 3101882,
@@ -38242,6 +38254,18 @@
 	"Lot": 40,
 	"LONGITUDE_POINT_X": -73.9851303100586,
 	"LATITUDE_POINT_Y": 40.642940521240234
+ },
+ {
+	"Bin": 3123743,
+	"House Number": "1245",
+	"Street Name": "  36 STREET",
+	"Zip": 11218,
+	"Community Board": 312,
+	"Borough Name": "Brooklyn",
+	"Block": 5308,
+	"Lot": 41,
+	"LONGITUDE_POINT_X": -73.9852066040039,
+	"LATITUDE_POINT_Y": 40.64297103881836
  },
  {
 	"Bin": 3123977,
@@ -42250,6 +42274,18 @@
 	"Lot": 1,
 	"LONGITUDE_POINT_X": -73.91094207763672,
 	"LATITUDE_POINT_Y": 40.66144943237305
+ },
+ {
+	"Bin": 3343256,
+	"House Number": "735",
+	"Street Name": "LINCOLN AVENUE",
+	"Zip": 11208,
+	"Community Board": 305,
+	"Borough Name": "Brooklyn",
+	"Block": 4271,
+	"Lot": 9001,
+	"LONGITUDE_POINT_X": -73.86604309082031,
+	"LATITUDE_POINT_Y": 40.671058654785156
  },
  {
 	"Bin": 3343257,
@@ -49126,6 +49162,18 @@
 	"Lot": 77,
 	"LONGITUDE_POINT_X": -73.78620910644531,
 	"LATITUDE_POINT_Y": 40.70838928222656
+ },
+ {
+	"Bin": 4538076,
+	"House Number": "170-40",
+	"Street Name": "  93 AVENUE",
+	"Zip": 11433,
+	"Community Board": 412,
+	"Borough Name": "Queens",
+	"Block": 10219,
+	"Lot": 14,
+	"LONGITUDE_POINT_X": -73.78739166259766,
+	"LATITUDE_POINT_Y": 40.70568084716797
  },
  {
 	"Bin": 4538185,
