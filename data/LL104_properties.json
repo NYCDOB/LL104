@@ -8460,18 +8460,6 @@
 	"LATITUDE_POINT_Y": 40.81998
  },
  {
-	"Bin": 2004825,
-	"House Number": "970",
-	"Street Name": "TINTON AVENUE",
-	"Zip": 10456,
-	"Community Board": 203,
-	"Borough Name": "Bronx",
-	"Block": 2669,
-	"Lot": 6,
-	"LONGITUDE_POINT_X": -73.9025,
-	"LATITUDE_POINT_Y": 40.82328
- },
- {
 	"Bin": 2004894,
 	"House Number": "1212",
 	"Street Name": "TINTON AVENUE",
@@ -16284,18 +16272,6 @@
 	"LATITUDE_POINT_Y": 40.84721
  },
  {
-	"Bin": 2045405,
-	"House Number": "1826",
-	"Street Name": "RADCLIFF AVENUE",
-	"Zip": 10462,
-	"Community Board": 211,
-	"Borough Name": "Bronx",
-	"Block": 4126,
-	"Lot": 48,
-	"LONGITUDE_POINT_X": -73.85743,
-	"LATITUDE_POINT_Y": 40.84859
- },
- {
 	"Bin": 2045556,
 	"House Number": "1846",
 	"Street Name": "HONE AVENUE",
@@ -23652,6 +23628,18 @@
 	"LATITUDE_POINT_Y": 40.67676
  },
  {
+	"Bin": 3028644,
+	"House Number": "469",
+	"Street Name": "PROSPECT PLACE",
+	"Zip": 11238,
+	"Community Board": 308,
+	"Borough Name": "Brooklyn",
+	"Block": 1155,
+	"Lot": 70,
+	"LONGITUDE_POINT_X": -73.96078,
+	"LATITUDE_POINT_Y": 40.67624
+ },
+ {
 	"Bin": 3028683,
 	"House Number": "581",
 	"Street Name": "PROSPECT PLACE",
@@ -28524,6 +28512,18 @@
 	"LATITUDE_POINT_Y": 40.69418
  },
  {
+	"Bin": 3048833,
+	"House Number": "162",
+	"Street Name": "VERNON AVENUE",
+	"Zip": 11206,
+	"Community Board": 303,
+	"Borough Name": "Brooklyn",
+	"Block": 1760,
+	"Lot": 16,
+	"LONGITUDE_POINT_X": -73.9454,
+	"LATITUDE_POINT_Y": 40.69482
+ },
+ {
 	"Bin": 3048853,
 	"House Number": "266",
 	"Street Name": "THROOP AVENUE",
@@ -31812,6 +31812,18 @@
 	"LATITUDE_POINT_Y": 40.70668
  },
  {
+	"Bin": 3072815,
+	"House Number": "336",
+	"Street Name": "STARR STREET",
+	"Zip": 11237,
+	"Community Board": 304,
+	"Borough Name": "Brooklyn",
+	"Block": 3201,
+	"Lot": 20,
+	"LONGITUDE_POINT_X": -73.92011,
+	"LATITUDE_POINT_Y": 40.70775
+ },
+ {
 	"Bin": 3072879,
 	"House Number": "992",
 	"Street Name": "WILLOUGHBY AVENUE",
@@ -31918,18 +31930,6 @@
 	"Lot": 7,
 	"LONGITUDE_POINT_X": -73.92098,
 	"LATITUDE_POINT_Y": 40.70567
- },
- {
-	"Bin": 3072998,
-	"House Number": "1354",
-	"Street Name": "WILLOUGHBY AVENUE",
-	"Zip": 11237,
-	"Community Board": 304,
-	"Borough Name": "Brooklyn",
-	"Block": 3211,
-	"Lot": 20,
-	"LONGITUDE_POINT_X": -73.92045,
-	"LATITUDE_POINT_Y": 40.70626
  },
  {
 	"Bin": 3072999,
@@ -34366,6 +34366,18 @@
 	"Lot": 55,
 	"LONGITUDE_POINT_X": -73.91639,
 	"LATITUDE_POINT_Y": 40.66012
+ },
+ {
+	"Bin": 3082003,
+	"House Number": "351",
+	"Street Name": "LEGION STREET",
+	"Zip": 11212,
+	"Community Board": 316,
+	"Borough Name": "Brooklyn",
+	"Block": 3582,
+	"Lot": 6,
+	"LONGITUDE_POINT_X": -73.91579,
+	"LATITUDE_POINT_Y": 40.66009
  },
  {
 	"Bin": 3082016,
@@ -37776,18 +37788,6 @@
 	"LATITUDE_POINT_Y": 40.66583
  },
  {
-	"Bin": 3097025,
-	"House Number": "796",
-	"Street Name": "CLEVELAND STREET",
-	"Zip": 11208,
-	"Community Board": 305,
-	"Borough Name": "Brooklyn",
-	"Block": 4312,
-	"Lot": 34,
-	"LONGITUDE_POINT_X": -73.88167,
-	"LATITUDE_POINT_Y": 40.66491
- },
- {
 	"Bin": 3097089,
 	"House Number": "700",
 	"Street Name": "ESSEX STREET",
@@ -38206,18 +38206,6 @@
 	"Lot": 33,
 	"LONGITUDE_POINT_X": -73.92449,
 	"LATITUDE_POINT_Y": 40.66459
- },
- {
-	"Bin": 3099543,
-	"House Number": "70",
-	"Street Name": "ROCKAWAY PARKWAY",
-	"Zip": 11212,
-	"Community Board": 317,
-	"Borough Name": "Brooklyn",
-	"Block": 4599,
-	"Lot": 38,
-	"LONGITUDE_POINT_X": -73.92426,
-	"LATITUDE_POINT_Y": 40.66438
  },
  {
 	"Bin": 3099576,
@@ -39334,18 +39322,6 @@
 	"Lot": 24,
 	"LONGITUDE_POINT_X": -73.91748,
 	"LATITUDE_POINT_Y": 40.65829
- },
- {
-	"Bin": 3101923,
-	"House Number": "416",
-	"Street Name": "ROCKAWAY PARKWAY",
-	"Zip": 11212,
-	"Community Board": 317,
-	"Borough Name": "Brooklyn",
-	"Block": 4671,
-	"Lot": 30,
-	"LONGITUDE_POINT_X": -73.91698,
-	"LATITUDE_POINT_Y": 40.65784
  },
  {
 	"Bin": 3101931,
@@ -40642,6 +40618,18 @@
 	"Lot": 35,
 	"LONGITUDE_POINT_X": -73.94008,
 	"LATITUDE_POINT_Y": 40.65348
+ },
+ {
+	"Bin": 3108308,
+	"House Number": "88",
+	"Street Name": "EAST   42 STREET",
+	"Zip": 11203,
+	"Community Board": 317,
+	"Borough Name": "Brooklyn",
+	"Block": 4862,
+	"Lot": 23,
+	"LONGITUDE_POINT_X": -73.93864,
+	"LATITUDE_POINT_Y": 40.65387
  },
  {
 	"Bin": 3108315,
@@ -48106,18 +48094,6 @@
 	"Lot": 30,
 	"LONGITUDE_POINT_X": -73.9062,
 	"LATITUDE_POINT_Y": 40.68026
- },
- {
-	"Bin": 3389417,
-	"House Number": "794",
-	"Street Name": "GLENMORE AVENUE",
-	"Zip": 11208,
-	"Community Board": 305,
-	"Borough Name": "Brooklyn",
-	"Block": 4005,
-	"Lot": 210,
-	"LONGITUDE_POINT_X": -73.88074,
-	"LATITUDE_POINT_Y": 40.67522
  },
  {
 	"Bin": 3389422,
