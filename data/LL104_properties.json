@@ -3672,18 +3672,6 @@
 	"LATITUDE_POINT_Y": 40.81949
  },
  {
-	"Bin": 1059808,
-	"House Number": "528",
-	"Street Name": "WEST 136 STREET",
-	"Zip": 10031,
-	"Community Board": 109,
-	"Borough Name": "Manhattan",
-	"Block": 1988,
-	"Lot": 127,
-	"LONGITUDE_POINT_X": -73.95377,
-	"LATITUDE_POINT_Y": 40.82018
- },
- {
 	"Bin": 1059860,
 	"House Number": "192",
 	"Street Name": "CLAREMONT AVENUE",
@@ -9814,6 +9802,18 @@
 	"Lot": 308,
 	"LONGITUDE_POINT_X": -73.88785,
 	"LATITUDE_POINT_Y": 40.81337
+ },
+ {
+	"Bin": 2006677,
+	"House Number": "662",
+	"Street Name": "MANIDA STREET",
+	"Zip": 10474,
+	"Community Board": 202,
+	"Borough Name": "Bronx",
+	"Block": 2765,
+	"Lot": 314,
+	"LONGITUDE_POINT_X": -73.88797,
+	"LATITUDE_POINT_Y": 40.81371
  },
  {
 	"Bin": 2006679,
@@ -27792,6 +27792,18 @@
 	"LATITUDE_POINT_Y": 40.6779
  },
  {
+	"Bin": 3042261,
+	"House Number": "2206",
+	"Street Name": "FULTON STREET",
+	"Zip": 11233,
+	"Community Board": 316,
+	"Borough Name": "Brooklyn",
+	"Block": 1552,
+	"Lot": 40,
+	"LONGITUDE_POINT_X": -73.90823,
+	"LATITUDE_POINT_Y": 40.67789
+ },
+ {
 	"Bin": 3042315,
 	"House Number": "1449",
 	"Street Name": "HERKIMER STREET",
@@ -40980,6 +40992,18 @@
 	"LATITUDE_POINT_Y": 40.65809
  },
  {
+	"Bin": 3107994,
+	"House Number": "252",
+	"Street Name": "EAST   46 STREET",
+	"Zip": 11203,
+	"Community Board": 317,
+	"Borough Name": "Brooklyn",
+	"Block": 4850,
+	"Lot": 14,
+	"LONGITUDE_POINT_X": -73.93501,
+	"LATITUDE_POINT_Y": 40.65584
+ },
+ {
 	"Bin": 3108043,
 	"House Number": "259",
 	"Street Name": "EAST   46 STREET",
@@ -45072,6 +45096,18 @@
 	"LATITUDE_POINT_Y": 40.6084
  },
  {
+	"Bin": 3163285,
+	"House Number": "8001",
+	"Street Name": "NEW UTRECHT AVENUE",
+	"Zip": 11214,
+	"Community Board": 311,
+	"Borough Name": "Brooklyn",
+	"Block": 6284,
+	"Lot": 19,
+	"LONGITUDE_POINT_X": -74.0009,
+	"LATITUDE_POINT_Y": 40.61147
+ },
+ {
 	"Bin": 3164591,
 	"House Number": "8128",
 	"Street Name": "BAY 16 STREET",
@@ -46870,6 +46906,18 @@
 	"Lot": 85,
 	"LONGITUDE_POINT_X": -73.95311,
 	"LATITUDE_POINT_Y": 40.64899
+ },
+ {
+	"Bin": 3255180,
+	"House Number": "119",
+	"Street Name": "QUINCY STREET",
+	"Zip": 11216,
+	"Community Board": 303,
+	"Borough Name": "Brooklyn",
+	"Block": 1971,
+	"Lot": 53,
+	"LONGITUDE_POINT_X": -73.95635,
+	"LATITUDE_POINT_Y": 40.68653
  },
  {
 	"Bin": 3256559,
