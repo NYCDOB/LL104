@@ -2652,18 +2652,6 @@
 	"LATITUDE_POINT_Y": 40.79925
  },
  {
-	"Bin": 1054970,
-	"House Number": "1831",
-	"Street Name": "7 AVENUE",
-	"Zip": 10026,
-	"Community Board": 110,
-	"Borough Name": "Manhattan",
-	"Block": 1821,
-	"Lot": 64,
-	"LONGITUDE_POINT_X": -73.95418,
-	"LATITUDE_POINT_Y": 40.80027
- },
- {
 	"Bin": 1054981,
 	"House Number": "123",
 	"Street Name": "WEST 112 STREET",
@@ -7510,6 +7498,18 @@
 	"Lot": 68,
 	"LONGITUDE_POINT_X": -73.91296,
 	"LATITUDE_POINT_Y": 40.83396
+ },
+ {
+	"Bin": 2002436,
+	"House Number": "1237",
+	"Street Name": "COLLEGE AVENUE",
+	"Zip": 10456,
+	"Community Board": 204,
+	"Borough Name": "Bronx",
+	"Block": 2439,
+	"Lot": 69,
+	"LONGITUDE_POINT_X": -73.913,
+	"LATITUDE_POINT_Y": 40.83389
  },
  {
 	"Bin": 2002475,
@@ -14880,6 +14880,18 @@
 	"LATITUDE_POINT_Y": 40.81645
  },
  {
+	"Bin": 2021479,
+	"House Number": "505",
+	"Street Name": "SOUNDVIEW AVENUE",
+	"Zip": 10473,
+	"Community Board": 209,
+	"Borough Name": "Bronx",
+	"Block": 3524,
+	"Lot": 3,
+	"LONGITUDE_POINT_X": -73.86035,
+	"LATITUDE_POINT_Y": 40.81547
+ },
+ {
 	"Bin": 2021522,
 	"House Number": "529",
 	"Street Name": "UNDERHILL AVENUE",
@@ -15046,6 +15058,18 @@
 	"Lot": 14,
 	"LONGITUDE_POINT_X": -73.87798,
 	"LATITUDE_POINT_Y": 40.82471
+ },
+ {
+	"Bin": 2023480,
+	"House Number": "1025",
+	"Street Name": "BOYNTON AVENUE",
+	"Zip": 10472,
+	"Community Board": 209,
+	"Borough Name": "Bronx",
+	"Block": 3714,
+	"Lot": 54,
+	"LONGITUDE_POINT_X": -73.87757,
+	"LATITUDE_POINT_Y": 40.82456
  },
  {
 	"Bin": 2023482,
@@ -18804,18 +18828,6 @@
 	"LATITUDE_POINT_Y": 40.89199
  },
  {
-	"Bin": 2063298,
-	"House Number": "634",
-	"Street Name": "EAST 233 STREET",
-	"Zip": 10466,
-	"Community Board": 212,
-	"Borough Name": "Bronx",
-	"Block": 4835,
-	"Lot": 54,
-	"LONGITUDE_POINT_X": -73.85978,
-	"LATITUDE_POINT_Y": 40.89389
- },
- {
 	"Bin": 2063314,
 	"House Number": "721",
 	"Street Name": "EAST 222 STREET",
@@ -19270,6 +19282,18 @@
 	"Lot": 124,
 	"LONGITUDE_POINT_X": -73.84196,
 	"LATITUDE_POINT_Y": 40.87917
+ },
+ {
+	"Bin": 2065773,
+	"House Number": "1208",
+	"Street Name": "EAST 224 STREET",
+	"Zip": 10466,
+	"Community Board": 212,
+	"Borough Name": "Bronx",
+	"Block": 4898,
+	"Lot": 49,
+	"LONGITUDE_POINT_X": -73.84623,
+	"LATITUDE_POINT_Y": 40.88182
  },
  {
 	"Bin": 2065831,
@@ -21070,6 +21094,18 @@
 	"Lot": 305,
 	"LONGITUDE_POINT_X": -73.88776,
 	"LATITUDE_POINT_Y": 40.81319
+ },
+ {
+	"Bin": 2113111,
+	"House Number": "1208",
+	"Street Name": "FRANKLIN AVENUE",
+	"Zip": 10456,
+	"Community Board": 203,
+	"Borough Name": "Bronx",
+	"Block": 2614,
+	"Lot": 19,
+	"LONGITUDE_POINT_X": -73.90344,
+	"LATITUDE_POINT_Y": 40.82999
  },
  {
 	"Bin": 2113173,
@@ -23844,6 +23880,18 @@
 	"LATITUDE_POINT_Y": 40.64713
  },
  {
+	"Bin": 3018243,
+	"House Number": "869",
+	"Street Name": "42 STREET",
+	"Zip": 11232,
+	"Community Board": 312,
+	"Borough Name": "Brooklyn",
+	"Block": 923,
+	"Lot": 48,
+	"LONGITUDE_POINT_X": -73.99712,
+	"LATITUDE_POINT_Y": 40.64471
+ },
+ {
 	"Bin": 3018301,
 	"House Number": "4222",
 	"Street Name": "8 AVENUE",
@@ -23866,6 +23914,18 @@
 	"Lot": 6,
 	"LONGITUDE_POINT_X": -73.97695,
 	"LATITUDE_POINT_Y": 40.68109
+ },
+ {
+	"Bin": 3018636,
+	"House Number": "15",
+	"Street Name": "ST MARKS AVENUE",
+	"Zip": 11217,
+	"Community Board": 306,
+	"Borough Name": "Brooklyn",
+	"Block": 933,
+	"Lot": 70,
+	"LONGITUDE_POINT_X": -73.97666,
+	"LATITUDE_POINT_Y": 40.68078
  },
  {
 	"Bin": 3018665,
@@ -27766,6 +27826,18 @@
 	"Lot": 20,
 	"LONGITUDE_POINT_X": -73.91352,
 	"LATITUDE_POINT_Y": 40.68424
+ },
+ {
+	"Bin": 3040558,
+	"House Number": "165",
+	"Street Name": "HOWARD AVENUE",
+	"Zip": 11233,
+	"Community Board": 303,
+	"Borough Name": "Brooklyn",
+	"Block": 1505,
+	"Lot": 1,
+	"LONGITUDE_POINT_X": -73.9198,
+	"LATITUDE_POINT_Y": 40.68278
  },
  {
 	"Bin": 3040659,
@@ -52344,6 +52416,18 @@
 	"LATITUDE_POINT_Y": 40.71174
  },
  {
+	"Bin": 4080468,
+	"House Number": "20-35",
+	"Street Name": "HIMROD STREET",
+	"Zip": 11385,
+	"Community Board": 405,
+	"Borough Name": "Queens",
+	"Block": 3379,
+	"Lot": 54,
+	"LONGITUDE_POINT_X": -73.90975,
+	"LATITUDE_POINT_Y": 40.71046
+ },
+ {
 	"Bin": 4080578,
 	"House Number": "502",
 	"Street Name": "GRANDVIEW AVE",
@@ -55222,6 +55306,18 @@
 	"Lot": 7501,
 	"LONGITUDE_POINT_X": -73.86275,
 	"LATITUDE_POINT_Y": 40.67975
+ },
+ {
+	"Bin": 4314565,
+	"House Number": "58-31",
+	"Street Name": "PENROD STREET",
+	"Zip": 11368,
+	"Community Board": 404,
+	"Borough Name": "Queens",
+	"Block": 1959,
+	"Lot": 38,
+	"LONGITUDE_POINT_X": -73.85371,
+	"LATITUDE_POINT_Y": 40.73904
  },
  {
 	"Bin": 4314570,
