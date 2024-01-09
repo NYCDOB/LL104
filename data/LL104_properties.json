@@ -768,6 +768,18 @@
 	"LATITUDE_POINT_Y": 40.74186
  },
  {
+	"Bin": 1014061,
+	"House Number": "224",
+	"Street Name": "8 AVENUE",
+	"Zip": 10011,
+	"Community Board": 104,
+	"Borough Name": "Manhattan",
+	"Block": 771,
+	"Lot": 4,
+	"LONGITUDE_POINT_X": -73.9989,
+	"LATITUDE_POINT_Y": 40.74417
+ },
+ {
 	"Bin": 1014113,
 	"House Number": "229",
 	"Street Name": "WEST 22 STREET",
@@ -14470,6 +14482,18 @@
 	"Lot": 1,
 	"LONGITUDE_POINT_X": -73.88599,
 	"LATITUDE_POINT_Y": 40.86641
+ },
+ {
+	"Bin": 2016424,
+	"House Number": "378",
+	"Street Name": "BEDFORD PARK BOULEVARD",
+	"Zip": 10458,
+	"Community Board": 207,
+	"Borough Name": "Bronx",
+	"Block": 3279,
+	"Lot": 62,
+	"LONGITUDE_POINT_X": -73.88435,
+	"LATITUDE_POINT_Y": 40.86763
  },
  {
 	"Bin": 2016475,
@@ -33480,18 +33504,6 @@
 	"LATITUDE_POINT_Y": 40.70308
  },
  {
-	"Bin": 3073233,
-	"House Number": "871",
-	"Street Name": "HART STREET",
-	"Zip": 11237,
-	"Community Board": 304,
-	"Borough Name": "Brooklyn",
-	"Block": 3220,
-	"Lot": 39,
-	"LONGITUDE_POINT_X": -73.92218,
-	"LATITUDE_POINT_Y": 40.70286
- },
- {
 	"Bin": 3073234,
 	"House Number": "869",
 	"Street Name": "HART STREET",
@@ -39658,6 +39670,18 @@
 	"Lot": 31,
 	"LONGITUDE_POINT_X": -73.86747,
 	"LATITUDE_POINT_Y": 40.66402
+ },
+ {
+	"Bin": 3098975,
+	"House Number": "947",
+	"Street Name": "CRESCENT STREET",
+	"Zip": 11208,
+	"Community Board": 305,
+	"Borough Name": "Brooklyn",
+	"Block": 4529,
+	"Lot": 39,
+	"LONGITUDE_POINT_X": -73.86696,
+	"LATITUDE_POINT_Y": 40.66432
  },
  {
 	"Bin": 3099447,
@@ -46042,6 +46066,18 @@
 	"Lot": 39,
 	"LONGITUDE_POINT_X": -74.00724,
 	"LATITUDE_POINT_Y": 40.62089
+ },
+ {
+	"Bin": 3159791,
+	"House Number": "7424",
+	"Street Name": "  21 AVENUE",
+	"Zip": 11204,
+	"Community Board": 311,
+	"Borough Name": "Brooklyn",
+	"Block": 6218,
+	"Lot": 41,
+	"LONGITUDE_POINT_X": -73.9895,
+	"LATITUDE_POINT_Y": 40.6098
  },
  {
 	"Bin": 3160204,
@@ -53040,6 +53076,18 @@
 	"LATITUDE_POINT_Y": 40.70072
  },
  {
+	"Bin": 4082422,
+	"House Number": "1682",
+	"Street Name": "WOODBINE STREET",
+	"Zip": 11385,
+	"Community Board": 405,
+	"Borough Name": "Queens",
+	"Block": 3450,
+	"Lot": 37,
+	"LONGITUDE_POINT_X": -73.90804,
+	"LATITUDE_POINT_Y": 40.70096
+ },
+ {
 	"Bin": 4082459,
 	"House Number": "17-08",
 	"Street Name": "LINDEN STREET",
@@ -56148,6 +56196,18 @@
 	"LATITUDE_POINT_Y": 40.72064
  },
  {
+	"Bin": 4451515,
+	"House Number": "150-45",
+	"Street Name": "  73 AVENUE",
+	"Zip": 11367,
+	"Community Board": 408,
+	"Borough Name": "Queens",
+	"Block": 6702,
+	"Lot": 1,
+	"LONGITUDE_POINT_X": -73.81554,
+	"LATITUDE_POINT_Y": 40.72666
+ },
+ {
 	"Bin": 4451522,
 	"House Number": "150-40",
 	"Street Name": "  73 AVENUE",
@@ -56242,6 +56302,18 @@
 	"Lot": 1,
 	"LONGITUDE_POINT_X": -73.85108,
 	"LATITUDE_POINT_Y": 40.78484
+ },
+ {
+	"Bin": 4455120,
+	"House Number": "36-03",
+	"Street Name": " 191 STREET",
+	"Zip": 11358,
+	"Community Board": 411,
+	"Borough Name": "Queens",
+	"Block": 5309,
+	"Lot": 3,
+	"LONGITUDE_POINT_X": -73.79073,
+	"LATITUDE_POINT_Y": 40.76296
  },
  {
 	"Bin": 4455126,
