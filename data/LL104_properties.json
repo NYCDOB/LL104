@@ -1800,6 +1800,18 @@
 	"LATITUDE_POINT_Y": 40.7876
  },
  {
+	"Bin": 1051786,
+	"House Number": "111",
+	"Street Name": "EAST  100 STREET",
+	"Zip": 10029,
+	"Community Board": 111,
+	"Borough Name": "Manhattan",
+	"Block": 1628,
+	"Lot": 6,
+	"LONGITUDE_POINT_X": -73.94976,
+	"LATITUDE_POINT_Y": 40.78897
+ },
+ {
 	"Bin": 1051903,
 	"House Number": "122",
 	"Street Name": "EAST 103 STREET",
@@ -4942,6 +4954,18 @@
 	"Lot": 21,
 	"LONGITUDE_POINT_X": -73.94755,
 	"LATITUDE_POINT_Y": 40.82715
+ },
+ {
+	"Bin": 1062014,
+	"House Number": "3600",
+	"Street Name": "BROADWAY",
+	"Zip": 10031,
+	"Community Board": 109,
+	"Borough Name": "Manhattan",
+	"Block": 2080,
+	"Lot": 1,
+	"LONGITUDE_POINT_X": -73.94856,
+	"LATITUDE_POINT_Y": 40.82831
  },
  {
 	"Bin": 1062015,
@@ -12228,18 +12252,6 @@
 	"LATITUDE_POINT_Y": 40.83253
  },
  {
-	"Bin": 2010221,
-	"House Number": "1389",
-	"Street Name": "BRISTOW STREET",
-	"Zip": 10459,
-	"Community Board": 203,
-	"Borough Name": "Bronx",
-	"Block": 2963,
-	"Lot": 27,
-	"LONGITUDE_POINT_X": -73.89526,
-	"LATITUDE_POINT_Y": 40.83278
- },
- {
 	"Bin": 2010229,
 	"House Number": "797",
 	"Street Name": "JENNINGS STREET",
@@ -14088,6 +14100,18 @@
 	"LATITUDE_POINT_Y": 40.85504
  },
  {
+	"Bin": 2013441,
+	"House Number": "2335",
+	"Street Name": "TIEBOUT AVENUE",
+	"Zip": 10458,
+	"Community Board": 205,
+	"Borough Name": "Bronx",
+	"Block": 3146,
+	"Lot": 62,
+	"LONGITUDE_POINT_X": -73.89709,
+	"LATITUDE_POINT_Y": 40.85743
+ },
+ {
 	"Bin": 2013480,
 	"House Number": "2489",
 	"Street Name": "TIEBOUT AVENUE",
@@ -15240,18 +15264,6 @@
 	"LATITUDE_POINT_Y": 40.86345
  },
  {
-	"Bin": 2016364,
-	"House Number": "2656",
-	"Street Name": "DECATUR AVENUE",
-	"Zip": 10458,
-	"Community Board": 207,
-	"Borough Name": "Bronx",
-	"Block": 3277,
-	"Lot": 14,
-	"LONGITUDE_POINT_X": -73.88931,
-	"LATITUDE_POINT_Y": 40.86403
- },
- {
 	"Bin": 2016368,
 	"House Number": "390",
 	"Street Name": "EAST  195 STREET",
@@ -16246,6 +16258,18 @@
 	"Lot": 14,
 	"LONGITUDE_POINT_X": -73.87798,
 	"LATITUDE_POINT_Y": 40.82471
+ },
+ {
+	"Bin": 2023482,
+	"House Number": "1020",
+	"Street Name": "BOYNTON AVENUE",
+	"Zip": 10472,
+	"Community Board": 209,
+	"Borough Name": "Bronx",
+	"Block": 3715,
+	"Lot": 11,
+	"LONGITUDE_POINT_X": -73.87697,
+	"LATITUDE_POINT_Y": 40.82449
  },
  {
 	"Bin": 2023510,
@@ -24492,6 +24516,18 @@
 	"LATITUDE_POINT_Y": 40.6758
  },
  {
+	"Bin": 3008931,
+	"House Number": "193",
+	"Street Name": "  17 STREET",
+	"Zip": 11215,
+	"Community Board": 307,
+	"Borough Name": "Brooklyn",
+	"Block": 628,
+	"Lot": 69,
+	"LONGITUDE_POINT_X": -73.99283,
+	"LATITUDE_POINT_Y": 40.66488
+ },
+ {
 	"Bin": 3008945,
 	"House Number": "166",
 	"Street Name": "17 STREET",
@@ -25930,6 +25966,18 @@
 	"Lot": 43,
 	"LONGITUDE_POINT_X": -73.99146,
 	"LATITUDE_POINT_Y": 40.66759
+ },
+ {
+	"Bin": 3023819,
+	"House Number": "60",
+	"Street Name": "15 STREET",
+	"Zip": 11215,
+	"Community Board": 307,
+	"Borough Name": "Brooklyn",
+	"Block": 1045,
+	"Lot": 28,
+	"LONGITUDE_POINT_X": -73.99496,
+	"LATITUDE_POINT_Y": 40.66804
  },
  {
 	"Bin": 3023929,
@@ -33682,6 +33730,18 @@
 	"Lot": 25,
 	"LONGITUDE_POINT_X": -73.96572,
 	"LATITUDE_POINT_Y": 40.71336
+ },
+ {
+	"Bin": 3063287,
+	"House Number": "182",
+	"Street Name": "SOUTH    3 STREET",
+	"Zip": 11211,
+	"Community Board": 301,
+	"Borough Name": "Brooklyn",
+	"Block": 2432,
+	"Lot": 9,
+	"LONGITUDE_POINT_X": -73.96059,
+	"LATITUDE_POINT_Y": 40.71157
  },
  {
 	"Bin": 3063350,
@@ -42838,6 +42898,18 @@
 	"Lot": 6,
 	"LONGITUDE_POINT_X": -73.91533,
 	"LATITUDE_POINT_Y": 40.6561
+ },
+ {
+	"Bin": 3102678,
+	"House Number": "9601",
+	"Street Name": "CHURCH AVENUE",
+	"Zip": 11212,
+	"Community Board": 317,
+	"Borough Name": "Brooklyn",
+	"Block": 4693,
+	"Lot": 10,
+	"LONGITUDE_POINT_X": -73.91555,
+	"LATITUDE_POINT_Y": 40.65595
  },
  {
 	"Bin": 3102684,
@@ -58226,18 +58298,6 @@
  {
 	"Bin": 4451444,
 	"House Number": "147-51",
-	"Street Name": "  72 ROAD",
-	"Zip": 11367,
-	"Community Board": 408,
-	"Borough Name": "Queens",
-	"Block": 6679,
-	"Lot": 6,
-	"LONGITUDE_POINT_X": -73.81842,
-	"LATITUDE_POINT_Y": 40.72713
- },
- {
-	"Bin": 4451448,
-	"House Number": "147-07",
 	"Street Name": "  72 ROAD",
 	"Zip": 11367,
 	"Community Board": 408,
