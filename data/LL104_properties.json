@@ -2280,6 +2280,18 @@
 	"LATITUDE_POINT_Y": 40.80583
  },
  {
+	"Bin": 1053398,
+	"House Number": "22",
+	"Street Name": "MOUNT MORRIS PARK WEST",
+	"Zip": 10027,
+	"Community Board": 110,
+	"Borough Name": "Manhattan",
+	"Block": 1721,
+	"Lot": 14,
+	"LONGITUDE_POINT_X": -73.94544,
+	"LATITUDE_POINT_Y": 40.80542
+ },
+ {
 	"Bin": 1053420,
 	"House Number": "23",
 	"Street Name": "WEST 123 STREET",
@@ -15836,8 +15848,8 @@
 	"Borough Name": "Bronx",
 	"Block": 3331,
 	"Lot": 7,
-	"LONGITUDE_POINT_X": -73.87939,
-	"LATITUDE_POINT_Y": 40.8705
+	"LONGITUDE_POINT_X": -73.87943,
+	"LATITUDE_POINT_Y": 40.87048
  },
  {
 	"Bin": 2017885,
@@ -17830,18 +17842,6 @@
 	"Lot": 50,
 	"LONGITUDE_POINT_X": -73.85142,
 	"LATITUDE_POINT_Y": 40.84226
- },
- {
-	"Bin": 2042268,
-	"House Number": "2437",
-	"Street Name": "LYVERE STREET",
-	"Zip": 10461,
-	"Community Board": 210,
-	"Borough Name": "Bronx",
-	"Block": 3998,
-	"Lot": 22,
-	"LONGITUDE_POINT_X": -73.85252,
-	"LATITUDE_POINT_Y": 40.84229
  },
  {
 	"Bin": 2042357,
@@ -23832,6 +23832,18 @@
 	"LATITUDE_POINT_Y": 40.81422
  },
  {
+	"Bin": 2124405,
+	"House Number": "937",
+	"Street Name": "SUMMIT AVENUE",
+	"Zip": 10452,
+	"Community Board": 204,
+	"Borough Name": "Bronx",
+	"Block": 2523,
+	"Lot": 66,
+	"LONGITUDE_POINT_X": -73.93117,
+	"LATITUDE_POINT_Y": 40.83202
+ },
+ {
 	"Bin": 2124485,
 	"House Number": "1972",
 	"Street Name": "BATHGATE AVENUE",
@@ -24982,6 +24994,18 @@
 	"Lot": 53,
 	"LONGITUDE_POINT_X": -74.00865,
 	"LATITUDE_POINT_Y": 40.64437
+ },
+ {
+	"Bin": 3013047,
+	"House Number": "4912",
+	"Street Name": "7 AVENUE",
+	"Zip": 11220,
+	"Community Board": 307,
+	"Borough Name": "Brooklyn",
+	"Block": 785,
+	"Lot": 40,
+	"LONGITUDE_POINT_X": -74.00584,
+	"LATITUDE_POINT_Y": 40.64291
  },
  {
 	"Bin": 3013242,
@@ -34860,18 +34884,6 @@
 	"LATITUDE_POINT_Y": 40.70629
  },
  {
-	"Bin": 3073013,
-	"House Number": "409",
-	"Street Name": "SUYDAM STREET",
-	"Zip": 11237,
-	"Community Board": 304,
-	"Borough Name": "Brooklyn",
-	"Block": 3211,
-	"Lot": 38,
-	"LONGITUDE_POINT_X": -73.92038,
-	"LATITUDE_POINT_Y": 40.70586
- },
- {
 	"Bin": 3073076,
 	"House Number": "715",
 	"Street Name": "BUSHWICK AVENUE",
@@ -36934,18 +36946,6 @@
 	"Lot": 35,
 	"LONGITUDE_POINT_X": -73.91064,
 	"LATITUDE_POINT_Y": 40.68489
- },
- {
-	"Bin": 3079692,
-	"House Number": "63",
-	"Street Name": "COOPER STREET",
-	"Zip": 11207,
-	"Community Board": 304,
-	"Borough Name": "Brooklyn",
-	"Block": 3433,
-	"Lot": 63,
-	"LONGITUDE_POINT_X": -73.90999,
-	"LATITUDE_POINT_Y": 40.68545
  },
  {
 	"Bin": 3079774,
@@ -41712,6 +41712,18 @@
 	"LATITUDE_POINT_Y": 40.66393
  },
  {
+	"Bin": 3100173,
+	"House Number": "99",
+	"Street Name": "ROCKAWAY PARKWAY",
+	"Zip": 11212,
+	"Community Board": 317,
+	"Borough Name": "Brooklyn",
+	"Block": 4616,
+	"Lot": 75,
+	"LONGITUDE_POINT_X": -73.92297,
+	"LATITUDE_POINT_Y": 40.66418
+ },
+ {
 	"Bin": 3100189,
 	"House Number": "166",
 	"Street Name": "EAST   51 STREET",
@@ -43236,6 +43248,18 @@
 	"LATITUDE_POINT_Y": 40.65356
  },
  {
+	"Bin": 3103478,
+	"House Number": "593",
+	"Street Name": "EAST   93 STREET",
+	"Zip": 11236,
+	"Community Board": 317,
+	"Borough Name": "Brooklyn",
+	"Block": 4714,
+	"Lot": 12,
+	"LONGITUDE_POINT_X": -73.91615,
+	"LATITUDE_POINT_Y": 40.65311
+ },
+ {
 	"Bin": 3103485,
 	"House Number": "565",
 	"Street Name": "EAST   93 STREET",
@@ -44446,6 +44470,18 @@
 	"Lot": 16,
 	"LONGITUDE_POINT_X": -73.95942,
 	"LATITUDE_POINT_Y": 40.65707
+ },
+ {
+	"Bin": 3115662,
+	"House Number": "42",
+	"Street Name": "HAWTHORNE STREET",
+	"Zip": 11225,
+	"Community Board": 309,
+	"Borough Name": "Brooklyn",
+	"Block": 5045,
+	"Lot": 25,
+	"LONGITUDE_POINT_X": -73.95879,
+	"LATITUDE_POINT_Y": 40.65708
  },
  {
 	"Bin": 3115751,
@@ -57216,6 +57252,18 @@
 	"LATITUDE_POINT_Y": 40.71415
  },
  {
+	"Bin": 4236276,
+	"House Number": "114-25",
+	"Street Name": "FARMERS BOULEVARD",
+	"Zip": 11412,
+	"Community Board": 412,
+	"Borough Name": "Queens",
+	"Block": 11008,
+	"Lot": 109,
+	"LONGITUDE_POINT_X": -73.7617,
+	"LATITUDE_POINT_Y": 40.69731
+ },
+ {
 	"Bin": 4238528,
 	"House Number": "201-07",
 	"Street Name": "LINDEN BOULEVARD",
@@ -58425,7 +58473,7 @@
 	"Block": 6587,
 	"Lot": 6,
 	"LONGITUDE_POINT_X": -73.82439,
-	"LATITUDE_POINT_Y": 40.72064
+	"LATITUDE_POINT_Y": 40.72063
  },
  {
 	"Bin": 4451444,
