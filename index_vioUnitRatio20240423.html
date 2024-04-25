@@ -384,15 +384,6 @@ let _lObj={	"BIN":"BIN","Address":"newaddr","Borough":"Borough","Community Distr
 				d.newaddr=d.HOUSE_NUMBER.trim().concat(" ",d.STREET_NAME.trim());
 				d.CD = [d.COMM_DISTRICT];
 				d.Borough = [d.BOROUGH.toUpperCase()];
-				//d.bin = [d.BIN];				
-				//d.HouseNum = [d.HOUSE_NUMBER];
-				//d.Street = [d.STREET_NAME];
-				//d.zip = [d.ZIP];
-				//d.hpdVios = [d.HPD_VIOLATIONS];
-				//d.dobVios = [d.DOB_VIOLATIONS];
-				//d.totalVios = [d.TOTAL_VIOLATIONS];
-				//d.dwellUnits = [d.DWELLING_UNITS];
-				//d.vioUnitsRatio = [d.VIO_UNITS_RATIO];
 			return d;
 			});
 		pointsOverlay.addTo(map);
@@ -525,7 +516,6 @@ let _lObj={	"BIN":"BIN","Address":"newaddr","Borough":"Borough","Community Distr
 			}
 		});
 
-		// Add event listener for opening and closing details
 		$('#riskTable tbody').on('click', 'td.details-control', function () {
 			var tr = $(this).closest('tr');
 			var row = table.row( tr );
