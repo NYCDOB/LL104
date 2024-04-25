@@ -305,11 +305,11 @@ var width = $("#map").width(),
 	table_map = [],
 	filteredData,
 	latLngs = [];
-let _lObj={	"BIN":"BIN","Address":"newaddr","Borough":"Borough","Community District":"COMM_DISTRICT","HPD Violations":"HPD_VIOLATIONS","DOB Violations":"DOB_VIOLATIONS","Total Violations":"TOTAL_VIOLATIONS","Dwelling Units":"DWELLING_UNITS","Violations Per Unit":"VIO_UNITS_RATIO",}
+let _lObj={"BIN":"BIN","Address":"newaddr","Borough":"Borough","Community District":"COMM_DISTRICT","HPD Violations":"HPD_VIOLATIONS","DOB Violations":"DOB_VIOLATIONS","Total Violations":"TOTAL_VIOLATIONS","Dwelling Units":"DWELLING_UNITS","Violations Per Unit":"VIO_UNITS_RATIO",}
 	var pointsOverlay = L.d3SvgOverlay(function(sel,proj){
 	var pointsUpd = sel.selectAll('circle').data(points);	
 	pointsUpd.enter()
-		.append('circle')		
+		.append('circle')
 		.attr("bin",function(d){return d.BIN})
 		.attr('cx',function(d){return proj.latLngToLayerPoint(d.latLng).x;})
 		.attr('cy',function(d){return proj.latLngToLayerPoint(d.latLng).y;})
@@ -323,7 +323,7 @@ let _lObj={	"BIN":"BIN","Address":"newaddr","Borough":"Borough","Community Distr
 			}
 		})
 		.on("mouseover", function(d, i){
-			$(this).attr("style", "cursor: pointer; fill: #eef442; fill-opacity: 1;");			
+			$(this).attr("style", "cursor: pointer; fill: #eef442; fill-opacity: 1;");
 		})
 		.on("mouseout", function(d, i){			
 			$(this).attr("style", "stroke-width: 0px; fill-opacity: .7;");
@@ -455,16 +455,8 @@ let _lObj={	"BIN":"BIN","Address":"newaddr","Borough":"Borough","Community Distr
 				"scrollY": "70vh",
 				"scrollCollapse": true,
 				"paging": false,
-				columns: [
-					{
-						"className": 'details-control',
-						"orderable": false,
-						"data": null,
-						"defaultContent": ''
-					},
-					{	render: function(data,type,row){return `${row.HOUSE_NUMBER.trim()} ${row.STREET_NAME.trim()}`},
-						width: '65%'
-					},
+				columns: [{"className": 'details-control',"orderable": false,"data": null,"defaultContent": ''},
+					{	render: function(data,type,row){return `${row.HOUSE_NUMBER.trim()} ${row.STREET_NAME.trim()}`},width: '65%'},
 					{ 	data: "BOROUGH"
 					},
 					{	data:"BIN", "visible":false
@@ -484,7 +476,6 @@ let _lObj={	"BIN":"BIN","Address":"newaddr","Borough":"Borough","Community Distr
 					{	data:"VIO_UNITS_RATIO", "visible":false
 					}
 				],
-				
 				"dom": 'fBrtip',
 				"buttons": [
 					{ extend: 'csv',
@@ -495,7 +486,6 @@ let _lObj={	"BIN":"BIN","Address":"newaddr","Borough":"Borough","Community Distr
 					exportOptions: {modifier: {search: 'none'},columns: 'th:not(:first-child)'}}
 				]
 			});
-		
 		$('#riskTable tbody').on( 'click', 'tr :not(td.details-control)', function (e) {
 			theParent=this.parentNode;
 			if (!theParent.hasAttribute("role")  ) {
