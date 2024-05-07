@@ -4248,6 +4248,18 @@
 	"LATITUDE_POINT_Y": 40.8211
  },
  {
+	"Bin": 1060015,
+	"House Number": "2361",
+	"Street Name": "7 AVENUE",
+	"Zip": 10030,
+	"Community Board": 110,
+	"Borough Name": "Manhattan",
+	"Block": 2007,
+	"Lot": 1,
+	"LONGITUDE_POINT_X": -73.94184,
+	"LATITUDE_POINT_Y": 40.81716
+ },
+ {
 	"Bin": 1060027,
 	"House Number": "111",
 	"Street Name": "WEST  138 STREET",
@@ -6106,6 +6118,18 @@
 	"Lot": 73,
 	"LONGITUDE_POINT_X": -73.92606,
 	"LATITUDE_POINT_Y": 40.86149
+ },
+ {
+	"Bin": 1064190,
+	"House Number": "105",
+	"Street Name": "ELLWOOD STREET",
+	"Zip": 10040,
+	"Community Board": 112,
+	"Borough Name": "Manhattan",
+	"Block": 2174,
+	"Lot": 119,
+	"LONGITUDE_POINT_X": -73.92903,
+	"LATITUDE_POINT_Y": 40.8617
  },
  {
 	"Bin": 1064249,
@@ -11688,6 +11712,18 @@
 	"LATITUDE_POINT_Y": 40.84633
  },
  {
+	"Bin": 2008447,
+	"House Number": "1630",
+	"Street Name": "MACOMBS ROAD",
+	"Zip": 10453,
+	"Community Board": 205,
+	"Borough Name": "Bronx",
+	"Block": 2866,
+	"Lot": 4,
+	"LONGITUDE_POINT_X": -73.91606,
+	"LATITUDE_POINT_Y": 40.84691
+ },
+ {
 	"Bin": 2008451,
 	"House Number": "1631",
 	"Street Name": "GRAND AVENUE",
@@ -15238,6 +15274,18 @@
 	"Lot": 82,
 	"LONGITUDE_POINT_X": -73.90202,
 	"LATITUDE_POINT_Y": 40.86597
+ },
+ {
+	"Bin": 2014732,
+	"House Number": "95",
+	"Street Name": "WEST 183 STREET",
+	"Zip": 10453,
+	"Community Board": 207,
+	"Borough Name": "Bronx",
+	"Block": 3218,
+	"Lot": 1,
+	"LONGITUDE_POINT_X": -73.90826,
+	"LATITUDE_POINT_Y": 40.86004
  },
  {
 	"Bin": 2014739,
@@ -31656,18 +31704,6 @@
 	"LATITUDE_POINT_Y": 40.67773
  },
  {
-	"Bin": 3042235,
-	"House Number": "2160",
-	"Street Name": "FULTON STREET",
-	"Zip": 11233,
-	"Community Board": 316,
-	"Borough Name": "Brooklyn",
-	"Block": 1552,
-	"Lot": 11,
-	"LONGITUDE_POINT_X": -73.91032,
-	"LATITUDE_POINT_Y": 40.67801
- },
- {
 	"Bin": 3042242,
 	"House Number": "2172",
 	"Street Name": "FULTON STREET",
@@ -32604,6 +32640,18 @@
 	"LATITUDE_POINT_Y": 40.68334
  },
  {
+	"Bin": 3047144,
+	"House Number": "412",
+	"Street Name": "MAC DONOUGH STREET",
+	"Zip": 11233,
+	"Community Board": 303,
+	"Borough Name": "Brooklyn",
+	"Block": 1676,
+	"Lot": 27,
+	"LONGITUDE_POINT_X": -73.9303,
+	"LATITUDE_POINT_Y": 40.68232
+ },
+ {
 	"Bin": 3047370,
 	"House Number": "170",
 	"Street Name": "DECATUR STREET",
@@ -32638,6 +32686,18 @@
 	"Lot": 16,
 	"LONGITUDE_POINT_X": -73.931,
 	"LATITUDE_POINT_Y": 40.68149
+ },
+ {
+	"Bin": 3047540,
+	"House Number": "165",
+	"Street Name": "BAINBRIDGE STREET",
+	"Zip": 11233,
+	"Community Board": 303,
+	"Borough Name": "Brooklyn",
+	"Block": 1681,
+	"Lot": 76,
+	"LONGITUDE_POINT_X": -73.93053,
+	"LATITUDE_POINT_Y": 40.68126
  },
  {
 	"Bin": 3047616,
@@ -36538,6 +36598,18 @@
 	"Lot": 16,
 	"LONGITUDE_POINT_X": -73.91991,
 	"LATITUDE_POINT_Y": 40.70557
+ },
+ {
+	"Bin": 3073375,
+	"House Number": "544",
+	"Street Name": "HART STREET",
+	"Zip": 11221,
+	"Community Board": 304,
+	"Borough Name": "Brooklyn",
+	"Block": 3226,
+	"Lot": 12,
+	"LONGITUDE_POINT_X": -73.92962,
+	"LATITUDE_POINT_Y": 40.69644
  },
  {
 	"Bin": 3073551,
