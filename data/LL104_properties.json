@@ -1200,18 +1200,6 @@
 	"LATITUDE_POINT_Y": 40.76303
  },
  {
-	"Bin": 1028735,
-	"House Number": "54",
-	"Street Name": "WEST 75 STREET",
-	"Zip": 10023,
-	"Community Board": 107,
-	"Borough Name": "Manhattan",
-	"Block": 1127,
-	"Lot": 59,
-	"LONGITUDE_POINT_X": -73.97688,
-	"LATITUDE_POINT_Y": 40.7789
- },
- {
 	"Bin": 1029766,
 	"House Number": "114",
 	"Street Name": "WEST 71 STREET",
@@ -7306,6 +7294,18 @@
 	"Lot": 30,
 	"LONGITUDE_POINT_X": -73.93679,
 	"LATITUDE_POINT_Y": 40.80931
+ },
+ {
+	"Bin": 1088115,
+	"House Number": "518",
+	"Street Name": "WEST  159 STREET",
+	"Zip": 10032,
+	"Community Board": 112,
+	"Borough Name": "Manhattan",
+	"Block": 2117,
+	"Lot": 26,
+	"LONGITUDE_POINT_X": -73.94221,
+	"LATITUDE_POINT_Y": 40.83432
  },
  {
 	"Bin": 1088851,
@@ -16570,6 +16570,18 @@
 	"Lot": 30,
 	"LONGITUDE_POINT_X": -73.87841,
 	"LATITUDE_POINT_Y": 40.87103
+ },
+ {
+	"Bin": 2017891,
+	"House Number": "3100",
+	"Street Name": "DECATUR AVENUE",
+	"Zip": 10467,
+	"Community Board": 207,
+	"Borough Name": "Bronx",
+	"Block": 3331,
+	"Lot": 39,
+	"LONGITUDE_POINT_X": -73.87775,
+	"LATITUDE_POINT_Y": 40.87138
  },
  {
 	"Bin": 2017910,
@@ -35364,6 +35376,18 @@
 	"LATITUDE_POINT_Y": 40.68566
  },
  {
+	"Bin": 3056589,
+	"House Number": "391",
+	"Street Name": "FRANKLIN AVENUE",
+	"Zip": 11238,
+	"Community Board": 303,
+	"Borough Name": "Brooklyn",
+	"Block": 1974,
+	"Lot": 51,
+	"LONGITUDE_POINT_X": -73.95626,
+	"LATITUDE_POINT_Y": 40.68576
+ },
+ {
 	"Bin": 3056626,
 	"House Number": "921",
 	"Street Name": "FULTON STREET",
@@ -37378,18 +37402,6 @@
 	"Lot": 21,
 	"LONGITUDE_POINT_X": -73.92124,
 	"LATITUDE_POINT_Y": 40.7019
- },
- {
-	"Bin": 3073886,
-	"House Number": "261",
-	"Street Name": "STOCKHOLM STREET",
-	"Zip": 11237,
-	"Community Board": 304,
-	"Borough Name": "Brooklyn",
-	"Block": 3247,
-	"Lot": 40,
-	"LONGITUDE_POINT_X": -73.92073,
-	"LATITUDE_POINT_Y": 40.70195
  },
  {
 	"Bin": 3073908,
@@ -59854,6 +59866,18 @@
 	"Lot": 72,
 	"LONGITUDE_POINT_X": -73.85999,
 	"LATITUDE_POINT_Y": 40.68003
+ },
+ {
+	"Bin": 4188988,
+	"House Number": "84-11",
+	"Street Name": "103 AVENUE",
+	"Zip": 11417,
+	"Community Board": 409,
+	"Borough Name": "Queens",
+	"Block": 9086,
+	"Lot": 37,
+	"LONGITUDE_POINT_X": -73.85399,
+	"LATITUDE_POINT_Y": 40.67992
  },
  {
 	"Bin": 4190793,
