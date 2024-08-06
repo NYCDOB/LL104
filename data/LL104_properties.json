@@ -7668,6 +7668,18 @@
 	"LATITUDE_POINT_Y": 40.80623
  },
  {
+	"Bin": 2000187,
+	"House Number": "400",
+	"Street Name": "EAST  136 STREET",
+	"Zip": 10454,
+	"Community Board": 201,
+	"Borough Name": "Bronx",
+	"Block": 2280,
+	"Lot": 10,
+	"LONGITUDE_POINT_X": -73.92363,
+	"LATITUDE_POINT_Y": 40.80756
+ },
+ {
 	"Bin": 2000217,
 	"House Number": "401",
 	"Street Name": "EAST 136 STREET",
@@ -13402,6 +13414,18 @@
 	"Lot": 62,
 	"LONGITUDE_POINT_X": -73.88811,
 	"LATITUDE_POINT_Y": 40.84005
+ },
+ {
+	"Bin": 2010160,
+	"House Number": "1941",
+	"Street Name": "SOUTHERN BOULEVARD",
+	"Zip": 10460,
+	"Community Board": 206,
+	"Borough Name": "Bronx",
+	"Block": 2960,
+	"Lot": 73,
+	"LONGITUDE_POINT_X": -73.88606,
+	"LATITUDE_POINT_Y": 40.84245
  },
  {
 	"Bin": 2010167,
@@ -21154,18 +21178,6 @@
 	"Lot": 67,
 	"LONGITUDE_POINT_X": -73.86213,
 	"LATITUDE_POINT_Y": 40.87774
- },
- {
-	"Bin": 2057803,
-	"House Number": "3602",
-	"Street Name": "HOLLAND AVENUE",
-	"Zip": 10467,
-	"Community Board": 212,
-	"Borough Name": "Bronx",
-	"Block": 4661,
-	"Lot": 40,
-	"LONGITUDE_POINT_X": -73.86353,
-	"LATITUDE_POINT_Y": 40.87885
  },
  {
 	"Bin": 2057811,
@@ -50712,6 +50724,18 @@
 	"LATITUDE_POINT_Y": 40.63467
  },
  {
+	"Bin": 3144766,
+	"House Number": "6701",
+	"Street Name": "5 AVENUE",
+	"Zip": 11220,
+	"Community Board": 310,
+	"Borough Name": "Brooklyn",
+	"Block": 5856,
+	"Lot": 21,
+	"LONGITUDE_POINT_X": -74.01992,
+	"LATITUDE_POINT_Y": 40.6352
+ },
+ {
 	"Bin": 3144855,
 	"House Number": "6717",
 	"Street Name": "6 AVENUE",
@@ -55178,6 +55202,18 @@
  {
 	"Bin": 3348537,
 	"House Number": "587",
+	"Street Name": "GRAND AVENUE",
+	"Zip": 11238,
+	"Community Board": 308,
+	"Borough Name": "Brooklyn",
+	"Block": 1148,
+	"Lot": 5,
+	"LONGITUDE_POINT_X": -73.96177,
+	"LATITUDE_POINT_Y": 40.67759
+ },
+ {
+	"Bin": 3348538,
+	"House Number": "591",
 	"Street Name": "GRAND AVENUE",
 	"Zip": 11238,
 	"Community Board": 308,
