@@ -6120,18 +6120,6 @@
 	"LATITUDE_POINT_Y": 40.84708
  },
  {
-	"Bin": 1063255,
-	"House Number": "3765",
-	"Street Name": "BROADWAY",
-	"Zip": 10032,
-	"Community Board": 112,
-	"Borough Name": "Manhattan",
-	"Block": 2134,
-	"Lot": 90,
-	"LONGITUDE_POINT_X": -73.94571,
-	"LATITUDE_POINT_Y": 40.83415
- },
- {
 	"Bin": 1063309,
 	"House Number": "846",
 	"Street Name": "RIVERSIDE DRIVE",
@@ -7498,6 +7486,18 @@
 	"Lot": 112,
 	"LONGITUDE_POINT_X": -73.94472,
 	"LATITUDE_POINT_Y": 40.80106
+ },
+ {
+	"Bin": 1086216,
+	"House Number": "52",
+	"Street Name": "EAST  117 STREET",
+	"Zip": 10035,
+	"Community Board": 111,
+	"Borough Name": "Manhattan",
+	"Block": 1622,
+	"Lot": 43,
+	"LONGITUDE_POINT_X": -73.94382,
+	"LATITUDE_POINT_Y": 40.80019
  },
  {
 	"Bin": 1087338,
@@ -12528,6 +12528,18 @@
 	"LATITUDE_POINT_Y": 40.84111
  },
  {
+	"Bin": 2008120,
+	"House Number": "1459",
+	"Street Name": "WYTHE PLACE",
+	"Zip": 10452,
+	"Community Board": 204,
+	"Borough Name": "Bronx",
+	"Block": 2844,
+	"Lot": 105,
+	"LONGITUDE_POINT_X": -73.91441,
+	"LATITUDE_POINT_Y": 40.84068
+ },
+ {
 	"Bin": 2008140,
 	"House Number": "20",
 	"Street Name": "EAST MT EDEN AVENUE",
@@ -16836,6 +16848,18 @@
 	"LATITUDE_POINT_Y": 40.87021
  },
  {
+	"Bin": 2016796,
+	"House Number": "2616",
+	"Street Name": "BRIGGS AVENUE",
+	"Zip": 10458,
+	"Community Board": 207,
+	"Borough Name": "Bronx",
+	"Block": 3293,
+	"Lot": 47,
+	"LONGITUDE_POINT_X": -73.89276,
+	"LATITUDE_POINT_Y": 40.8646
+ },
+ {
 	"Bin": 2016820,
 	"House Number": "253",
 	"Street Name": "EAST KINGSBRIDGE ROAD",
@@ -17362,6 +17386,18 @@
 	"Lot": 184,
 	"LONGITUDE_POINT_X": -73.87558,
 	"LATITUDE_POINT_Y": 40.87902
+ },
+ {
+	"Bin": 2018223,
+	"House Number": "3395",
+	"Street Name": "RESERVOIR OVAL",
+	"Zip": 10467,
+	"Community Board": 207,
+	"Borough Name": "Bronx",
+	"Block": 3343,
+	"Lot": 220,
+	"LONGITUDE_POINT_X": -73.87643,
+	"LATITUDE_POINT_Y": 40.87939
  },
  {
 	"Bin": 2018254,
