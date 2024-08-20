@@ -9540,6 +9540,18 @@
 	"LATITUDE_POINT_Y": 40.83465
  },
  {
+	"Bin": 2003263,
+	"House Number": "1061",
+	"Street Name": "NELSON AVENUE",
+	"Zip": 10452,
+	"Community Board": 204,
+	"Borough Name": "Bronx",
+	"Block": 2514,
+	"Lot": 36,
+	"LONGITUDE_POINT_X": -73.92788,
+	"LATITUDE_POINT_Y": 40.83443
+ },
+ {
 	"Bin": 2003265,
 	"House Number": "1140",
 	"Street Name": "OGDEN AVENUE",
@@ -17232,18 +17244,6 @@
 	"LATITUDE_POINT_Y": 40.86995
  },
  {
-	"Bin": 2017131,
-	"House Number": "243",
-	"Street Name": "BEDFORD PARK BOULEVARD",
-	"Zip": 10458,
-	"Community Board": 207,
-	"Borough Name": "Bronx",
-	"Block": 3303,
-	"Lot": 45,
-	"LONGITUDE_POINT_X": -73.88628,
-	"LATITUDE_POINT_Y": 40.8712
- },
- {
 	"Bin": 2017141,
 	"House Number": "2754",
 	"Street Name": "GRAND CONCOURSE",
@@ -20026,18 +20026,6 @@
 	"Lot": 43,
 	"LONGITUDE_POINT_X": -73.87092,
 	"LATITUDE_POINT_Y": 40.84119
- },
- {
-	"Bin": 2042576,
-	"House Number": "534",
-	"Street Name": "MORRIS PARK AVENUE",
-	"Zip": 10460,
-	"Community Board": 211,
-	"Borough Name": "Bronx",
-	"Block": 4019,
-	"Lot": 3,
-	"LONGITUDE_POINT_X": -73.87103,
-	"LATITUDE_POINT_Y": 40.84264
  },
  {
 	"Bin": 2042606,
@@ -29026,6 +29014,18 @@
 	"Lot": 6,
 	"LONGITUDE_POINT_X": -74.00064,
 	"LATITUDE_POINT_Y": 40.64713
+ },
+ {
+	"Bin": 3018165,
+	"House Number": "4103",
+	"Street Name": "7 AVENUE",
+	"Zip": 11232,
+	"Community Board": 307,
+	"Borough Name": "Brooklyn",
+	"Block": 922,
+	"Lot": 8,
+	"LONGITUDE_POINT_X": -74.00053,
+	"LATITUDE_POINT_Y": 40.64722
  },
  {
 	"Bin": 3018243,
@@ -49524,18 +49524,6 @@
 	"LATITUDE_POINT_Y": 40.64073
  },
  {
-	"Bin": 3119709,
-	"House Number": "2408",
-	"Street Name": "CLARENDON ROAD",
-	"Zip": 11226,
-	"Community Board": 317,
-	"Borough Name": "Brooklyn",
-	"Block": 5190,
-	"Lot": 3,
-	"LONGITUDE_POINT_X": -73.95414,
-	"LATITUDE_POINT_Y": 40.64265
- },
- {
 	"Bin": 3119746,
 	"House Number": "2575",
 	"Street Name": "BEDFORD AVENUE",
@@ -53818,6 +53806,18 @@
 	"Lot": 19,
 	"LONGITUDE_POINT_X": -73.94206,
 	"LATITUDE_POINT_Y": 40.62844
+ },
+ {
+	"Bin": 3207872,
+	"House Number": "2398",
+	"Street Name": "NOSTRAND AVENUE",
+	"Zip": 11210,
+	"Community Board": 314,
+	"Borough Name": "Brooklyn",
+	"Block": 7611,
+	"Lot": 54,
+	"LONGITUDE_POINT_X": -73.94701,
+	"LATITUDE_POINT_Y": 40.62576
  },
  {
 	"Bin": 3207878,
