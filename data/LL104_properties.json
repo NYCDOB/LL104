@@ -36,18 +36,6 @@
 	"LATITUDE_POINT_Y": 40.71646
  },
  {
-	"Bin": 1001586,
-	"House Number": "111",
-	"Street Name": "READE STREET",
-	"Zip": 10013,
-	"Community Board": 101,
-	"Borough Name": "Manhattan",
-	"Block": 145,
-	"Lot": 16,
-	"LONGITUDE_POINT_X": -74.0087,
-	"LATITUDE_POINT_Y": 40.71575
- },
- {
 	"Bin": 1002171,
 	"House Number": "8",
 	"Street Name": "BEACH STREET",
@@ -13042,6 +13030,18 @@
 	"Lot": 70,
 	"LONGITUDE_POINT_X": -73.92007,
 	"LATITUDE_POINT_Y": 40.83913
+ },
+ {
+	"Bin": 2008415,
+	"House Number": "1325",
+	"Street Name": "INWOOD AVENUE",
+	"Zip": 10452,
+	"Community Board": 204,
+	"Borough Name": "Bronx",
+	"Block": 2864,
+	"Lot": 72,
+	"LONGITUDE_POINT_X": -73.92013,
+	"LATITUDE_POINT_Y": 40.839
  },
  {
 	"Bin": 2008442,
