@@ -21408,6 +21408,18 @@
 	"LATITUDE_POINT_Y": 40.83606
  },
  {
+	"Bin": 2028303,
+	"House Number": "1450",
+	"Street Name": "LELAND AVENUE",
+	"Zip": 10460,
+	"Community Board": 209,
+	"Borough Name": "Bronx",
+	"Block": 3902,
+	"Lot": 21,
+	"LONGITUDE_POINT_X": -73.86408,
+	"LATITUDE_POINT_Y": 40.83693
+ },
+ {
 	"Bin": 2028308,
 	"House Number": "1460",
 	"Street Name": "LELAND AVENUE",
@@ -28258,6 +28270,18 @@
 	"Lot": 47,
 	"LONGITUDE_POINT_X": -73.88359,
 	"LATITUDE_POINT_Y": 40.85255
+ },
+ {
+	"Bin": 2114711,
+	"House Number": "55",
+	"Street Name": "WEST  192 STREET",
+	"Zip": 10468,
+	"Community Board": 207,
+	"Borough Name": "Bronx",
+	"Block": 3215,
+	"Lot": 59,
+	"LONGITUDE_POINT_X": -73.90085,
+	"LATITUDE_POINT_Y": 40.86663
  },
  {
 	"Bin": 2114747,
@@ -41638,18 +41662,6 @@
 	"Lot": 11,
 	"LONGITUDE_POINT_X": -73.92548,
 	"LATITUDE_POINT_Y": 40.70116
- },
- {
-	"Bin": 3072933,
-	"House Number": "1120",
-	"Street Name": "WILLOUGHBY AVENUE",
-	"Zip": 11237,
-	"Community Board": 304,
-	"Borough Name": "Brooklyn",
-	"Block": 3209,
-	"Lot": 14,
-	"LONGITUDE_POINT_X": -73.92532,
-	"LATITUDE_POINT_Y": 40.70132
  },
  {
 	"Bin": 3072938,
