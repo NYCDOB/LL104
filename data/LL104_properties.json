@@ -1620,18 +1620,6 @@
 	"LATITUDE_POINT_Y": 40.77063
  },
  {
-	"Bin": 1044109,
-	"House Number": "249",
-	"Street Name": "EAST 77 STREET",
-	"Zip": 10075,
-	"Community Board": 108,
-	"Borough Name": "Manhattan",
-	"Block": 1432,
-	"Lot": 20,
-	"LONGITUDE_POINT_X": -73.95641,
-	"LATITUDE_POINT_Y": 40.77243
- },
- {
 	"Bin": 1044213,
 	"House Number": "338",
 	"Street Name": "EAST 61 STREET",
@@ -6646,6 +6634,18 @@
 	"Lot": 32,
 	"LONGITUDE_POINT_X": -73.93519,
 	"LATITUDE_POINT_Y": 40.84434
+ },
+ {
+	"Bin": 1063171,
+	"House Number": "2304",
+	"Street Name": "AMSTERDAM AVENUE",
+	"Zip": 10033,
+	"Community Board": 112,
+	"Borough Name": "Manhattan",
+	"Block": 2131,
+	"Lot": 48,
+	"LONGITUDE_POINT_X": -73.93434,
+	"LATITUDE_POINT_Y": 40.84395
  },
  {
 	"Bin": 1063218,
