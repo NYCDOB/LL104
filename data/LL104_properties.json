@@ -612,6 +612,18 @@
 	"LATITUDE_POINT_Y": 40.7239
  },
  {
+	"Bin": 1007921,
+	"House Number": "51",
+	"Street Name": "EAST HOUSTON STREET",
+	"Zip": 10012,
+	"Community Board": 102,
+	"Borough Name": "Manhattan",
+	"Block": 509,
+	"Lot": 23,
+	"LONGITUDE_POINT_X": -73.99464,
+	"LATITUDE_POINT_Y": 40.72454
+ },
+ {
 	"Bin": 1008199,
 	"House Number": "4",
 	"Street Name": "BLEECKER STREET",
@@ -1198,6 +1210,18 @@
 	"Lot": 3,
 	"LONGITUDE_POINT_X": -73.99137,
 	"LATITUDE_POINT_Y": 40.76479
+ },
+ {
+	"Bin": 1026696,
+	"House Number": "418",
+	"Street Name": "WEST 51 STREET",
+	"Zip": 10019,
+	"Community Board": 104,
+	"Borough Name": "Manhattan",
+	"Block": 1060,
+	"Lot": 43,
+	"LONGITUDE_POINT_X": -73.98962,
+	"LATITUDE_POINT_Y": 40.76434
  },
  {
 	"Bin": 1026854,
@@ -29328,6 +29352,18 @@
 	"LATITUDE_POINT_Y": 40.83202
  },
  {
+	"Bin": 2124406,
+	"House Number": "935",
+	"Street Name": "SUMMIT AVENUE",
+	"Zip": 10452,
+	"Community Board": 204,
+	"Borough Name": "Bronx",
+	"Block": 2523,
+	"Lot": 67,
+	"LONGITUDE_POINT_X": -73.93119,
+	"LATITUDE_POINT_Y": 40.83195
+ },
+ {
 	"Bin": 2124478,
 	"House Number": "1219",
 	"Street Name": "GILBERT PLACE",
@@ -41194,18 +41230,6 @@
 	"Lot": 24,
 	"LONGITUDE_POINT_X": -73.92999,
 	"LATITUDE_POINT_Y": 40.70254
- },
- {
-	"Bin": 3071994,
-	"House Number": "1086",
-	"Street Name": "FLUSHING AVENUE",
-	"Zip": 11237,
-	"Community Board": 304,
-	"Borough Name": "Brooklyn",
-	"Block": 3159,
-	"Lot": 16,
-	"LONGITUDE_POINT_X": -73.92769,
-	"LATITUDE_POINT_Y": 40.70488
  },
  {
 	"Bin": 3072092,
