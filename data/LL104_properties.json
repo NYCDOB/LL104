@@ -1,5 +1,17 @@
 [
  {
+	"Bin": 1001038,
+	"House Number": "120",
+	"Street Name": "CEDAR STREET",
+	"Zip": 10006,
+	"Community Board": 101,
+	"Borough Name": "Manhattan",
+	"Block": 52,
+	"Lot": 10,
+	"LONGITUDE_POINT_X": -74.01265,
+	"LATITUDE_POINT_Y": 40.7095
+ },
+ {
 	"Bin": 1001057,
 	"House Number": "94A",
 	"Street Name": "GREENWICH STREET",
@@ -58294,6 +58306,18 @@
 	"Lot": 26,
 	"LONGITUDE_POINT_X": -73.953,
 	"LATITUDE_POINT_Y": 40.58426
+ },
+ {
+	"Bin": 3247010,
+	"House Number": "3348",
+	"Street Name": "SHORE PARKWAY",
+	"Zip": 11235,
+	"Community Board": 315,
+	"Borough Name": "Brooklyn",
+	"Block": 8771,
+	"Lot": 110,
+	"LONGITUDE_POINT_X": -73.95188,
+	"LATITUDE_POINT_Y": 40.58406
  },
  {
 	"Bin": 3247910,
