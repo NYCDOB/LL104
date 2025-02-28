@@ -7176,18 +7176,6 @@
 	"LATITUDE_POINT_Y": 40.86149
  },
  {
-	"Bin": 1064249,
-	"House Number": "78",
-	"Street Name": "THAYER STREET",
-	"Zip": 10040,
-	"Community Board": 112,
-	"Borough Name": "Manhattan",
-	"Block": 2175,
-	"Lot": 175,
-	"LONGITUDE_POINT_X": -73.92771,
-	"LATITUDE_POINT_Y": 40.86398
- },
- {
 	"Bin": 1064266,
 	"House Number": "712",
 	"Street Name": "WEST 180 STREET",
@@ -15190,6 +15178,18 @@
 	"Lot": 205,
 	"LONGITUDE_POINT_X": -73.88922,
 	"LATITUDE_POINT_Y": 40.83608
+ },
+ {
+	"Bin": 2010531,
+	"House Number": "1208",
+	"Street Name": "SOUTHERN BOULEVARD",
+	"Zip": 10459,
+	"Community Board": 203,
+	"Borough Name": "Bronx",
+	"Block": 2979,
+	"Lot": 2,
+	"LONGITUDE_POINT_X": -73.89154,
+	"LATITUDE_POINT_Y": 40.82882
  },
  {
 	"Bin": 2010536,
