@@ -5256,18 +5256,6 @@
 	"LATITUDE_POINT_Y": 40.82872
  },
  {
-	"Bin": 1060915,
-	"House Number": "618",
-	"Street Name": "ST NICHOLAS AVENUE",
-	"Zip": 10030,
-	"Community Board": 110,
-	"Borough Name": "Manhattan",
-	"Block": 2048,
-	"Lot": 42,
-	"LONGITUDE_POINT_X": -73.94587,
-	"LATITUDE_POINT_Y": 40.82093
- },
- {
 	"Bin": 1060947,
 	"House Number": "349",
 	"Street Name": "CONVENT AVENUE",
@@ -7570,18 +7558,6 @@
 	"Lot": 50,
 	"LONGITUDE_POINT_X": -73.9551,
 	"LATITUDE_POINT_Y": 40.82319
- },
- {
-	"Bin": 1079777,
-	"House Number": "203",
-	"Street Name": "WEST  145 STREET",
-	"Zip": 10039,
-	"Community Board": 110,
-	"Borough Name": "Manhattan",
-	"Block": 2031,
-	"Lot": 23,
-	"LONGITUDE_POINT_X": -73.93966,
-	"LATITUDE_POINT_Y": 40.82219
  },
  {
 	"Bin": 1079830,
@@ -15526,6 +15502,18 @@
 	"Lot": 23,
 	"LONGITUDE_POINT_X": -73.88795,
 	"LATITUDE_POINT_Y": 40.8312
+ },
+ {
+	"Bin": 2010828,
+	"House Number": "1447",
+	"Street Name": "LONGFELLOW AVENUE",
+	"Zip": 10459,
+	"Community Board": 203,
+	"Borough Name": "Bronx",
+	"Block": 2999,
+	"Lot": 29,
+	"LONGITUDE_POINT_X": -73.8877,
+	"LATITUDE_POINT_Y": 40.83094
  },
  {
 	"Bin": 2010842,
@@ -56280,6 +56268,18 @@
 	"LATITUDE_POINT_Y": 40.63904
  },
  {
+	"Bin": 3125917,
+	"House Number": "3613",
+	"Street Name": "15 AVENUE",
+	"Zip": 11218,
+	"Community Board": 312,
+	"Borough Name": "Brooklyn",
+	"Block": 5368,
+	"Lot": 4,
+	"LONGITUDE_POINT_X": -73.98023,
+	"LATITUDE_POINT_Y": 40.6392
+ },
+ {
 	"Bin": 3126154,
 	"House Number": "506",
 	"Street Name": "AVENUE C",
@@ -57670,6 +57670,18 @@
 	"Lot": 25,
 	"LONGITUDE_POINT_X": -74.02058,
 	"LATITUDE_POINT_Y": 40.63187
+ },
+ {
+	"Bin": 3146662,
+	"House Number": "538",
+	"Street Name": "OVINGTON AVENUE",
+	"Zip": 11209,
+	"Community Board": 310,
+	"Borough Name": "Brooklyn",
+	"Block": 5893,
+	"Lot": 27,
+	"LONGITUDE_POINT_X": -74.02045,
+	"LATITUDE_POINT_Y": 40.63181
  },
  {
 	"Bin": 3146665,
@@ -68508,18 +68520,6 @@
 	"LATITUDE_POINT_Y": 40.7029
  },
  {
-	"Bin": 4093454,
-	"House Number": "79-33",
-	"Street Name": "MYRTLE AVENUE",
-	"Zip": 11385,
-	"Community Board": 405,
-	"Borough Name": "Queens",
-	"Block": 3829,
-	"Lot": 41,
-	"LONGITUDE_POINT_X": -73.86953,
-	"LATITUDE_POINT_Y": 40.70309
- },
- {
 	"Bin": 4093677,
 	"House Number": "82-03",
 	"Street Name": "MYRTLE AVENUE",
@@ -72934,6 +72934,18 @@
 	"Lot": 59,
 	"LONGITUDE_POINT_X": -73.75935,
 	"LATITUDE_POINT_Y": 40.59386
+ },
+ {
+	"Bin": 4532531,
+	"House Number": "147",
+	"Street Name": "BEACH   26 STREET",
+	"Zip": 11691,
+	"Community Board": 414,
+	"Borough Name": "Queens",
+	"Block": 15818,
+	"Lot": 163,
+	"LONGITUDE_POINT_X": -73.75929,
+	"LATITUDE_POINT_Y": 40.59355
  },
  {
 	"Bin": 4532532,
