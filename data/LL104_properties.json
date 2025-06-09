@@ -3132,6 +3132,18 @@
 	"LATITUDE_POINT_Y": 40.80067
  },
  {
+	"Bin": 1055013,
+	"House Number": "105",
+	"Street Name": "WEST 113 STREET",
+	"Zip": 10026,
+	"Community Board": 110,
+	"Borough Name": "Manhattan",
+	"Block": 1823,
+	"Lot": 27,
+	"LONGITUDE_POINT_X": -73.95155,
+	"LATITUDE_POINT_Y": 40.80053
+ },
+ {
 	"Bin": 1055017,
 	"House Number": "71",
 	"Street Name": "LENOX AVENUE",
@@ -4008,18 +4020,6 @@
 	"LATITUDE_POINT_Y": 40.80807
  },
  {
-	"Bin": 1058551,
-	"House Number": "257",
-	"Street Name": "WEST 122 STREET",
-	"Zip": 10027,
-	"Community Board": 110,
-	"Borough Name": "Manhattan",
-	"Block": 1928,
-	"Lot": 10,
-	"LONGITUDE_POINT_X": -73.95152,
-	"LATITUDE_POINT_Y": 40.80804
- },
- {
 	"Bin": 1058613,
 	"House Number": "2294",
 	"Street Name": "8TH AVENUE",
@@ -4810,18 +4810,6 @@
 	"Lot": 93,
 	"LONGITUDE_POINT_X": -73.95593,
 	"LATITUDE_POINT_Y": 40.8211
- },
- {
-	"Bin": 1059980,
-	"House Number": "587",
-	"Street Name": "RIVERSIDE DRIVE",
-	"Zip": 10031,
-	"Community Board": 109,
-	"Borough Name": "Manhattan",
-	"Block": 2002,
-	"Lot": 101,
-	"LONGITUDE_POINT_X": -73.95666,
-	"LATITUDE_POINT_Y": 40.8214
  },
  {
 	"Bin": 1060000,
@@ -37176,6 +37164,18 @@
 	"LATITUDE_POINT_Y": 40.67699
  },
  {
+	"Bin": 3042519,
+	"House Number": "18",
+	"Street Name": "MARCONI PLACE",
+	"Zip": 11233,
+	"Community Board": 316,
+	"Borough Name": "Brooklyn",
+	"Block": 1565,
+	"Lot": 33,
+	"LONGITUDE_POINT_X": -73.91299,
+	"LATITUDE_POINT_Y": 40.67704
+ },
+ {
 	"Bin": 3042553,
 	"House Number": "1258",
 	"Street Name": "HERKIMER STREET",
@@ -56976,6 +56976,18 @@
 	"LATITUDE_POINT_Y": 40.63467
  },
  {
+	"Bin": 3144766,
+	"House Number": "6701",
+	"Street Name": "5 AVENUE",
+	"Zip": 11220,
+	"Community Board": 310,
+	"Borough Name": "Brooklyn",
+	"Block": 5856,
+	"Lot": 21,
+	"LONGITUDE_POINT_X": -74.01992,
+	"LATITUDE_POINT_Y": 40.6352
+ },
+ {
 	"Bin": 3145120,
 	"House Number": "6823",
 	"Street Name": "RIDGE BOULEVARD",
@@ -71508,6 +71520,18 @@
 	"LATITUDE_POINT_Y": 40.72589
  },
  {
+	"Bin": 4451533,
+	"House Number": "150-24",
+	"Street Name": "  75 AVENUE",
+	"Zip": 11367,
+	"Community Board": 408,
+	"Borough Name": "Queens",
+	"Block": 6704,
+	"Lot": 1,
+	"LONGITUDE_POINT_X": -73.81486,
+	"LATITUDE_POINT_Y": 40.72532
+ },
+ {
 	"Bin": 4451534,
 	"House Number": "150-48",
 	"Street Name": "  75 AVENUE",
@@ -73728,6 +73752,18 @@
 	"LATITUDE_POINT_Y": 40.64277
  },
  {
+	"Bin": 5001253,
+	"House Number": "1",
+	"Street Name": "PROSPECT AVENUE",
+	"Zip": 10301,
+	"Community Board": 501,
+	"Borough Name": "Staten Island",
+	"Block": 53,
+	"Lot": 70,
+	"LONGITUDE_POINT_X": -74.08818,
+	"LATITUDE_POINT_Y": 40.64044
+ },
+ {
 	"Bin": 5001475,
 	"House Number": "514",
 	"Street Name": "RICHMOND TERRACE",
@@ -73750,6 +73786,18 @@
 	"Lot": 18,
 	"LONGITUDE_POINT_X": -74.0882,
 	"LATITUDE_POINT_Y": 40.63717
+ },
+ {
+	"Bin": 5002530,
+	"House Number": "21",
+	"Street Name": "STANLEY AVENUE",
+	"Zip": 10301,
+	"Community Board": 501,
+	"Borough Name": "Staten Island",
+	"Block": 105,
+	"Lot": 31,
+	"LONGITUDE_POINT_X": -74.08669,
+	"LATITUDE_POINT_Y": 40.63631
  },
  {
 	"Bin": 5002605,
