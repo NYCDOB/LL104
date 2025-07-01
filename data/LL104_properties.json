@@ -3084,18 +3084,6 @@
 	"LATITUDE_POINT_Y": 40.79987
  },
  {
-	"Bin": 1054960,
-	"House Number": "17",
-	"Street Name": "ST NICHOLAS AVENUE",
-	"Zip": 10026,
-	"Community Board": 110,
-	"Borough Name": "Manhattan",
-	"Block": 1821,
-	"Lot": 46,
-	"LONGITUDE_POINT_X": -73.95276,
-	"LATITUDE_POINT_Y": 40.7997
- },
- {
 	"Bin": 1054981,
 	"House Number": "123",
 	"Street Name": "WEST 112 STREET",
@@ -8712,6 +8700,18 @@
 	"LATITUDE_POINT_Y": 40.81865
  },
  {
+	"Bin": 2001366,
+	"House Number": "680",
+	"Street Name": "MELROSE AVENUE",
+	"Zip": 10455,
+	"Community Board": 201,
+	"Borough Name": "Bronx",
+	"Block": 2375,
+	"Lot": 6,
+	"LONGITUDE_POINT_X": -73.91612,
+	"LATITUDE_POINT_Y": 40.81929
+ },
+ {
 	"Bin": 2001379,
 	"House Number": "425",
 	"Street Name": "EAST 153 STREET",
@@ -8734,6 +8734,18 @@
 	"Lot": 34,
 	"LONGITUDE_POINT_X": -73.91553,
 	"LATITUDE_POINT_Y": 40.81956
+ },
+ {
+	"Bin": 2001415,
+	"House Number": "3023",
+	"Street Name": "3 AVENUE",
+	"Zip": 10455,
+	"Community Board": 201,
+	"Borough Name": "Bronx",
+	"Block": 2377,
+	"Lot": 56,
+	"LONGITUDE_POINT_X": -73.91364,
+	"LATITUDE_POINT_Y": 40.81976
  },
  {
 	"Bin": 2001423,
