@@ -13068,18 +13068,6 @@
 	"LATITUDE_POINT_Y": 40.81268
  },
  {
-	"Bin": 2006707,
-	"House Number": "656",
-	"Street Name": "COSTER STREET",
-	"Zip": 10474,
-	"Community Board": 202,
-	"Borough Name": "Bronx",
-	"Block": 2766,
-	"Lot": 60,
-	"LONGITUDE_POINT_X": -73.88695,
-	"LATITUDE_POINT_Y": 40.81371
- },
- {
 	"Bin": 2006710,
 	"House Number": "651",
 	"Street Name": "BRYANT AVENUE",
@@ -14674,6 +14662,18 @@
 	"Lot": 65,
 	"LONGITUDE_POINT_X": -73.89876,
 	"LATITUDE_POINT_Y": 40.83323
+ },
+ {
+	"Bin": 2009800,
+	"House Number": "621",
+	"Street Name": "EAST 170 STREET",
+	"Zip": 10456,
+	"Community Board": 203,
+	"Borough Name": "Bronx",
+	"Block": 2936,
+	"Lot": 1,
+	"LONGITUDE_POINT_X": -73.89987,
+	"LATITUDE_POINT_Y": 40.83421
  },
  {
 	"Bin": 2009803,
@@ -18996,6 +18996,18 @@
 	"LATITUDE_POINT_Y": 40.86726
  },
  {
+	"Bin": 2016470,
+	"House Number": "2654",
+	"Street Name": "MARION AVENUE",
+	"Zip": 10458,
+	"Community Board": 207,
+	"Borough Name": "Bronx",
+	"Block": 3282,
+	"Lot": 19,
+	"LONGITUDE_POINT_X": -73.89022,
+	"LATITUDE_POINT_Y": 40.86468
+ },
+ {
 	"Bin": 2016475,
 	"House Number": "2676",
 	"Street Name": "MARION AVENUE",
@@ -21036,6 +21048,18 @@
 	"LATITUDE_POINT_Y": 40.83131
  },
  {
+	"Bin": 2025451,
+	"House Number": "1266",
+	"Street Name": "FTELEY AVENUE",
+	"Zip": 10472,
+	"Community Board": 209,
+	"Borough Name": "Bronx",
+	"Block": 3781,
+	"Lot": 20,
+	"LONGITUDE_POINT_X": -73.87179,
+	"LATITUDE_POINT_Y": 40.83151
+ },
+ {
 	"Bin": 2025518,
 	"House Number": "1271",
 	"Street Name": "NOBLE AVENUE",
@@ -21214,18 +21238,6 @@
 	"Lot": 10,
 	"LONGITUDE_POINT_X": -73.85327,
 	"LATITUDE_POINT_Y": 40.82928
- },
- {
-	"Bin": 2026478,
-	"House Number": "2136",
-	"Street Name": "GLEASON AVENUE",
-	"Zip": 10462,
-	"Community Board": 209,
-	"Borough Name": "Bronx",
-	"Block": 3811,
-	"Lot": 18,
-	"LONGITUDE_POINT_X": -73.85265,
-	"LATITUDE_POINT_Y": 40.8315
  },
  {
 	"Bin": 2026520,
@@ -25632,6 +25644,18 @@
 	"LATITUDE_POINT_Y": 40.88926
  },
  {
+	"Bin": 2066436,
+	"House Number": "3805",
+	"Street Name": "DYRE AVENUE",
+	"Zip": 10466,
+	"Community Board": 212,
+	"Borough Name": "Bronx",
+	"Block": 4947,
+	"Lot": 45,
+	"LONGITUDE_POINT_X": -73.83166,
+	"LATITUDE_POINT_Y": 40.88811
+ },
+ {
 	"Bin": 2066461,
 	"House Number": "2232",
 	"Street Name": "LIGHT STREET",
@@ -26242,18 +26266,6 @@
 	"Lot": 47,
 	"LONGITUDE_POINT_X": -73.84763,
 	"LATITUDE_POINT_Y": 40.90578
- },
- {
-	"Bin": 2072064,
-	"House Number": "853",
-	"Street Name": "EAST 242 STREET",
-	"Zip": 10470,
-	"Community Board": 212,
-	"Borough Name": "Bronx",
-	"Block": 5119,
-	"Lot": 40,
-	"LONGITUDE_POINT_X": -73.84635,
-	"LATITUDE_POINT_Y": 40.90514
  },
  {
 	"Bin": 2072245,
@@ -30754,6 +30766,18 @@
 	"Lot": 27,
 	"LONGITUDE_POINT_X": -73.99414,
 	"LATITUDE_POINT_Y": 40.66511
+ },
+ {
+	"Bin": 3009300,
+	"House Number": "704",
+	"Street Name": "4 AVENUE",
+	"Zip": 11232,
+	"Community Board": 307,
+	"Borough Name": "Brooklyn",
+	"Block": 642,
+	"Lot": 40,
+	"LONGITUDE_POINT_X": -73.99631,
+	"LATITUDE_POINT_Y": 40.66251
  },
  {
 	"Bin": 3009465,
@@ -66996,6 +67020,18 @@
 	"LATITUDE_POINT_Y": 40.70465
  },
  {
+	"Bin": 4081989,
+	"House Number": "503",
+	"Street Name": "SENECA AVENUE",
+	"Zip": 11385,
+	"Community Board": 405,
+	"Borough Name": "Queens",
+	"Block": 3434,
+	"Lot": 10,
+	"LONGITUDE_POINT_X": -73.91177,
+	"LATITUDE_POINT_Y": 40.70551
+ },
+ {
 	"Bin": 4082047,
 	"House Number": "1724",
 	"Street Name": "GREENE AVENUE",
@@ -72994,6 +73030,18 @@
 	"Lot": 222,
 	"LONGITUDE_POINT_X": -73.76457,
 	"LATITUDE_POINT_Y": 40.59813
+ },
+ {
+	"Bin": 4535485,
+	"House Number": "90-20",
+	"Street Name": "WHITNEY AVENUE",
+	"Zip": 11373,
+	"Community Board": 404,
+	"Borough Name": "Queens",
+	"Block": 1567,
+	"Lot": 10,
+	"LONGITUDE_POINT_X": -73.87529,
+	"LATITUDE_POINT_Y": 40.74589
  },
  {
 	"Bin": 4535799,
