@@ -7212,18 +7212,6 @@
 	"LATITUDE_POINT_Y": 40.85696
  },
  {
-	"Bin": 1064122,
-	"House Number": "25",
-	"Street Name": "NAGLE AVENUE",
-	"Zip": 10040,
-	"Community Board": 112,
-	"Borough Name": "Manhattan",
-	"Block": 2171,
-	"Lot": 8,
-	"LONGITUDE_POINT_X": -73.93015,
-	"LATITUDE_POINT_Y": 40.8593
- },
- {
 	"Bin": 1064129,
 	"House Number": "2",
 	"Street Name": "ELLWOOD STREET",
@@ -13224,18 +13212,6 @@
 	"LATITUDE_POINT_Y": 40.83547
  },
  {
-	"Bin": 2007237,
-	"House Number": "306",
-	"Street Name": "EAST 171 STREET",
-	"Zip": 10457,
-	"Community Board": 204,
-	"Borough Name": "Bronx",
-	"Block": 2784,
-	"Lot": 10,
-	"LONGITUDE_POINT_X": -73.90968,
-	"LATITUDE_POINT_Y": 40.83837
- },
- {
 	"Bin": 2007251,
 	"House Number": "309",
 	"Street Name": "EAST  170 STREET",
@@ -18036,6 +18012,18 @@
 	"LATITUDE_POINT_Y": 40.86181
  },
  {
+	"Bin": 2014126,
+	"House Number": "20",
+	"Street Name": "EAST 190 STREET",
+	"Zip": 10468,
+	"Community Board": 207,
+	"Borough Name": "Bronx",
+	"Block": 3189,
+	"Lot": 20,
+	"LONGITUDE_POINT_X": -73.8996,
+	"LATITUDE_POINT_Y": 40.86325
+ },
+ {
 	"Bin": 2014156,
 	"House Number": "2073",
 	"Street Name": "DAVIDSON AVENUE",
@@ -19738,6 +19726,18 @@
 	"Lot": 10,
 	"LONGITUDE_POINT_X": -73.87863,
 	"LATITUDE_POINT_Y": 40.88414
+ },
+ {
+	"Bin": 2017836,
+	"House Number": "3576",
+	"Street Name": "DEKALB AVENUE",
+	"Zip": 10467,
+	"Community Board": 207,
+	"Borough Name": "Bronx",
+	"Block": 3329,
+	"Lot": 20,
+	"LONGITUDE_POINT_X": -73.87836,
+	"LATITUDE_POINT_Y": 40.8845
  },
  {
 	"Bin": 2017870,
@@ -24658,6 +24658,18 @@
 	"Lot": 56,
 	"LONGITUDE_POINT_X": -73.85263,
 	"LATITUDE_POINT_Y": 40.87811
+ },
+ {
+	"Bin": 2059950,
+	"House Number": "1301",
+	"Street Name": "NEEDHAM AVENUE",
+	"Zip": 10469,
+	"Community Board": 212,
+	"Borough Name": "Bronx",
+	"Block": 4711,
+	"Lot": 57,
+	"LONGITUDE_POINT_X": -73.85278,
+	"LATITUDE_POINT_Y": 40.87807
  },
  {
 	"Bin": 2059954,
