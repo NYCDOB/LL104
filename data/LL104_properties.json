@@ -3192,6 +3192,18 @@
 	"LATITUDE_POINT_Y": 40.79763
  },
  {
+	"Bin": 1054881,
+	"House Number": "2334",
+	"Street Name": "1 AVENUE",
+	"Zip": 10035,
+	"Community Board": 111,
+	"Borough Name": "Manhattan",
+	"Block": 1807,
+	"Lot": 47,
+	"LONGITUDE_POINT_X": -73.93334,
+	"LATITUDE_POINT_Y": 40.79827
+ },
+ {
 	"Bin": 1054948,
 	"House Number": "143",
 	"Street Name": "WEST 111 STREET",
@@ -7618,18 +7630,6 @@
 	"Lot": 44,
 	"LONGITUDE_POINT_X": -74.00049,
 	"LATITUDE_POINT_Y": 40.73378
- },
- {
-	"Bin": 1076876,
-	"House Number": "205",
-	"Street Name": "AVENUE B",
-	"Zip": 10009,
-	"Community Board": 103,
-	"Borough Name": "Manhattan",
-	"Block": 395,
-	"Lot": 6,
-	"LONGITUDE_POINT_X": -73.97847,
-	"LATITUDE_POINT_Y": 40.72842
  },
  {
 	"Bin": 1076878,
@@ -13234,6 +13234,18 @@
 	"Lot": 249,
 	"LONGITUDE_POINT_X": -73.88871,
 	"LATITUDE_POINT_Y": 40.81315
+ },
+ {
+	"Bin": 2006656,
+	"House Number": "643",
+	"Street Name": "COSTER STREET",
+	"Zip": 10474,
+	"Community Board": 202,
+	"Borough Name": "Bronx",
+	"Block": 2765,
+	"Lot": 274,
+	"LONGITUDE_POINT_X": -73.8874,
+	"LATITUDE_POINT_Y": 40.81339
  },
  {
 	"Bin": 2006661,
@@ -22404,6 +22416,18 @@
 	"LATITUDE_POINT_Y": 40.83936
  },
  {
+	"Bin": 2041895,
+	"House Number": "2511",
+	"Street Name": "FRISBY AVENUE",
+	"Zip": 10461,
+	"Community Board": 210,
+	"Borough Name": "Bronx",
+	"Block": 3985,
+	"Lot": 33,
+	"LONGITUDE_POINT_X": -73.84627,
+	"LATITUDE_POINT_Y": 40.84031
+ },
+ {
 	"Bin": 2041999,
 	"House Number": "1628",
 	"Street Name": "GLOVER STREET",
@@ -25942,6 +25966,18 @@
 	"Lot": 71,
 	"LONGITUDE_POINT_X": -73.84953,
 	"LATITUDE_POINT_Y": 40.8849
+ },
+ {
+	"Bin": 2065004,
+	"House Number": "4008",
+	"Street Name": "PAULDING AVENUE",
+	"Zip": 10466,
+	"Community Board": 212,
+	"Borough Name": "Bronx",
+	"Block": 4873,
+	"Lot": 38,
+	"LONGITUDE_POINT_X": -73.85099,
+	"LATITUDE_POINT_Y": 40.88599
  },
  {
 	"Bin": 2065047,
@@ -29626,6 +29662,18 @@
 	"Lot": 246,
 	"LONGITUDE_POINT_X": -73.83314,
 	"LATITUDE_POINT_Y": 40.88106
+ },
+ {
+	"Bin": 2115558,
+	"House Number": "1653",
+	"Street Name": "GARFIELD STREET",
+	"Zip": 10460,
+	"Community Board": 211,
+	"Borough Name": "Bronx",
+	"Block": 4024,
+	"Lot": 14,
+	"LONGITUDE_POINT_X": -73.86767,
+	"LATITUDE_POINT_Y": 40.84185
  },
  {
 	"Bin": 2115685,
@@ -34966,6 +35014,18 @@
 	"Lot": 57,
 	"LONGITUDE_POINT_X": -73.92574,
 	"LATITUDE_POINT_Y": 40.67236
+ },
+ {
+	"Bin": 3036352,
+	"House Number": "1612",
+	"Street Name": "PROSPECT PLACE",
+	"Zip": 11233,
+	"Community Board": 308,
+	"Borough Name": "Brooklyn",
+	"Block": 1369,
+	"Lot": 32,
+	"LONGITUDE_POINT_X": -73.92313,
+	"LATITUDE_POINT_Y": 40.67257
  },
  {
 	"Bin": 3036353,
@@ -52800,6 +52860,18 @@
 	"LATITUDE_POINT_Y": 40.64962
  },
  {
+	"Bin": 3103766,
+	"House Number": "490",
+	"Street Name": "EAST   51 STREET",
+	"Zip": 11203,
+	"Community Board": 317,
+	"Borough Name": "Brooklyn",
+	"Block": 4722,
+	"Lot": 15,
+	"LONGITUDE_POINT_X": -73.92942,
+	"LATITUDE_POINT_Y": 40.64958
+ },
+ {
 	"Bin": 3103769,
 	"House Number": "500",
 	"Street Name": "EAST   51 STREET",
@@ -55750,18 +55822,6 @@
 	"Lot": 22,
 	"LONGITUDE_POINT_X": -73.96346,
 	"LATITUDE_POINT_Y": 40.63459
- },
- {
-	"Bin": 3121157,
-	"House Number": "630",
-	"Street Name": "EAST   15 STREET",
-	"Zip": 11226,
-	"Community Board": 314,
-	"Borough Name": "Brooklyn",
-	"Block": 5235,
-	"Lot": 25,
-	"LONGITUDE_POINT_X": -73.96343,
-	"LATITUDE_POINT_Y": 40.63443
  },
  {
 	"Bin": 3121169,
@@ -71050,6 +71110,18 @@
 	"Lot": 1,
 	"LONGITUDE_POINT_X": -73.76212,
 	"LATITUDE_POINT_Y": 40.59704
+ },
+ {
+	"Bin": 4301745,
+	"House Number": "32-05",
+	"Street Name": "LEWMAY ROAD",
+	"Zip": 11691,
+	"Community Board": 414,
+	"Borough Name": "Queens",
+	"Block": 15823,
+	"Lot": 32,
+	"LONGITUDE_POINT_X": -73.76403,
+	"LATITUDE_POINT_Y": 40.59386
  },
  {
 	"Bin": 4301945,
