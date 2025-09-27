@@ -17100,18 +17100,6 @@
 	"LATITUDE_POINT_Y": 40.84682
  },
  {
-	"Bin": 2012314,
-	"House Number": "1978",
-	"Street Name": "BELMONT AVENUE",
-	"Zip": 10457,
-	"Community Board": 206,
-	"Borough Name": "Bronx",
-	"Block": 3079,
-	"Lot": 108,
-	"LONGITUDE_POINT_X": -73.89111,
-	"LATITUDE_POINT_Y": 40.84637
- },
- {
 	"Bin": 2012316,
 	"House Number": "2082",
 	"Street Name": "HUGHES AVENUE",
@@ -38496,16 +38484,16 @@
 	"LATITUDE_POINT_Y": 40.69419
  },
  {
-	"Bin": 3043229,
-	"House Number": "383",
-	"Street Name": "KOSCIUSKO STREET",
+	"Bin": 3043205,
+	"House Number": "902",
+	"Street Name": "DE KALB AVENUE",
 	"Zip": 11221,
 	"Community Board": 303,
 	"Borough Name": "Brooklyn",
 	"Block": 1601,
-	"Lot": 64,
-	"LONGITUDE_POINT_X": -73.93942,
-	"LATITUDE_POINT_Y": 40.6922
+	"Lot": 2,
+	"LONGITUDE_POINT_X": -73.93977,
+	"LATITUDE_POINT_Y": 40.69247
  },
  {
 	"Bin": 3043233,
@@ -48682,18 +48670,6 @@
 	"Lot": 31,
 	"LONGITUDE_POINT_X": -73.88836,
 	"LATITUDE_POINT_Y": 40.68213
- },
- {
-	"Bin": 3087060,
-	"House Number": "117",
-	"Street Name": "CLEVELAND STREET",
-	"Zip": 11208,
-	"Community Board": 305,
-	"Borough Name": "Brooklyn",
-	"Block": 3925,
-	"Lot": 19,
-	"LONGITUDE_POINT_X": -73.88599,
-	"LATITUDE_POINT_Y": 40.68231
  },
  {
 	"Bin": 3087516,
@@ -62686,6 +62662,18 @@
 	"Lot": 21,
 	"LONGITUDE_POINT_X": -74.01107,
 	"LATITUDE_POINT_Y": 40.64619
+ },
+ {
+	"Bin": 3341946,
+	"House Number": "50",
+	"Street Name": "VERNON AVENUE",
+	"Zip": 11206,
+	"Community Board": 303,
+	"Borough Name": "Brooklyn",
+	"Block": 1758,
+	"Lot": 36,
+	"LONGITUDE_POINT_X": -73.95008,
+	"LATITUDE_POINT_Y": 40.69429
  },
  {
 	"Bin": 3341990,
