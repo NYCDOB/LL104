@@ -4668,6 +4668,18 @@
 	"LATITUDE_POINT_Y": 40.81141
  },
  {
+	"Bin": 1059324,
+	"House Number": "167",
+	"Street Name": "MORNINGSIDE AVENUE",
+	"Zip": 10027,
+	"Community Board": 109,
+	"Borough Name": "Manhattan",
+	"Block": 1953,
+	"Lot": 4,
+	"LONGITUDE_POINT_X": -73.95309,
+	"LATITUDE_POINT_Y": 40.81223
+ },
+ {
 	"Bin": 1059329,
 	"House Number": "363",
 	"Street Name": "WEST 126 STREET",
@@ -10642,18 +10654,6 @@
 	"Lot": 48,
 	"LONGITUDE_POINT_X": -73.91394,
 	"LATITUDE_POINT_Y": 40.83411
- },
- {
-	"Bin": 2002623,
-	"House Number": "1225",
-	"Street Name": "MORRIS AVENUE",
-	"Zip": 10456,
-	"Community Board": 204,
-	"Borough Name": "Bronx",
-	"Block": 2450,
-	"Lot": 52,
-	"LONGITUDE_POINT_X": -73.91409,
-	"LATITUDE_POINT_Y": 40.83386
  },
  {
 	"Bin": 2002626,
@@ -23868,6 +23868,18 @@
 	"LATITUDE_POINT_Y": 40.85112
  },
  {
+	"Bin": 2048778,
+	"House Number": "2036",
+	"Street Name": "CRUGER AVENUE",
+	"Zip": 10462,
+	"Community Board": 211,
+	"Borough Name": "Bronx",
+	"Block": 4285,
+	"Lot": 10,
+	"LONGITUDE_POINT_X": -73.86651,
+	"LATITUDE_POINT_Y": 40.85144
+ },
+ {
 	"Bin": 2048782,
 	"House Number": "2100",
 	"Street Name": "BRONX PARK EAST",
@@ -26976,6 +26988,18 @@
 	"LATITUDE_POINT_Y": 40.89408
  },
  {
+	"Bin": 2068208,
+	"House Number": "710",
+	"Street Name": "EAST 235 STREET",
+	"Zip": 10466,
+	"Community Board": 212,
+	"Borough Name": "Bronx",
+	"Block": 4998,
+	"Lot": 66,
+	"LONGITUDE_POINT_X": -73.8562,
+	"LATITUDE_POINT_Y": 40.89451
+ },
+ {
 	"Bin": 2068222,
 	"House Number": "759",
 	"Street Name": "EAST 235 STREET",
@@ -28394,6 +28418,18 @@
  {
 	"Bin": 2092513,
 	"House Number": "2721",
+	"Street Name": "MORRIS AVENUE",
+	"Zip": 10468,
+	"Community Board": 207,
+	"Borough Name": "Bronx",
+	"Block": 3317,
+	"Lot": 43,
+	"LONGITUDE_POINT_X": -73.89568,
+	"LATITUDE_POINT_Y": 40.86834
+ },
+ {
+	"Bin": 2092514,
+	"House Number": "2719",
 	"Street Name": "MORRIS AVENUE",
 	"Zip": 10468,
 	"Community Board": 207,
@@ -54478,6 +54514,18 @@
 	"Lot": 13,
 	"LONGITUDE_POINT_X": -73.93051,
 	"LATITUDE_POINT_Y": 40.64962
+ },
+ {
+	"Bin": 3103718,
+	"House Number": "958",
+	"Street Name": "UTICA AVENUE",
+	"Zip": 11203,
+	"Community Board": 317,
+	"Borough Name": "Brooklyn",
+	"Block": 4721,
+	"Lot": 15,
+	"LONGITUDE_POINT_X": -73.9305,
+	"LATITUDE_POINT_Y": 40.64951
  },
  {
 	"Bin": 3103766,
