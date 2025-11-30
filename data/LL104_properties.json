@@ -6216,18 +6216,6 @@
 	"LATITUDE_POINT_Y": 40.82254
  },
  {
-	"Bin": 1061734,
-	"House Number": "507",
-	"Street Name": "WEST 139 STREET",
-	"Zip": 10031,
-	"Community Board": 109,
-	"Borough Name": "Manhattan",
-	"Block": 2071,
-	"Lot": 25,
-	"LONGITUDE_POINT_X": -73.95096,
-	"LATITUDE_POINT_Y": 40.82193
- },
- {
 	"Bin": 1061743,
 	"House Number": "61",
 	"Street Name": "HAMILTON PLACE",
@@ -9672,18 +9660,6 @@
 	"LATITUDE_POINT_Y": 40.81905
  },
  {
-	"Bin": 2001186,
-	"House Number": "490",
-	"Street Name": "EAST 157 STREET",
-	"Zip": 10451,
-	"Community Board": 201,
-	"Borough Name": "Bronx",
-	"Block": 2364,
-	"Lot": 10,
-	"LONGITUDE_POINT_X": -73.91235,
-	"LATITUDE_POINT_Y": 40.82067
- },
- {
 	"Bin": 2001213,
 	"House Number": "510",
 	"Street Name": "EAST 163 STREET",
@@ -11302,6 +11278,18 @@
 	"Lot": 6,
 	"LONGITUDE_POINT_X": -73.92727,
 	"LATITUDE_POINT_Y": 40.8345
+ },
+ {
+	"Bin": 2003253,
+	"House Number": "1070",
+	"Street Name": "OGDEN AVENUE",
+	"Zip": 10452,
+	"Community Board": 204,
+	"Borough Name": "Bronx",
+	"Block": 2514,
+	"Lot": 5,
+	"LONGITUDE_POINT_X": -73.92806,
+	"LATITUDE_POINT_Y": 40.83475
  },
  {
 	"Bin": 2003262,
@@ -14052,6 +14040,18 @@
 	"LATITUDE_POINT_Y": 40.81814
  },
  {
+	"Bin": 2006453,
+	"House Number": "836",
+	"Street Name": "FAILE STREET",
+	"Zip": 10474,
+	"Community Board": 202,
+	"Borough Name": "Bronx",
+	"Block": 2762,
+	"Lot": 86,
+	"LONGITUDE_POINT_X": -73.8871,
+	"LATITUDE_POINT_Y": 40.81799
+ },
+ {
 	"Bin": 2006458,
 	"House Number": "858",
 	"Street Name": "FAILE STREET",
@@ -14422,18 +14422,6 @@
 	"Lot": 11,
 	"LONGITUDE_POINT_X": -73.9083,
 	"LATITUDE_POINT_Y": 40.84357
- },
- {
-	"Bin": 2007399,
-	"House Number": "1701",
-	"Street Name": "EASTBURN AVENUE",
-	"Zip": 10457,
-	"Community Board": 204,
-	"Borough Name": "Bronx",
-	"Block": 2794,
-	"Lot": 49,
-	"LONGITUDE_POINT_X": -73.90876,
-	"LATITUDE_POINT_Y": 40.84461
  },
  {
 	"Bin": 2007412,
@@ -20940,18 +20928,6 @@
 	"LATITUDE_POINT_Y": 40.88388
  },
  {
-	"Bin": 2017797,
-	"House Number": "3551",
-	"Street Name": "DEKALB AVENUE",
-	"Zip": 10467,
-	"Community Board": 207,
-	"Borough Name": "Bronx",
-	"Block": 3328,
-	"Lot": 39,
-	"LONGITUDE_POINT_X": -73.87973,
-	"LATITUDE_POINT_Y": 40.8836
- },
- {
 	"Bin": 2017802,
 	"House Number": "3514",
 	"Street Name": "ROCHAMBEAU AVENUE",
@@ -23364,18 +23340,6 @@
 	"LATITUDE_POINT_Y": 40.83903
  },
  {
-	"Bin": 2028681,
-	"House Number": "1517",
-	"Street Name": "WHITE PLAINS ROAD",
-	"Zip": 10462,
-	"Community Board": 209,
-	"Borough Name": "Bronx",
-	"Block": 3923,
-	"Lot": 38,
-	"LONGITUDE_POINT_X": -73.86396,
-	"LATITUDE_POINT_Y": 40.83826
- },
- {
 	"Bin": 2028918,
 	"House Number": "1945",
 	"Street Name": "BENEDICT AVENUE",
@@ -24310,18 +24274,6 @@
 	"Lot": 5,
 	"LONGITUDE_POINT_X": -73.8665,
 	"LATITUDE_POINT_Y": 40.85112
- },
- {
-	"Bin": 2048778,
-	"House Number": "2036",
-	"Street Name": "CRUGER AVENUE",
-	"Zip": 10462,
-	"Community Board": 211,
-	"Borough Name": "Bronx",
-	"Block": 4285,
-	"Lot": 10,
-	"LONGITUDE_POINT_X": -73.86651,
-	"LATITUDE_POINT_Y": 40.85144
  },
  {
 	"Bin": 2048782,
@@ -26758,6 +26710,18 @@
 	"Lot": 78,
 	"LONGITUDE_POINT_X": -73.85775,
 	"LATITUDE_POINT_Y": 40.88836
+ },
+ {
+	"Bin": 2063505,
+	"House Number": "763",
+	"Street Name": "EAST 227 STREET",
+	"Zip": 10466,
+	"Community Board": 212,
+	"Borough Name": "Bronx",
+	"Block": 4841,
+	"Lot": 17,
+	"LONGITUDE_POINT_X": -73.85742,
+	"LATITUDE_POINT_Y": 40.88874
  },
  {
 	"Bin": 2063646,
@@ -29340,18 +29304,6 @@
 	"LATITUDE_POINT_Y": 40.81178
  },
  {
-	"Bin": 2099894,
-	"House Number": "585",
-	"Street Name": "EAST  189 STREET",
-	"Zip": 10458,
-	"Community Board": 206,
-	"Borough Name": "Bronx",
-	"Block": 3067,
-	"Lot": 69,
-	"LONGITUDE_POINT_X": -73.8862,
-	"LATITUDE_POINT_Y": 40.85761
- },
- {
 	"Bin": 2099975,
 	"House Number": "2262",
 	"Street Name": "WALTON AVENUE",
@@ -31116,6 +31068,18 @@
 	"LATITUDE_POINT_Y": 40.82168
  },
  {
+	"Bin": 2115877,
+	"House Number": "643",
+	"Street Name": "FAILE STREET",
+	"Zip": 10474,
+	"Community Board": 202,
+	"Borough Name": "Bronx",
+	"Block": 2766,
+	"Lot": 15,
+	"LONGITUDE_POINT_X": -73.88653,
+	"LATITUDE_POINT_Y": 40.81355
+ },
+ {
 	"Bin": 2115905,
 	"House Number": "862",
 	"Street Name": "EAST  175 STREET",
@@ -31678,6 +31642,18 @@
 	"Lot": 64,
 	"LONGITUDE_POINT_X": -73.91546,
 	"LATITUDE_POINT_Y": 40.8333
+ },
+ {
+	"Bin": 2120208,
+	"House Number": "1315",
+	"Street Name": "BOSTON ROAD",
+	"Zip": 10456,
+	"Community Board": 203,
+	"Borough Name": "Bronx",
+	"Block": 2934,
+	"Lot": 7501,
+	"LONGITUDE_POINT_X": -73.89973,
+	"LATITUDE_POINT_Y": 40.83181
  },
  {
 	"Bin": 2120287,
@@ -34176,6 +34152,18 @@
 	"LATITUDE_POINT_Y": 40.67252
  },
  {
+	"Bin": 3020686,
+	"House Number": "156",
+	"Street Name": "7 AVENUE",
+	"Zip": 11215,
+	"Community Board": 306,
+	"Borough Name": "Brooklyn",
+	"Block": 966,
+	"Lot": 39,
+	"LONGITUDE_POINT_X": -73.97739,
+	"LATITUDE_POINT_Y": 40.67236
+ },
+ {
 	"Bin": 3020778,
 	"House Number": "294",
 	"Street Name": "5 AVENUE",
@@ -34606,6 +34594,18 @@
 	"Lot": 8,
 	"LONGITUDE_POINT_X": -73.98058,
 	"LATITUDE_POINT_Y": 40.66367
+ },
+ {
+	"Bin": 3026430,
+	"House Number": "172",
+	"Street Name": "PROSPECT PARK WEST",
+	"Zip": 11215,
+	"Community Board": 306,
+	"Borough Name": "Brooklyn",
+	"Block": 1099,
+	"Lot": 40,
+	"LONGITUDE_POINT_X": -73.97881,
+	"LATITUDE_POINT_Y": 40.66273
  },
  {
 	"Bin": 3026675,
@@ -37164,6 +37164,18 @@
 	"LATITUDE_POINT_Y": 40.67119
  },
  {
+	"Bin": 3036877,
+	"House Number": "1483",
+	"Street Name": "ST JOHNS PLACE",
+	"Zip": 11213,
+	"Community Board": 308,
+	"Borough Name": "Brooklyn",
+	"Block": 1379,
+	"Lot": 63,
+	"LONGITUDE_POINT_X": -73.92958,
+	"LATITUDE_POINT_Y": 40.6708
+ },
+ {
 	"Bin": 3036891,
 	"House Number": "1598",
 	"Street Name": "STERLING PLACE",
@@ -37570,6 +37582,18 @@
 	"Lot": 49,
 	"LONGITUDE_POINT_X": -73.93182,
 	"LATITUDE_POINT_Y": 40.66732
+ },
+ {
+	"Bin": 3037796,
+	"House Number": "1746",
+	"Street Name": "UNION STREET",
+	"Zip": 11213,
+	"Community Board": 309,
+	"Borough Name": "Brooklyn",
+	"Block": 1403,
+	"Lot": 22,
+	"LONGITUDE_POINT_X": -73.9301,
+	"LATITUDE_POINT_Y": 40.66753
  },
  {
 	"Bin": 3037805,
@@ -47736,18 +47760,6 @@
 	"LATITUDE_POINT_Y": 40.68512
  },
  {
-	"Bin": 3080314,
-	"House Number": "1470",
-	"Street Name": "BUSHWICK AVENUE",
-	"Zip": 11207,
-	"Community Board": 304,
-	"Borough Name": "Brooklyn",
-	"Block": 3456,
-	"Lot": 34,
-	"LONGITUDE_POINT_X": -73.90762,
-	"LATITUDE_POINT_Y": 40.68316
- },
- {
 	"Bin": 3080319,
 	"House Number": "37",
 	"Street Name": "GRANITE STREET",
@@ -53614,6 +53626,18 @@
 	"Lot": 54,
 	"LONGITUDE_POINT_X": -73.92435,
 	"LATITUDE_POINT_Y": 40.65936
+ },
+ {
+	"Bin": 3100532,
+	"House Number": "245",
+	"Street Name": "EAST 92 STREET",
+	"Zip": 11212,
+	"Community Board": 317,
+	"Borough Name": "Brooklyn",
+	"Block": 4628,
+	"Lot": 56,
+	"LONGITUDE_POINT_X": -73.92448,
+	"LATITUDE_POINT_Y": 40.65947
  },
  {
 	"Bin": 3100542,
@@ -61956,6 +61980,18 @@
 	"LATITUDE_POINT_Y": 40.60793
  },
  {
+	"Bin": 3183830,
+	"House Number": "2125",
+	"Street Name": "CONEY ISLAND AVENUE",
+	"Zip": 11223,
+	"Community Board": 315,
+	"Borough Name": "Brooklyn",
+	"Block": 6817,
+	"Lot": 1,
+	"LONGITUDE_POINT_X": -73.9615,
+	"LATITUDE_POINT_Y": 40.60513
+ },
+ {
 	"Bin": 3183833,
 	"House Number": "1112",
 	"Street Name": "AVENUE R",
@@ -64774,18 +64810,6 @@
 	"Lot": 21,
 	"LONGITUDE_POINT_X": -74.01107,
 	"LATITUDE_POINT_Y": 40.64619
- },
- {
-	"Bin": 3341946,
-	"House Number": "50",
-	"Street Name": "VERNON AVENUE",
-	"Zip": 11206,
-	"Community Board": 303,
-	"Borough Name": "Brooklyn",
-	"Block": 1758,
-	"Lot": 36,
-	"LONGITUDE_POINT_X": -73.95008,
-	"LATITUDE_POINT_Y": 40.69429
  },
  {
 	"Bin": 3341990,
@@ -70224,18 +70248,6 @@
 	"LATITUDE_POINT_Y": 40.7388
  },
  {
-	"Bin": 4053043,
-	"House Number": "45-15",
-	"Street Name": "50 AVENUE",
-	"Zip": 11377,
-	"Community Board": 402,
-	"Borough Name": "Queens",
-	"Block": 2289,
-	"Lot": 61,
-	"LONGITUDE_POINT_X": -73.92009,
-	"LATITUDE_POINT_Y": 40.73764
- },
- {
 	"Bin": 4053064,
 	"House Number": "47-10",
 	"Street Name": "48 AVENUE",
@@ -73342,6 +73354,18 @@
 	"Lot": 88,
 	"LONGITUDE_POINT_X": -73.7895,
 	"LATITUDE_POINT_Y": 40.71009
+ },
+ {
+	"Bin": 4209845,
+	"House Number": "91-17",
+	"Street Name": " 172 STREET",
+	"Zip": 11432,
+	"Community Board": 412,
+	"Borough Name": "Queens",
+	"Block": 9808,
+	"Lot": 14,
+	"LONGITUDE_POINT_X": -73.78773,
+	"LATITUDE_POINT_Y": 40.70817
  },
  {
 	"Bin": 4210239,
@@ -76869,6 +76893,18 @@
 	"Block": 15808,
 	"Lot": 22,
 	"LONGITUDE_POINT_X": -73.76283,
+	"LATITUDE_POINT_Y": 40.59456
+ },
+ {
+	"Bin": 4532789,
+	"House Number": "193",
+	"Street Name": "BEACH   29 STREET",
+	"Zip": 11691,
+	"Community Board": 414,
+	"Borough Name": "Queens",
+	"Block": 15808,
+	"Lot": 32,
+	"LONGITUDE_POINT_X": -73.76211,
 	"LATITUDE_POINT_Y": 40.59456
  },
  {
