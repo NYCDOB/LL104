@@ -4752,18 +4752,6 @@
 	"LATITUDE_POINT_Y": 40.81028
  },
  {
-	"Bin": 1059303,
-	"House Number": "383",
-	"Street Name": "WEST 125 STREET",
-	"Zip": 10027,
-	"Community Board": 109,
-	"Borough Name": "Manhattan",
-	"Block": 1952,
-	"Lot": 1,
-	"LONGITUDE_POINT_X": -73.95369,
-	"LATITUDE_POINT_Y": 40.81149
- },
- {
 	"Bin": 1059304,
 	"House Number": "379",
 	"Street Name": "WEST 125 STREET",
@@ -14604,6 +14592,18 @@
 	"LATITUDE_POINT_Y": 40.84357
  },
  {
+	"Bin": 2007399,
+	"House Number": "1701",
+	"Street Name": "EASTBURN AVENUE",
+	"Zip": 10457,
+	"Community Board": 204,
+	"Borough Name": "Bronx",
+	"Block": 2794,
+	"Lot": 49,
+	"LONGITUDE_POINT_X": -73.90876,
+	"LATITUDE_POINT_Y": 40.84461
+ },
+ {
 	"Bin": 2007412,
 	"House Number": "1745",
 	"Street Name": "EASTBURN AVENUE",
@@ -17410,6 +17410,18 @@
 	"Lot": 2,
 	"LONGITUDE_POINT_X": -73.89229,
 	"LATITUDE_POINT_Y": 40.85831
+ },
+ {
+	"Bin": 2011406,
+	"House Number": "4682",
+	"Street Name": "PARK AVENUE",
+	"Zip": 10458,
+	"Community Board": 206,
+	"Borough Name": "Bronx",
+	"Block": 3041,
+	"Lot": 3,
+	"LONGITUDE_POINT_X": -73.89223,
+	"LATITUDE_POINT_Y": 40.85839
  },
  {
 	"Bin": 2011415,
@@ -50664,18 +50676,6 @@
 	"LATITUDE_POINT_Y": 40.66211
  },
  {
-	"Bin": 3085398,
-	"House Number": "515",
-	"Street Name": "HINSDALE STREET",
-	"Zip": 11207,
-	"Community Board": 305,
-	"Borough Name": "Brooklyn",
-	"Block": 3835,
-	"Lot": 19,
-	"LONGITUDE_POINT_X": -73.89793,
-	"LATITUDE_POINT_Y": 40.66224
- },
- {
 	"Bin": 3085400,
 	"House Number": "505",
 	"Street Name": "HINSDALE STREET",
@@ -53194,6 +53194,18 @@
 	"Lot": 71,
 	"LONGITUDE_POINT_X": -73.88817,
 	"LATITUDE_POINT_Y": 40.66294
+ },
+ {
+	"Bin": 3096795,
+	"House Number": "707",
+	"Street Name": "MILLER AVENUE",
+	"Zip": 11207,
+	"Community Board": 305,
+	"Borough Name": "Brooklyn",
+	"Block": 4304,
+	"Lot": 76,
+	"LONGITUDE_POINT_X": -73.88833,
+	"LATITUDE_POINT_Y": 40.66316
  },
  {
 	"Bin": 3096798,
@@ -57970,6 +57982,18 @@
 	"Lot": 24,
 	"LONGITUDE_POINT_X": -73.95538,
 	"LATITUDE_POINT_Y": 40.6535
+ },
+ {
+	"Bin": 3116652,
+	"House Number": "166",
+	"Street Name": "LENOX ROAD",
+	"Zip": 11226,
+	"Community Board": 317,
+	"Borough Name": "Brooklyn",
+	"Block": 5084,
+	"Lot": 42,
+	"LONGITUDE_POINT_X": -73.9538,
+	"LATITUDE_POINT_Y": 40.65356
  },
  {
 	"Bin": 3116710,
