@@ -5928,6 +5928,18 @@
 	"LATITUDE_POINT_Y": 40.82276
  },
  {
+	"Bin": 1061010,
+	"House Number": "400",
+	"Street Name": "WEST 145 STREET",
+	"Zip": 10031,
+	"Community Board": 109,
+	"Borough Name": "Manhattan",
+	"Block": 2050,
+	"Lot": 152,
+	"LONGITUDE_POINT_X": -73.94543,
+	"LATITUDE_POINT_Y": 40.82401
+ },
+ {
 	"Bin": 1061046,
 	"House Number": "141",
 	"Street Name": "EDGECOMBE AVENUE",
@@ -5950,6 +5962,18 @@
 	"Lot": 43,
 	"LONGITUDE_POINT_X": -73.94486,
 	"LATITUDE_POINT_Y": 40.82309
+ },
+ {
+	"Bin": 1061056,
+	"House Number": "348",
+	"Street Name": "WEST 145 STREET",
+	"Zip": 10039,
+	"Community Board": 109,
+	"Borough Name": "Manhattan",
+	"Block": 2051,
+	"Lot": 56,
+	"LONGITUDE_POINT_X": -73.94435,
+	"LATITUDE_POINT_Y": 40.82356
  },
  {
 	"Bin": 1061153,
@@ -19164,18 +19188,6 @@
 	"LATITUDE_POINT_Y": 40.85657
  },
  {
-	"Bin": 2013741,
-	"House Number": "2076",
-	"Street Name": "CRESTON AVENUE",
-	"Zip": 10453,
-	"Community Board": 205,
-	"Borough Name": "Bronx",
-	"Block": 3160,
-	"Lot": 14,
-	"LONGITUDE_POINT_X": -73.90366,
-	"LATITUDE_POINT_Y": 40.85363
- },
- {
 	"Bin": 2013745,
 	"House Number": "2084",
 	"Street Name": "CRESTON AVENUE",
@@ -19200,16 +19212,16 @@
 	"LATITUDE_POINT_Y": 40.86026
  },
  {
-	"Bin": 2013848,
-	"House Number": "2062",
+	"Bin": 2013850,
+	"House Number": "2192",
 	"Street Name": "MORRIS AVENUE",
 	"Zip": 10453,
 	"Community Board": 205,
 	"Borough Name": "Bronx",
-	"Block": 3169,
-	"Lot": 71,
-	"LONGITUDE_POINT_X": -73.90506,
-	"LATITUDE_POINT_Y": 40.85336
+	"Block": 3170,
+	"Lot": 15,
+	"LONGITUDE_POINT_X": -73.90298,
+	"LATITUDE_POINT_Y": 40.85583
  },
  {
 	"Bin": 2013860,
@@ -34572,6 +34584,18 @@
 	"LATITUDE_POINT_Y": 40.67065
  },
  {
+	"Bin": 3021616,
+	"House Number": "305",
+	"Street Name": "7 STREET",
+	"Zip": 11215,
+	"Community Board": 306,
+	"Borough Name": "Brooklyn",
+	"Block": 993,
+	"Lot": 55,
+	"LONGITUDE_POINT_X": -73.98608,
+	"LATITUDE_POINT_Y": 40.67102
+ },
+ {
 	"Bin": 3021631,
 	"House Number": "401",
 	"Street Name": "5 AVENUE",
@@ -45648,6 +45672,18 @@
 	"LATITUDE_POINT_Y": 40.70197
  },
  {
+	"Bin": 3072749,
+	"House Number": "1117",
+	"Street Name": "WILLOUGHBY AVENUE",
+	"Zip": 11237,
+	"Community Board": 304,
+	"Borough Name": "Brooklyn",
+	"Block": 3197,
+	"Lot": 50,
+	"LONGITUDE_POINT_X": -73.92583,
+	"LATITUDE_POINT_Y": 40.70153
+ },
+ {
 	"Bin": 3072752,
 	"House Number": "1111",
 	"Street Name": "WILLOUGHBY AVENUE",
@@ -50194,6 +50230,18 @@
 	"Lot": 22,
 	"LONGITUDE_POINT_X": -73.89441,
 	"LATITUDE_POINT_Y": 40.6676
+ },
+ {
+	"Bin": 3084507,
+	"House Number": "500",
+	"Street Name": "VERMONT STREET",
+	"Zip": 11207,
+	"Community Board": 305,
+	"Borough Name": "Brooklyn",
+	"Block": 3790,
+	"Lot": 44,
+	"LONGITUDE_POINT_X": -73.89296,
+	"LATITUDE_POINT_Y": 40.66709
  },
  {
 	"Bin": 3084512,
