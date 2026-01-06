@@ -4044,18 +4044,6 @@
 	"LATITUDE_POINT_Y": 40.80965
  },
  {
-	"Bin": 1057957,
-	"House Number": "132",
-	"Street Name": "WEST 129 STREET",
-	"Zip": 10027,
-	"Community Board": 110,
-	"Borough Name": "Manhattan",
-	"Block": 1913,
-	"Lot": 47,
-	"LONGITUDE_POINT_X": -73.94507,
-	"LATITUDE_POINT_Y": 40.81068
- },
- {
 	"Bin": 1057959,
 	"House Number": "136",
 	"Street Name": "WEST 129 STREET",
@@ -8602,18 +8590,6 @@
 	"Lot": 50,
 	"LONGITUDE_POINT_X": -73.9551,
 	"LATITUDE_POINT_Y": 40.82319
- },
- {
-	"Bin": 1079501,
-	"House Number": "2006",
-	"Street Name": "ADAM C POWELL BOULEVARD",
-	"Zip": 10027,
-	"Community Board": 110,
-	"Borough Name": "Manhattan",
-	"Block": 1926,
-	"Lot": 29,
-	"LONGITUDE_POINT_X": -73.9509,
-	"LATITUDE_POINT_Y": 40.80614
  },
  {
 	"Bin": 1079582,
@@ -29736,6 +29712,18 @@
 	"LATITUDE_POINT_Y": 40.87816
  },
  {
+	"Bin": 2100759,
+	"House Number": "1357",
+	"Street Name": "SOUTHERN BOULEVARD",
+	"Zip": 10459,
+	"Community Board": 203,
+	"Borough Name": "Bronx",
+	"Block": 2976,
+	"Lot": 82,
+	"LONGITUDE_POINT_X": -73.8912,
+	"LATITUDE_POINT_Y": 40.83228
+ },
+ {
 	"Bin": 2100800,
 	"House Number": "975",
 	"Street Name": "CAULDWELL AVENUE",
@@ -32362,6 +32350,18 @@
 	"Lot": 30,
 	"LONGITUDE_POINT_X": -73.85949,
 	"LATITUDE_POINT_Y": 40.88193
+ },
+ {
+	"Bin": 2129710,
+	"House Number": "1219",
+	"Street Name": "NELSON AVENUE",
+	"Zip": 10452,
+	"Community Board": 204,
+	"Borough Name": "Bronx",
+	"Block": 2516,
+	"Lot": 7501,
+	"LONGITUDE_POINT_X": -73.92536,
+	"LATITUDE_POINT_Y": 40.83815
  },
  {
 	"Bin": 2130520,
@@ -57972,6 +57972,18 @@
 	"LATITUDE_POINT_Y": 40.65635
  },
  {
+	"Bin": 3115843,
+	"House Number": "263",
+	"Street Name": "PARKSIDE AVENUE",
+	"Zip": 11226,
+	"Community Board": 309,
+	"Borough Name": "Brooklyn",
+	"Block": 5048,
+	"Lot": 87,
+	"LONGITUDE_POINT_X": -73.95894,
+	"LATITUDE_POINT_Y": 40.65596
+ },
+ {
 	"Bin": 3115848,
 	"House Number": "1989",
 	"Street Name": "BEDFORD AVENUE",
@@ -62578,6 +62590,18 @@
 	"Lot": 65,
 	"LONGITUDE_POINT_X": -73.96791,
 	"LATITUDE_POINT_Y": 40.63037
+ },
+ {
+	"Bin": 3170297,
+	"House Number": "334",
+	"Street Name": "FOSTER AVENUE",
+	"Zip": 11230,
+	"Community Board": 314,
+	"Borough Name": "Brooklyn",
+	"Block": 6501,
+	"Lot": 13,
+	"LONGITUDE_POINT_X": -73.97363,
+	"LATITUDE_POINT_Y": 40.62868
  },
  {
 	"Bin": 3170343,
