@@ -4020,18 +4020,6 @@
 	"LATITUDE_POINT_Y": 40.80504
  },
  {
-	"Bin": 1057659,
-	"House Number": "168",
-	"Street Name": "WEST 121 STREET",
-	"Zip": 10027,
-	"Community Board": 110,
-	"Borough Name": "Manhattan",
-	"Block": 1905,
-	"Lot": 62,
-	"LONGITUDE_POINT_X": -73.94997,
-	"LATITUDE_POINT_Y": 40.80606
- },
- {
 	"Bin": 1057675,
 	"House Number": "2021",
 	"Street Name": "7 AVENUE",
@@ -7162,6 +7150,18 @@
 	"Lot": 29,
 	"LONGITUDE_POINT_X": -73.94247,
 	"LATITUDE_POINT_Y": 40.83361
+ },
+ {
+	"Bin": 1062751,
+	"House Number": "540",
+	"Street Name": "WEST 159 STREET",
+	"Zip": 10032,
+	"Community Board": 112,
+	"Borough Name": "Manhattan",
+	"Block": 2117,
+	"Lot": 16,
+	"LONGITUDE_POINT_X": -73.94305,
+	"LATITUDE_POINT_Y": 40.83468
  },
  {
 	"Bin": 1062752,
@@ -35448,18 +35448,6 @@
 	"LATITUDE_POINT_Y": 40.68069
  },
  {
-	"Bin": 3027731,
-	"House Number": "785",
-	"Street Name": "DEAN STREET",
-	"Zip": 11238,
-	"Community Board": 308,
-	"Borough Name": "Brooklyn",
-	"Block": 1132,
-	"Lot": 71,
-	"LONGITUDE_POINT_X": -73.9638,
-	"LATITUDE_POINT_Y": 40.67951
- },
- {
 	"Bin": 3027816,
 	"House Number": "552",
 	"Street Name": "DEAN STREET",
@@ -36790,6 +36778,18 @@
 	"Lot": 52,
 	"LONGITUDE_POINT_X": -73.94827,
 	"LATITUDE_POINT_Y": 40.67268
+ },
+ {
+	"Bin": 3031673,
+	"House Number": "1069",
+	"Street Name": "STERLING PLACE",
+	"Zip": 11213,
+	"Community Board": 308,
+	"Borough Name": "Brooklyn",
+	"Block": 1243,
+	"Lot": 54,
+	"LONGITUDE_POINT_X": -73.94318,
+	"LATITUDE_POINT_Y": 40.67238
  },
  {
 	"Bin": 3031803,
@@ -40930,6 +40930,18 @@
 	"Lot": 41,
 	"LONGITUDE_POINT_X": -73.93454,
 	"LATITUDE_POINT_Y": 40.69389
+ },
+ {
+	"Bin": 3043162,
+	"House Number": "63",
+	"Street Name": "STUYVESANT AVENUE",
+	"Zip": 11221,
+	"Community Board": 303,
+	"Borough Name": "Brooklyn",
+	"Block": 1599,
+	"Lot": 6,
+	"LONGITUDE_POINT_X": -73.93393,
+	"LATITUDE_POINT_Y": 40.69387
  },
  {
 	"Bin": 3043176,
@@ -45430,18 +45442,6 @@
 	"Lot": 9,
 	"LONGITUDE_POINT_X": -73.941,
 	"LATITUDE_POINT_Y": 40.72018
- },
- {
-	"Bin": 3070143,
-	"House Number": "243",
-	"Street Name": "JACKSON STREET",
-	"Zip": 11211,
-	"Community Board": 301,
-	"Borough Name": "Brooklyn",
-	"Block": 2875,
-	"Lot": 58,
-	"LONGITUDE_POINT_X": -73.94056,
-	"LATITUDE_POINT_Y": 40.71715
  },
  {
 	"Bin": 3070195,
@@ -52546,18 +52546,6 @@
 	"Lot": 52,
 	"LONGITUDE_POINT_X": -73.8679,
 	"LATITUDE_POINT_Y": 40.68685
- },
- {
-	"Bin": 3092054,
-	"House Number": "298",
-	"Street Name": "RIDGEWOOD AVENUE",
-	"Zip": 11208,
-	"Community Board": 305,
-	"Borough Name": "Brooklyn",
-	"Block": 4126,
-	"Lot": 34,
-	"LONGITUDE_POINT_X": -73.87765,
-	"LATITUDE_POINT_Y": 40.684
  },
  {
 	"Bin": 3092110,
@@ -61368,6 +61356,18 @@
 	"LATITUDE_POINT_Y": 40.62987
  },
  {
+	"Bin": 3142464,
+	"House Number": "6602",
+	"Street Name": "  12 AVENUE",
+	"Zip": 11219,
+	"Community Board": 310,
+	"Borough Name": "Brooklyn",
+	"Block": 5759,
+	"Lot": 38,
+	"LONGITUDE_POINT_X": -74.00469,
+	"LATITUDE_POINT_Y": 40.62677
+ },
+ {
 	"Bin": 3142466,
 	"House Number": "6608",
 	"Street Name": "12 AVENUE",
@@ -61510,6 +61510,18 @@
 	"Lot": 34,
 	"LONGITUDE_POINT_X": -74.01672,
 	"LATITUDE_POINT_Y": 40.63951
+ },
+ {
+	"Bin": 3143446,
+	"House Number": "6024",
+	"Street Name": "5 AVENUE",
+	"Zip": 11220,
+	"Community Board": 307,
+	"Borough Name": "Brooklyn",
+	"Block": 5782,
+	"Lot": 42,
+	"LONGITUDE_POINT_X": -74.01693,
+	"LATITUDE_POINT_Y": 40.63914
  },
  {
 	"Bin": 3143451,
@@ -70776,18 +70788,6 @@
 	"LATITUDE_POINT_Y": 40.74494
  },
  {
-	"Bin": 4030805,
-	"House Number": "41-45",
-	"Street Name": "52 STREET",
-	"Zip": 11377,
-	"Community Board": 402,
-	"Borough Name": "Queens",
-	"Block": 1315,
-	"Lot": 78,
-	"LONGITUDE_POINT_X": -73.91219,
-	"LATITUDE_POINT_Y": 40.74446
- },
- {
 	"Bin": 4030809,
 	"House Number": "41-29",
 	"Street Name": "53 STREET",
@@ -79174,6 +79174,18 @@
 	"Lot": 58,
 	"LONGITUDE_POINT_X": -73.88655,
 	"LATITUDE_POINT_Y": 40.70465
+ },
+ {
+	"Bin": 4537806,
+	"House Number": "171",
+	"Street Name": "BEACH   90 STREET",
+	"Zip": 11693,
+	"Community Board": 414,
+	"Borough Name": "Queens",
+	"Block": 16133,
+	"Lot": 30,
+	"LONGITUDE_POINT_X": -73.81356,
+	"LATITUDE_POINT_Y": 40.58624
  },
  {
 	"Bin": 4537872,
