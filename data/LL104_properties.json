@@ -8520,18 +8520,6 @@
 	"LATITUDE_POINT_Y": 40.87704
  },
  {
-	"Bin": 1064645,
-	"House Number": "18",
-	"Street Name": "JACOBUS PLACE",
-	"Zip": 10463,
-	"Community Board": 208,
-	"Borough Name": "Manhattan",
-	"Block": 2215,
-	"Lot": 481,
-	"LONGITUDE_POINT_X": -73.91134,
-	"LATITUDE_POINT_Y": 40.87537
- },
- {
 	"Bin": 1064669,
 	"House Number": "109",
 	"Street Name": "WEST 225 STREET",
@@ -37740,6 +37728,18 @@
 	"LATITUDE_POINT_Y": 40.67105
  },
  {
+	"Bin": 3032263,
+	"House Number": "721",
+	"Street Name": "LINCOLN PLACE",
+	"Zip": 11216,
+	"Community Board": 308,
+	"Borough Name": "Brooklyn",
+	"Block": 1254,
+	"Lot": 63,
+	"LONGITUDE_POINT_X": -73.95232,
+	"LATITUDE_POINT_Y": 40.67115
+ },
+ {
 	"Bin": 3032635,
 	"House Number": "521",
 	"Street Name": "EASTERN PARKWAY",
@@ -54684,6 +54684,18 @@
 	"LATITUDE_POINT_Y": 40.66265
  },
  {
+	"Bin": 3096790,
+	"House Number": "725",
+	"Street Name": "MILLER AVENUE",
+	"Zip": 11207,
+	"Community Board": 305,
+	"Borough Name": "Brooklyn",
+	"Block": 4304,
+	"Lot": 68,
+	"LONGITUDE_POINT_X": -73.88806,
+	"LATITUDE_POINT_Y": 40.6628
+ },
+ {
 	"Bin": 3096792,
 	"House Number": "719",
 	"Street Name": "MILLER AVENUE",
@@ -64620,18 +64632,6 @@
 	"LATITUDE_POINT_Y": 40.61148
  },
  {
-	"Bin": 3182783,
-	"House Number": "2990",
-	"Street Name": "NOSTRAND AVENUE",
-	"Zip": 11229,
-	"Community Board": 315,
-	"Borough Name": "Brooklyn",
-	"Block": 6792,
-	"Lot": 14,
-	"LONGITUDE_POINT_X": -73.94428,
-	"LATITUDE_POINT_Y": 40.61136
- },
- {
 	"Bin": 3182961,
 	"House Number": "1739",
 	"Street Name": "EAST 14 STREET",
@@ -73668,6 +73668,18 @@
 	"LATITUDE_POINT_Y": 40.70916
  },
  {
+	"Bin": 4081790,
+	"House Number": "402",
+	"Street Name": "ONDERDONK AVENUE",
+	"Zip": 11385,
+	"Community Board": 405,
+	"Borough Name": "Queens",
+	"Block": 3427,
+	"Lot": 30,
+	"LONGITUDE_POINT_X": -73.9135,
+	"LATITUDE_POINT_Y": 40.70741
+ },
+ {
 	"Bin": 4081840,
 	"House Number": "17-08",
 	"Street Name": "STANHOPE STREET",
@@ -75022,6 +75034,18 @@
 	"Lot": 63,
 	"LONGITUDE_POINT_X": -73.87724,
 	"LATITUDE_POINT_Y": 40.71163
+ },
+ {
+	"Bin": 4091640,
+	"House Number": "68-04",
+	"Street Name": "79 STREET",
+	"Zip": 11379,
+	"Community Board": 405,
+	"Borough Name": "Queens",
+	"Block": 3779,
+	"Lot": 25,
+	"LONGITUDE_POINT_X": -73.8737,
+	"LATITUDE_POINT_Y": 40.71096
  },
  {
 	"Bin": 4093677,
