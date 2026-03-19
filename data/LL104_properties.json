@@ -20376,18 +20376,6 @@
 	"LATITUDE_POINT_Y": 40.85213
  },
  {
-	"Bin": 2013663,
-	"House Number": "2055",
-	"Street Name": "RYER AVENUE",
-	"Zip": 10457,
-	"Community Board": 205,
-	"Borough Name": "Bronx",
-	"Block": 3156,
-	"Lot": 68,
-	"LONGITUDE_POINT_X": -73.90148,
-	"LATITUDE_POINT_Y": 40.85215
- },
- {
 	"Bin": 2013692,
 	"House Number": "2100",
 	"Street Name": "ANTHONY AVENUE",
@@ -24022,6 +24010,18 @@
 	"Lot": 52,
 	"LONGITUDE_POINT_X": -73.85759,
 	"LATITUDE_POINT_Y": 40.82756
+ },
+ {
+	"Bin": 2025779,
+	"House Number": "1931",
+	"Street Name": "HAVILAND AVENUE",
+	"Zip": 10472,
+	"Community Board": 209,
+	"Borough Name": "Bronx",
+	"Block": 3791,
+	"Lot": 84,
+	"LONGITUDE_POINT_X": -73.8595,
+	"LATITUDE_POINT_Y": 40.82953
  },
  {
 	"Bin": 2025872,
@@ -35026,6 +35026,18 @@
 	"Lot": 1,
 	"LONGITUDE_POINT_X": -74.00603,
 	"LATITUDE_POINT_Y": 40.6454
+ },
+ {
+	"Bin": 3011977,
+	"House Number": "648",
+	"Street Name": "  46 STREET",
+	"Zip": 11220,
+	"Community Board": 307,
+	"Borough Name": "Brooklyn",
+	"Block": 758,
+	"Lot": 26,
+	"LONGITUDE_POINT_X": -74.00482,
+	"LATITUDE_POINT_Y": 40.64515
  },
  {
 	"Bin": 3011987,
