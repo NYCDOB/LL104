@@ -6372,6 +6372,18 @@
 	"LATITUDE_POINT_Y": 40.82095
  },
  {
+	"Bin": 1060811,
+	"House Number": "2743",
+	"Street Name": "8 AVENUE",
+	"Zip": 10039,
+	"Community Board": 110,
+	"Borough Name": "Manhattan",
+	"Block": 2045,
+	"Lot": 30,
+	"LONGITUDE_POINT_X": -73.94162,
+	"LATITUDE_POINT_Y": 40.8238
+ },
+ {
 	"Bin": 1060812,
 	"House Number": "2745",
 	"Street Name": "   8 AVENUE",
@@ -7870,6 +7882,18 @@
 	"Lot": 13,
 	"LONGITUDE_POINT_X": -73.94098,
 	"LATITUDE_POINT_Y": 40.83674
+ },
+ {
+	"Bin": 1062924,
+	"House Number": "3900",
+	"Street Name": "BROADWAY",
+	"Zip": 10032,
+	"Community Board": 112,
+	"Borough Name": "Manhattan",
+	"Block": 2122,
+	"Lot": 58,
+	"LONGITUDE_POINT_X": -73.94162,
+	"LATITUDE_POINT_Y": 40.83783
  },
  {
 	"Bin": 1062932,
@@ -34308,18 +34332,6 @@
 	"LATITUDE_POINT_Y": 40.68205
  },
  {
-	"Bin": 3005130,
-	"House Number": "1",
-	"Street Name": "   2 PLACE",
-	"Zip": 11231,
-	"Community Board": 306,
-	"Borough Name": "Brooklyn",
-	"Block": 360,
-	"Lot": 56,
-	"LONGITUDE_POINT_X": -74.00086,
-	"LATITUDE_POINT_Y": 40.68078
- },
- {
 	"Bin": 3005145,
 	"House Number": "74",
 	"Street Name": "   1 PLACE",
@@ -60588,6 +60600,18 @@
 	"LATITUDE_POINT_Y": 40.64893
  },
  {
+	"Bin": 3117104,
+	"House Number": "91",
+	"Street Name": "EAST   18 STREET",
+	"Zip": 11226,
+	"Community Board": 314,
+	"Borough Name": "Brooklyn",
+	"Block": 5099,
+	"Lot": 35,
+	"LONGITUDE_POINT_X": -73.96267,
+	"LATITUDE_POINT_Y": 40.64909
+ },
+ {
 	"Bin": 3117107,
 	"House Number": "50",
 	"Street Name": "EAST 19 STREET",
@@ -60658,6 +60682,18 @@
 	"Lot": 29,
 	"LONGITUDE_POINT_X": -73.9602,
 	"LATITUDE_POINT_Y": 40.64867
+ },
+ {
+	"Bin": 3117147,
+	"House Number": "268",
+	"Street Name": "EAST 21 STREET",
+	"Zip": 11226,
+	"Community Board": 314,
+	"Borough Name": "Brooklyn",
+	"Block": 5101,
+	"Lot": 44,
+	"LONGITUDE_POINT_X": -73.95971,
+	"LATITUDE_POINT_Y": 40.64769
  },
  {
 	"Bin": 3117284,
@@ -69432,6 +69468,18 @@
 	"LATITUDE_POINT_Y": 40.66564
  },
  {
+	"Bin": 3389302,
+	"House Number": "720",
+	"Street Name": "NEW LOTS AVENUE",
+	"Zip": 11207,
+	"Community Board": 305,
+	"Borough Name": "Brooklyn",
+	"Block": 4311,
+	"Lot": 107,
+	"LONGITUDE_POINT_X": -73.88367,
+	"LATITUDE_POINT_Y": 40.6657
+ },
+ {
 	"Bin": 3389320,
 	"House Number": "422",
 	"Street Name": "AMBER STREET",
@@ -77458,6 +77506,18 @@
 	"Lot": 5,
 	"LONGITUDE_POINT_X": -73.79251,
 	"LATITUDE_POINT_Y": 40.7115
+ },
+ {
+	"Bin": 4210598,
+	"House Number": "175-27",
+	"Street Name": "WEXFORD TERRACE",
+	"Zip": 11432,
+	"Community Board": 408,
+	"Borough Name": "Queens",
+	"Block": 9845,
+	"Lot": 1,
+	"LONGITUDE_POINT_X": -73.7877,
+	"LATITUDE_POINT_Y": 40.71298
  },
  {
 	"Bin": 4210634,
