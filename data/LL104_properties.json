@@ -22140,18 +22140,6 @@
 	"LATITUDE_POINT_Y": 40.87079
  },
  {
-	"Bin": 2017188,
-	"House Number": "2873",
-	"Street Name": "VALENTINE AVENUE",
-	"Zip": 10458,
-	"Community Board": 207,
-	"Borough Name": "Bronx",
-	"Block": 3305,
-	"Lot": 62,
-	"LONGITUDE_POINT_X": -73.88966,
-	"LATITUDE_POINT_Y": 40.87005
- },
- {
 	"Bin": 2017269,
 	"House Number": "234",
 	"Street Name": "EAST 204 STREET",
@@ -61738,6 +61726,18 @@
 	"Lot": 43,
 	"LONGITUDE_POINT_X": -73.98164,
 	"LATITUDE_POINT_Y": 40.64526
+ },
+ {
+	"Bin": 3123712,
+	"House Number": "159",
+	"Street Name": "TEHAMA STREET",
+	"Zip": 11218,
+	"Community Board": 312,
+	"Borough Name": "Brooklyn",
+	"Block": 5308,
+	"Lot": 1,
+	"LONGITUDE_POINT_X": -73.98544,
+	"LATITUDE_POINT_Y": 40.6431
  },
  {
 	"Bin": 3123713,
