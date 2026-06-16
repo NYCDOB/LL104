@@ -6384,18 +6384,6 @@
 	"LATITUDE_POINT_Y": 40.82872
  },
  {
-	"Bin": 1060906,
-	"House Number": "91",
-	"Street Name": "EDGECOMBE AVENUE",
-	"Zip": 10030,
-	"Community Board": 110,
-	"Borough Name": "Manhattan",
-	"Block": 2048,
-	"Lot": 16,
-	"LONGITUDE_POINT_X": -73.9465,
-	"LATITUDE_POINT_Y": 40.81956
- },
- {
 	"Bin": 1060913,
 	"House Number": "330",
 	"Street Name": "WEST 141 STREET",
@@ -9934,6 +9922,18 @@
 	"Lot": 27,
 	"LONGITUDE_POINT_X": -73.91909,
 	"LATITUDE_POINT_Y": 40.80721
+ },
+ {
+	"Bin": 2000037,
+	"House Number": "518",
+	"Street Name": "EAST 138 STREET",
+	"Zip": 10454,
+	"Community Board": 201,
+	"Borough Name": "Bronx",
+	"Block": 2265,
+	"Lot": 29,
+	"LONGITUDE_POINT_X": -73.91897,
+	"LATITUDE_POINT_Y": 40.80715
  },
  {
 	"Bin": 2000039,
@@ -21370,6 +21370,18 @@
 	"Lot": 56,
 	"LONGITUDE_POINT_X": -73.89033,
 	"LATITUDE_POINT_Y": 40.86628
+ },
+ {
+	"Bin": 2016634,
+	"House Number": "2701",
+	"Street Name": "MARION AVENUE",
+	"Zip": 10458,
+	"Community Board": 207,
+	"Borough Name": "Bronx",
+	"Block": 3287,
+	"Lot": 81,
+	"LONGITUDE_POINT_X": -73.88999,
+	"LATITUDE_POINT_Y": 40.86572
  },
  {
 	"Bin": 2016639,
@@ -33226,6 +33238,18 @@
 	"Lot": 1552,
 	"LONGITUDE_POINT_X": -73.89706,
 	"LATITUDE_POINT_Y": 40.91105
+ },
+ {
+	"Bin": 2125658,
+	"House Number": "720",
+	"Street Name": "EAST  151 STREET",
+	"Zip": 10455,
+	"Community Board": 201,
+	"Borough Name": "Bronx",
+	"Block": 2642,
+	"Lot": 14,
+	"LONGITUDE_POINT_X": -73.90826,
+	"LATITUDE_POINT_Y": 40.81491
  },
  {
 	"Bin": 2126615,
@@ -47376,6 +47400,18 @@
 	"LATITUDE_POINT_Y": 40.69714
  },
  {
+	"Bin": 3073103,
+	"House Number": "128",
+	"Street Name": "SUYDAM STREET",
+	"Zip": 11221,
+	"Community Board": 304,
+	"Borough Name": "Brooklyn",
+	"Block": 3217,
+	"Lot": 18,
+	"LONGITUDE_POINT_X": -73.92776,
+	"LATITUDE_POINT_Y": 40.69844
+ },
+ {
 	"Bin": 3073107,
 	"House Number": "619",
 	"Street Name": "HART STREET",
@@ -53472,6 +53508,18 @@
 	"LATITUDE_POINT_Y": 40.66421
  },
  {
+	"Bin": 3090639,
+	"House Number": "665",
+	"Street Name": "MILLER AVENUE",
+	"Zip": 11207,
+	"Community Board": 305,
+	"Borough Name": "Brooklyn",
+	"Block": 4087,
+	"Lot": 5,
+	"LONGITUDE_POINT_X": -73.8888,
+	"LATITUDE_POINT_Y": 40.66428
+ },
+ {
 	"Bin": 3090641,
 	"House Number": "659",
 	"Street Name": "MILLER AVENUE",
@@ -53902,6 +53950,18 @@
 	"Lot": 12,
 	"LONGITUDE_POINT_X": -73.87373,
 	"LATITUDE_POINT_Y": 40.67759
+ },
+ {
+	"Bin": 3094310,
+	"House Number": "1059",
+	"Street Name": "GLENMORE AVENUE",
+	"Zip": 11208,
+	"Community Board": 305,
+	"Borough Name": "Brooklyn",
+	"Block": 4197,
+	"Lot": 26,
+	"LONGITUDE_POINT_X": -73.87096,
+	"LATITUDE_POINT_Y": 40.67708
  },
  {
 	"Bin": 3094338,
@@ -64606,6 +64666,18 @@
 	"Lot": 79,
 	"LONGITUDE_POINT_X": -73.97314,
 	"LATITUDE_POINT_Y": 40.6057
+ },
+ {
+	"Bin": 3177556,
+	"House Number": "1719",
+	"Street Name": "EAST    8 STREET",
+	"Zip": 11223,
+	"Community Board": 315,
+	"Borough Name": "Brooklyn",
+	"Block": 6665,
+	"Lot": 25,
+	"LONGITUDE_POINT_X": -73.96444,
+	"LATITUDE_POINT_Y": 40.60705
  },
  {
 	"Bin": 3177557,
