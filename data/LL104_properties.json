@@ -5724,18 +5724,6 @@
 	"LATITUDE_POINT_Y": 40.81864
  },
  {
-	"Bin": 1060107,
-	"House Number": "141",
-	"Street Name": "WEST 142 STREET",
-	"Zip": 10030,
-	"Community Board": 110,
-	"Borough Name": "Manhattan",
-	"Block": 2011,
-	"Lot": 15,
-	"LONGITUDE_POINT_X": -73.93904,
-	"LATITUDE_POINT_Y": 40.81936
- },
- {
 	"Bin": 1060113,
 	"House Number": "123",
 	"Street Name": "WEST  142 STREET",
@@ -8518,6 +8506,18 @@
 	"Lot": 530,
 	"LONGITUDE_POINT_X": -73.9105,
 	"LATITUDE_POINT_Y": 40.87461
+ },
+ {
+	"Bin": 1064670,
+	"House Number": "2",
+	"Street Name": "MARBLE HILL AVENUE",
+	"Zip": 10463,
+	"Community Board": 208,
+	"Borough Name": "Manhattan",
+	"Block": 2215,
+	"Lot": 534,
+	"LONGITUDE_POINT_X": -73.91067,
+	"LATITUDE_POINT_Y": 40.87471
  },
  {
 	"Bin": 1064685,
@@ -36360,6 +36360,18 @@
 	"LATITUDE_POINT_Y": 40.67838
  },
  {
+	"Bin": 3028306,
+	"House Number": "634",
+	"Street Name": "FRANKLIN AVENUE",
+	"Zip": 11238,
+	"Community Board": 308,
+	"Borough Name": "Brooklyn",
+	"Block": 1149,
+	"Lot": 52,
+	"LONGITUDE_POINT_X": -73.95622,
+	"LATITUDE_POINT_Y": 40.67651
+ },
+ {
 	"Bin": 3028328,
 	"House Number": "459",
 	"Street Name": "ST MARKS AVENUE",
@@ -39022,6 +39034,18 @@
 	"Lot": 13,
 	"LONGITUDE_POINT_X": -73.93023,
 	"LATITUDE_POINT_Y": 40.67119
+ },
+ {
+	"Bin": 3036884,
+	"House Number": "225",
+	"Street Name": "ROCHESTER AVENUE",
+	"Zip": 11213,
+	"Community Board": 308,
+	"Borough Name": "Brooklyn",
+	"Block": 1380,
+	"Lot": 8,
+	"LONGITUDE_POINT_X": -73.92783,
+	"LATITUDE_POINT_Y": 40.67101
  },
  {
 	"Bin": 3036901,
@@ -59232,18 +59256,6 @@
 	"LATITUDE_POINT_Y": 40.63601
  },
  {
-	"Bin": 3114595,
-	"House Number": "552",
-	"Street Name": "FLATBUSH AVENUE",
-	"Zip": 11225,
-	"Community Board": 309,
-	"Borough Name": "Brooklyn",
-	"Block": 5026,
-	"Lot": 70,
-	"LONGITUDE_POINT_X": -73.96095,
-	"LATITUDE_POINT_Y": 40.66026
- },
- {
 	"Bin": 3114646,
 	"House Number": "700",
 	"Street Name": "FLATBUSH AVENUE",
@@ -59842,18 +59854,6 @@
 	"Lot": 104,
 	"LONGITUDE_POINT_X": -73.95866,
 	"LATITUDE_POINT_Y": 40.65244
- },
- {
-	"Bin": 3116659,
-	"House Number": "730",
-	"Street Name": "ROGERS AVENUE",
-	"Zip": 11226,
-	"Community Board": 317,
-	"Borough Name": "Brooklyn",
-	"Block": 5084,
-	"Lot": 61,
-	"LONGITUDE_POINT_X": -73.95316,
-	"LATITUDE_POINT_Y": 40.65299
  },
  {
 	"Bin": 3116660,
