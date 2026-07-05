@@ -24372,18 +24372,6 @@
 	"LATITUDE_POINT_Y": 40.83886
  },
  {
-	"Bin": 2028365,
-	"House Number": "363",
-	"Street Name": "BRONX PARK AVENUE",
-	"Zip": 10460,
-	"Community Board": 206,
-	"Borough Name": "Bronx",
-	"Block": 3906,
-	"Lot": 84,
-	"LONGITUDE_POINT_X": -73.87639,
-	"LATITUDE_POINT_Y": 40.83919
- },
- {
 	"Bin": 2028424,
 	"House Number": "1539",
 	"Street Name": "ROSEDALE AVENUE",
@@ -40932,6 +40920,18 @@
 	"LATITUDE_POINT_Y": 40.68449
  },
  {
+	"Bin": 3040234,
+	"House Number": "753",
+	"Street Name": "MAC DONOUGH STREET",
+	"Zip": 11233,
+	"Community Board": 316,
+	"Borough Name": "Brooklyn",
+	"Block": 1498,
+	"Lot": 61,
+	"LONGITUDE_POINT_X": -73.91621,
+	"LATITUDE_POINT_Y": 40.68441
+ },
+ {
 	"Bin": 3040236,
 	"House Number": "747",
 	"Street Name": "MAC DONOUGH STREET",
@@ -53808,6 +53808,18 @@
 	"LATITUDE_POINT_Y": 40.67913
  },
  {
+	"Bin": 3093561,
+	"House Number": "393",
+	"Street Name": "CRESCENT STREET",
+	"Zip": 11208,
+	"Community Board": 305,
+	"Borough Name": "Brooklyn",
+	"Block": 4170,
+	"Lot": 104,
+	"LONGITUDE_POINT_X": -73.8707,
+	"LATITUDE_POINT_Y": 40.67921
+ },
+ {
 	"Bin": 3093563,
 	"House Number": "140",
 	"Street Name": "MC KINLEY AVENUE",
@@ -59986,6 +59998,18 @@
 	"Lot": 104,
 	"LONGITUDE_POINT_X": -73.95866,
 	"LATITUDE_POINT_Y": 40.65244
+ },
+ {
+	"Bin": 3116644,
+	"House Number": "114",
+	"Street Name": "LENOX ROAD",
+	"Zip": 11226,
+	"Community Board": 317,
+	"Borough Name": "Brooklyn",
+	"Block": 5084,
+	"Lot": 24,
+	"LONGITUDE_POINT_X": -73.95538,
+	"LATITUDE_POINT_Y": 40.6535
  },
  {
 	"Bin": 3116660,
