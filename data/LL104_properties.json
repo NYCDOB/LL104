@@ -7740,18 +7740,6 @@
 	"LATITUDE_POINT_Y": 40.84157
  },
  {
-	"Bin": 1063044,
-	"House Number": "555",
-	"Street Name": "WEST 170 STREET",
-	"Zip": 10032,
-	"Community Board": 112,
-	"Borough Name": "Manhattan",
-	"Block": 2127,
-	"Lot": 23,
-	"LONGITUDE_POINT_X": -73.9379,
-	"LATITUDE_POINT_Y": 40.84212
- },
- {
 	"Bin": 1063071,
 	"House Number": "517",
 	"Street Name": "WEST 171 STREET",
@@ -39792,6 +39780,18 @@
 	"LATITUDE_POINT_Y": 40.67598
  },
  {
+	"Bin": 3038604,
+	"House Number": "2276",
+	"Street Name": "ATLANTIC AVENUE",
+	"Zip": 11233,
+	"Community Board": 316,
+	"Borough Name": "Brooklyn",
+	"Block": 1435,
+	"Lot": 16,
+	"LONGITUDE_POINT_X": -73.91003,
+	"LATITUDE_POINT_Y": 40.67599
+ },
+ {
 	"Bin": 3038610,
 	"House Number": "2292",
 	"Street Name": "ATLANTIC AVENUE",
@@ -60694,6 +60694,18 @@
 	"Lot": 81,
 	"LONGITUDE_POINT_X": -73.9515,
 	"LATITUDE_POINT_Y": 40.64449
+ },
+ {
+	"Bin": 3119172,
+	"House Number": "1047",
+	"Street Name": "ROGERS AVENUE",
+	"Zip": 11226,
+	"Community Board": 317,
+	"Borough Name": "Brooklyn",
+	"Block": 5171,
+	"Lot": 82,
+	"LONGITUDE_POINT_X": -73.95151,
+	"LATITUDE_POINT_Y": 40.64456
  },
  {
 	"Bin": 3119197,
