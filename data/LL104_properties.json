@@ -5196,18 +5196,6 @@
 	"LATITUDE_POINT_Y": 40.81665
  },
  {
-	"Bin": 1059533,
-	"House Number": "457",
-	"Street Name": "WEST 125 STREET",
-	"Zip": 10027,
-	"Community Board": 109,
-	"Borough Name": "Manhattan",
-	"Block": 1966,
-	"Lot": 42,
-	"LONGITUDE_POINT_X": -73.95554,
-	"LATITUDE_POINT_Y": 40.81303
- },
- {
 	"Bin": 1059558,
 	"House Number": "464",
 	"Street Name": "WEST 126 STREET",
@@ -38832,18 +38820,6 @@
 	"LATITUDE_POINT_Y": 40.67268
  },
  {
-	"Bin": 3036275,
-	"House Number": "185",
-	"Street Name": "UTICA AVENUE",
-	"Zip": 11213,
-	"Community Board": 308,
-	"Borough Name": "Brooklyn",
-	"Block": 1367,
-	"Lot": 2,
-	"LONGITUDE_POINT_X": -73.93048,
-	"LATITUDE_POINT_Y": 40.67255
- },
- {
 	"Bin": 3036279,
 	"House Number": "175",
 	"Street Name": "UTICA AVENUE",
@@ -48538,6 +48514,18 @@
 	"Lot": 30,
 	"LONGITUDE_POINT_X": -73.91287,
 	"LATITUDE_POINT_Y": 40.7039
+ },
+ {
+	"Bin": 3075611,
+	"House Number": "58",
+	"Street Name": "BLEECKER STREET",
+	"Zip": 11221,
+	"Community Board": 304,
+	"Borough Name": "Brooklyn",
+	"Block": 3305,
+	"Lot": 16,
+	"LONGITUDE_POINT_X": -73.92197,
+	"LATITUDE_POINT_Y": 40.69401
  },
  {
 	"Bin": 3075613,
