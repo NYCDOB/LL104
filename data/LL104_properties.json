@@ -19632,18 +19632,6 @@
 	"LATITUDE_POINT_Y": 40.86026
  },
  {
-	"Bin": 2013818,
-	"House Number": "2550",
-	"Street Name": "CRESTON AVENUE",
-	"Zip": 10468,
-	"Community Board": 207,
-	"Borough Name": "Bronx",
-	"Block": 3167,
-	"Lot": 38,
-	"LONGITUDE_POINT_X": -73.897,
-	"LATITUDE_POINT_Y": 40.86395
- },
- {
 	"Bin": 2013820,
 	"House Number": "2565",
 	"Street Name": "GRAND CONCOURSE",
@@ -35302,6 +35290,18 @@
 	"Lot": 60,
 	"LONGITUDE_POINT_X": -74.02142,
 	"LATITUDE_POINT_Y": 40.64296
+ },
+ {
+	"Bin": 3016406,
+	"House Number": "740",
+	"Street Name": "  59 STREET",
+	"Zip": 11220,
+	"Community Board": 307,
+	"Borough Name": "Brooklyn",
+	"Block": 866,
+	"Lot": 24,
+	"LONGITUDE_POINT_X": -74.01029,
+	"LATITUDE_POINT_Y": 40.6366
  },
  {
 	"Bin": 3016526,
@@ -59772,6 +59772,18 @@
 	"LATITUDE_POINT_Y": 40.65427
  },
  {
+	"Bin": 3116394,
+	"House Number": "66",
+	"Street Name": "ARGYLE ROAD",
+	"Zip": 11218,
+	"Community Board": 314,
+	"Borough Name": "Brooklyn",
+	"Block": 5073,
+	"Lot": 32,
+	"LONGITUDE_POINT_X": -73.9679,
+	"LATITUDE_POINT_Y": 40.64797
+ },
+ {
 	"Bin": 3116402,
 	"House Number": "1201",
 	"Street Name": "CHURCH AVENUE",
@@ -71436,6 +71448,18 @@
 	"LATITUDE_POINT_Y": 40.7627
  },
  {
+	"Bin": 4009062,
+	"House Number": "30-85",
+	"Street Name": "34 STREET",
+	"Zip": 11103,
+	"Community Board": 401,
+	"Borough Name": "Queens",
+	"Block": 626,
+	"Lot": 11,
+	"LONGITUDE_POINT_X": -73.92046,
+	"LATITUDE_POINT_Y": 40.76355
+ },
+ {
 	"Bin": 4009175,
 	"House Number": "28-52",
 	"Street Name": "35 STREET",
@@ -79010,6 +79034,18 @@
  {
 	"Bin": 4431424,
 	"House Number": "34-19",
+	"Street Name": "  90 STREET",
+	"Zip": 11372,
+	"Community Board": 403,
+	"Borough Name": "Queens",
+	"Block": 1451,
+	"Lot": 47,
+	"LONGITUDE_POINT_X": -73.87714,
+	"LATITUDE_POINT_Y": 40.75356
+ },
+ {
+	"Bin": 4431426,
+	"House Number": "34-47",
 	"Street Name": "  90 STREET",
 	"Zip": 11372,
 	"Community Board": 403,
