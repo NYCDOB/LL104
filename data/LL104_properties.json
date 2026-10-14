@@ -3096,6 +3096,18 @@
 	"LATITUDE_POINT_Y": 40.80392
  },
  {
+	"Bin": 1053262,
+	"House Number": "2",
+	"Street Name": "WEST 120 STREET",
+	"Zip": 10027,
+	"Community Board": 110,
+	"Borough Name": "Manhattan",
+	"Block": 1718,
+	"Lot": 37,
+	"LONGITUDE_POINT_X": -73.94509,
+	"LATITUDE_POINT_Y": 40.80318
+ },
+ {
 	"Bin": 1053292,
 	"House Number": "81",
 	"Street Name": "WEST 119 STREET",
@@ -3682,6 +3694,18 @@
 	"Lot": 150,
 	"LONGITUDE_POINT_X": -73.93771,
 	"LATITUDE_POINT_Y": 40.80337
+ },
+ {
+	"Bin": 1054487,
+	"House Number": "2085",
+	"Street Name": "LEXINGTON AVENUE",
+	"Zip": 10035,
+	"Community Board": 111,
+	"Borough Name": "Manhattan",
+	"Block": 1774,
+	"Lot": 51,
+	"LONGITUDE_POINT_X": -73.93686,
+	"LATITUDE_POINT_Y": 40.80477
  },
  {
 	"Bin": 1054525,
@@ -10930,6 +10954,18 @@
 	"Lot": 29,
 	"LONGITUDE_POINT_X": -73.90923,
 	"LATITUDE_POINT_Y": 40.83163
+ },
+ {
+	"Bin": 2001652,
+	"House Number": "578",
+	"Street Name": "COURTLANDT AVENUE",
+	"Zip": 10451,
+	"Community Board": 201,
+	"Borough Name": "Bronx",
+	"Block": 2397,
+	"Lot": 3,
+	"LONGITUDE_POINT_X": -73.91887,
+	"LATITUDE_POINT_Y": 40.81737
  },
  {
 	"Bin": 2001654,
@@ -20340,6 +20376,18 @@
 	"LATITUDE_POINT_Y": 40.85213
  },
  {
+	"Bin": 2013692,
+	"House Number": "2100",
+	"Street Name": "ANTHONY AVENUE",
+	"Zip": 10457,
+	"Community Board": 205,
+	"Borough Name": "Bronx",
+	"Block": 3156,
+	"Lot": 136,
+	"LONGITUDE_POINT_X": -73.9012,
+	"LATITUDE_POINT_Y": 40.85378
+ },
+ {
 	"Bin": 2013695,
 	"House Number": "2105",
 	"Street Name": "RYER AVENUE",
@@ -20566,6 +20614,18 @@
 	"Lot": 16,
 	"LONGITUDE_POINT_X": -73.89928,
 	"LATITUDE_POINT_Y": 40.86287
+ },
+ {
+	"Bin": 2013924,
+	"House Number": "66",
+	"Street Name": "EAST 190 STREET",
+	"Zip": 10468,
+	"Community Board": 207,
+	"Borough Name": "Bronx",
+	"Block": 3174,
+	"Lot": 26,
+	"LONGITUDE_POINT_X": -73.89866,
+	"LATITUDE_POINT_Y": 40.86284
  },
  {
 	"Bin": 2013966,
@@ -23638,6 +23698,18 @@
 	"Lot": 99,
 	"LONGITUDE_POINT_X": -73.87188,
 	"LATITUDE_POINT_Y": 40.82783
+ },
+ {
+	"Bin": 2024071,
+	"House Number": "1128",
+	"Street Name": "METCALF AVENUE",
+	"Zip": 10472,
+	"Community Board": 209,
+	"Borough Name": "Bronx",
+	"Block": 3747,
+	"Lot": 103,
+	"LONGITUDE_POINT_X": -73.87194,
+	"LATITUDE_POINT_Y": 40.8281
  },
  {
 	"Bin": 2024074,
@@ -41208,18 +41280,6 @@
 	"LATITUDE_POINT_Y": 40.67372
  },
  {
-	"Bin": 3039078,
-	"House Number": "339",
-	"Street Name": "SARATOGA AVENUE",
-	"Zip": 11233,
-	"Community Board": 316,
-	"Borough Name": "Brooklyn",
-	"Block": 1453,
-	"Lot": 11,
-	"LONGITUDE_POINT_X": -73.91641,
-	"LATITUDE_POINT_Y": 40.67409
- },
- {
 	"Bin": 3039108,
 	"House Number": "2044",
 	"Street Name": "BERGEN STREET",
@@ -48910,18 +48970,6 @@
 	"Lot": 32,
 	"LONGITUDE_POINT_X": -73.92934,
 	"LATITUDE_POINT_Y": 40.69714
- },
- {
-	"Bin": 3073093,
-	"House Number": "547",
-	"Street Name": "HART STREET",
-	"Zip": 11221,
-	"Community Board": 304,
-	"Borough Name": "Brooklyn",
-	"Block": 3215,
-	"Lot": 39,
-	"LONGITUDE_POINT_X": -73.9298,
-	"LATITUDE_POINT_Y": 40.69685
  },
  {
 	"Bin": 3073103,
@@ -67570,6 +67618,18 @@
 	"Lot": 17,
 	"LONGITUDE_POINT_X": -74.00236,
 	"LATITUDE_POINT_Y": 40.5763
+ },
+ {
+	"Bin": 3188690,
+	"House Number": "2832",
+	"Street Name": "WEST   36 STREET",
+	"Zip": 11224,
+	"Community Board": 313,
+	"Borough Name": "Brooklyn",
+	"Block": 7004,
+	"Lot": 21,
+	"LONGITUDE_POINT_X": -74.00233,
+	"LATITUDE_POINT_Y": 40.57616
  },
  {
 	"Bin": 3188696,
