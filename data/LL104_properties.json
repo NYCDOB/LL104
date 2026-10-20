@@ -1812,18 +1812,6 @@
 	"LATITUDE_POINT_Y": 40.77244
  },
  {
-	"Bin": 1045252,
-	"House Number": "355",
-	"Street Name": "EAST   78 STREET",
-	"Zip": 10075,
-	"Community Board": 108,
-	"Borough Name": "Manhattan",
-	"Block": 1453,
-	"Lot": 23,
-	"LONGITUDE_POINT_X": -73.95342,
-	"LATITUDE_POINT_Y": 40.77188
- },
- {
 	"Bin": 1046008,
 	"House Number": "1490",
 	"Street Name": "1 AVENUE",
@@ -3718,6 +3706,18 @@
 	"Lot": 150,
 	"LONGITUDE_POINT_X": -73.93771,
 	"LATITUDE_POINT_Y": 40.80337
+ },
+ {
+	"Bin": 1054487,
+	"House Number": "2085",
+	"Street Name": "LEXINGTON AVENUE",
+	"Zip": 10035,
+	"Community Board": 111,
+	"Borough Name": "Manhattan",
+	"Block": 1774,
+	"Lot": 51,
+	"LONGITUDE_POINT_X": -73.93686,
+	"LATITUDE_POINT_Y": 40.80477
  },
  {
 	"Bin": 1054525,
@@ -37272,6 +37272,18 @@
 	"LATITUDE_POINT_Y": 40.66628
  },
  {
+	"Bin": 3023251,
+	"House Number": "331",
+	"Street Name": "13 STREET",
+	"Zip": 11215,
+	"Community Board": 306,
+	"Borough Name": "Brooklyn",
+	"Block": 1030,
+	"Lot": 1,
+	"LONGITUDE_POINT_X": -73.98561,
+	"LATITUDE_POINT_Y": 40.6656
+ },
+ {
 	"Bin": 3023300,
 	"House Number": "351",
 	"Street Name": "13 STREET",
@@ -39408,6 +39420,18 @@
 	"LATITUDE_POINT_Y": 40.66847
  },
  {
+	"Bin": 3033481,
+	"House Number": "1585",
+	"Street Name": "BEDFORD AVENUE",
+	"Zip": 11225,
+	"Community Board": 309,
+	"Borough Name": "Brooklyn",
+	"Block": 1281,
+	"Lot": 11,
+	"LONGITUDE_POINT_X": -73.95564,
+	"LATITUDE_POINT_Y": 40.66812
+ },
+ {
 	"Bin": 3033527,
 	"House Number": "1160",
 	"Street Name": "PRESIDENT STREET",
@@ -39562,6 +39586,18 @@
 	"Lot": 52,
 	"LONGITUDE_POINT_X": -73.95403,
 	"LATITUDE_POINT_Y": 40.66248
+ },
+ {
+	"Bin": 3035135,
+	"House Number": "506",
+	"Street Name": "EMPIRE BOULEVARD",
+	"Zip": 11225,
+	"Community Board": 309,
+	"Borough Name": "Brooklyn",
+	"Block": 1323,
+	"Lot": 17,
+	"LONGITUDE_POINT_X": -73.9452,
+	"LATITUDE_POINT_Y": 40.66386
  },
  {
 	"Bin": 3035219,
@@ -43714,18 +43750,6 @@
 	"Lot": 6,
 	"LONGITUDE_POINT_X": -73.93839,
 	"LATITUDE_POINT_Y": 40.68664
- },
- {
-	"Bin": 3044798,
-	"House Number": "536",
-	"Street Name": "MONROE STREET",
-	"Zip": 11221,
-	"Community Board": 303,
-	"Borough Name": "Brooklyn",
-	"Block": 1639,
-	"Lot": 35,
-	"LONGITUDE_POINT_X": -73.93639,
-	"LATITUDE_POINT_Y": 40.68687
  },
  {
 	"Bin": 3045160,
@@ -59002,6 +59026,18 @@
 	"Lot": 24,
 	"LONGITUDE_POINT_X": -73.92612,
 	"LATITUDE_POINT_Y": 40.65453
+ },
+ {
+	"Bin": 3101545,
+	"House Number": "179",
+	"Street Name": "EAST   54 STREET",
+	"Zip": 11203,
+	"Community Board": 317,
+	"Borough Name": "Brooklyn",
+	"Block": 4660,
+	"Lot": 39,
+	"LONGITUDE_POINT_X": -73.9265,
+	"LATITUDE_POINT_Y": 40.65462
  },
  {
 	"Bin": 3101565,
